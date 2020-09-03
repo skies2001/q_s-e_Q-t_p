@@ -150,6 +150,7 @@ a.linkPage {
     color: #00aeef;
     font-size: 100px;
     font-weight: lighter;
+    font-family: 'Noto Serif JP', serif;
 }
 
 #mainHanja > .bottom {
