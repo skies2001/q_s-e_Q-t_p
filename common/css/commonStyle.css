@@ -2,8 +2,6 @@ html,
 body {
     height: 100%;
     margin: 0;
-    /* Reset default margin on the body element */
-    font-family: 'Noto Sans JP', sans-serif;
 }
 
 div.sub001,
@@ -66,7 +64,6 @@ a.linkPage {
 }
 
 .sub008 {
-    font-family: 'M PLUS Rounded 1c', sans-serif;
     font-size: 30px;
 }
 
