@@ -1,6 +1,10 @@
 [
 
 {  "subjectName" : "そく(음)、あし、た",
+   "mainHanja" : {
+     "top" : "足",
+     "bottom": "발 족"
+   },
    "detailGrp"  : [
       { "detailName" : "不足（ぶそく）부족",
         "detailContJap" : "運動不足で体力(たいりょく)が弱い",
@@ -17,6 +21,10 @@
    ]
 },
 {  "subjectName" : "さ、ひだり",
+   "mainHanja" : {
+     "top" : "左",
+     "bottom": "왼 좌"
+   },
    "detailGrp"  : [
       { "detailName" : "左右（さゆう）좌우",
         "detailContJap" : "靴の左右をあべこべに履く",

@@ -91,15 +91,21 @@ $(document).ready(function(){
                 var detailContKor = "";
                 var cpyHtml = null;
                 var cpyDetalGrp = null;
+                var mainHanjaTop = "";
+                var mainHanjaBottom = "";
 
                 $.each(rsltList, function(idx, data){
-                    subjectNum  = idx+1;
-                    subjectName = data.subjectName;
-                    detailGrp   = data.detailGrp;
-                    cpyHtml     = $(document.createElement("div"));
+                    subjectNum   = idx+1;
+                    subjectName  = data.subjectName;
+                    mainHanjaTop = data.mainHanja.top;
+                    mainHanjaBottom = data.mainHanja.bottom;
+                    detailGrp    = data.detailGrp;
+                    cpyHtml      = $(document.createElement("div"));
                     cpyHtml.html(templateHtml.html());
                     cpyHtml.find(".subjectNum").text("[" + subjectNum + "]");
                     cpyHtml.find(".subjectName").text(subjectName);
+                    cpyHtml.find("#mainHanja > .top > span").text(mainHanjaTop);
+                    cpyHtml.find("#mainHanja > .bottom > span").text(mainHanjaBottom);
 
                     $.each(detailGrp, function(subIdx, subData){
                         detailNum  = subIdx+1;
@@ -133,12 +139,13 @@ $(document).ready(function(){
                 });
 
                 baseHtml.find("i.sub003").addClass(buttonIcon);
+           
 
-                $.each(baseHtml.find(".hanjaImg"), function(idx, item){
-                    var itemName = String(idx+1).padStart(imagePadCount, "0");
-                    var imgPath  =  imageHeadPath + itemName + imageTailPath;
-                    $(item).attr("src",imgPath)
-                });
+//                $.each(baseHtml.find(".hanjaImg"), function(idx, item){
+//                    var itemName = String(idx+1).padStart(imagePadCount, "0");
+//                    var imgPath  =  imageHeadPath + itemName + imageTailPath;
+//                    $(item).attr("src",imgPath)
+//                });
                 
                 $("#loadHtml").html(baseHtml.html());
                 playBtns = $("#loadHtml").find(clickEvLoc);
