@@ -45,11 +45,11 @@ a.linkPage {
     display: block;
 }
 .sub007{
-    font-size: 40px ;
+    font-size: 60px ;
 }
 .sub008{
     font-family: 'M PLUS Rounded 1c', sans-serif ;
-    font-size: 15px;
+    font-size: 30px;
 }
 #loadLinkBtn{
     position: fixed;
@@ -57,6 +57,9 @@ a.linkPage {
     text-align: center;
     top: 10%;
     right: 8px;
+}
+#loadHtml{
+    width: calc(100% - 160px);
 }
 #loadLinkBtn *{
     font-size: 35px;
