@@ -27,6 +27,7 @@ function loadLinkBtn(target, maxBtnCnt){
 $(document).ready(function(){
     var cmmInfo      = null;
     var templateHtml = null;
+    var audioList    = {};
     $.ajax({
           url : "../data/cmmInfo.json"
         , dataType : "json"
@@ -70,6 +71,9 @@ $(document).ready(function(){
         var imageTailPath = cmmInfo.image.tailPath;
         var buttonIcon    = cmmInfo.btnAwsIcon;
         var clickEvLoc    = ".clickEv001:not([style*='display: none'])";
+        var playBtns      = null;
+        
+        audioList = {};
 
         $("#moveTop").trigger("click");
 
@@ -135,22 +139,20 @@ $(document).ready(function(){
                     var imgPath  =  imageHeadPath + itemName + imageTailPath;
                     $(item).attr("src",imgPath)
                 });
-
-
-                $.each(baseHtml.find(clickEvLoc), function(idx, item){
-                    var itemName  = String(idx+1).padStart(audioPadCount, "0");
-                    var audioObj  = $(document.createElement("audio"));
-                    var audioPath = audioHeadPath + itemName + audioTailPath;
-                    audioObj.attr("src", audioPath).attr("type",audioType);
-                    baseHtml.append(audioObj);
-                });
-
+                
                 $("#loadHtml").html(baseHtml.html());
-
-                $.each($("#loadHtml").find(clickEvLoc), function(idx, item){
-                    $(item).click(function(){
-                        $("audio")[idx].play();
-                    });
+                playBtns = $("#loadHtml").find(clickEvLoc);
+                
+                playBtns.click(function(){
+                    var curPos    = playBtns.index(this)+1; 
+                    var itemName  = String(curPos).padStart(audioPadCount, "0");
+                    var audioPath = "";
+                    
+                    if(!audioList.hasOwnProperty(itemName)){
+                        audioPath = audioHeadPath + itemName + audioTailPath;
+                        audioList[itemName] = new Audio(audioPath);   
+                    }
+                    audioList[itemName].play();
                 });
             }
         });
