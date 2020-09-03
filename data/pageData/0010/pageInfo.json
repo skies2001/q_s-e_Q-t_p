@@ -1,0 +1,60 @@
+[
+
+{  "subjectName" : "そん、むら",
+   "mainHanja" : {
+      "top" : "村",
+      "bottom": "마을 촌"
+  },
+   "detailGrp"  : [
+      { "detailName" : "農村（のうそん）농촌",
+        "detailContJap" : "農村の感じが強くない?",
+        "detailContKor" : "농촌 느낌이 강하지 않어?"
+      },
+      { "detailName" : "村（むら）마을",
+        "detailContJap" : "家族を連れて村を去る",
+        "detailContKor" : "가족을 대리고 마을을 떠나다"
+      }
+   ]
+},
+{  "subjectName" : "しゅつ、すい、で、だ",
+   "mainHanja" : {
+      "top" : "出",
+      "bottom": "날 출"
+  },
+   "detailGrp"  : [
+      { "detailName" : "外出（がいしゅつ）외출",
+        "detailContJap" : "ふだん着(ぎ)のままで外出する",
+        "detailContKor" : "평상복을 차림으로 외출하다"
+      },
+      { "detailName" : "出納（すいとう）출납",
+          "detailContJap" : "図書(としょ)の出納",
+        "detailContKor" : "도서의 출납"
+      },
+      { "detailName" : "出(で)る 나오다, 나가다",
+        "detailContJap" : "地を割って芽が出る",
+        "detailContKor" : "땅을 뚫고 싹이 나오다"
+      },
+      { "detailName" : "出(だ)す 꺼내다, 내밀다",
+        "detailContJap" : "人の金に手を出すな",
+        "detailContKor" : "남의 돈에 손대지 마라"
+      }
+   ]
+},
+{  "subjectName" : "ちゅう、むし",
+   "mainHanja" : {
+      "top" : "虫",
+      "bottom": "벌레 충"
+  },
+   "detailGrp"  : [
+      { "detailName" : "害虫（がいちゅう）해충",
+        "detailContJap" : "害虫を焼殺(しょうさつ)する",
+        "detailContKor" : "해충을 태워 죽이다"
+      },
+      { "detailName" : "虫（むし）벌레",
+        "detailContJap" : "小鳥は虫を食って生きていく",
+        "detailContKor" : "작은 새는 벌레를 잡아먹고 산다"
+      }
+   ]
+}
+
+]

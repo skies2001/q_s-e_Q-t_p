@@ -1,0 +1,25 @@
+<!-- favicon.ico 404 (Not Found) -->
+<link rel="icon" href="data:;base64,iVBORw0KGgo=">
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300&family=Noto+Sans+JP&display=swap" rel="stylesheet">
+<!--
+font-family: 'M PLUS Rounded 1c', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
+-->
+
+
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    /* Reset default margin on the body element */
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+
+
+.sub008 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 30px;
+}
