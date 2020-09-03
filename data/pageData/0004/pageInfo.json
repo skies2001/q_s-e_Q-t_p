@@ -1,0 +1,113 @@
+[
+
+{  "subectName" : "ほん、もと",
+   "detailGrp"  : [
+      { "detailName" : "本当（ほんとう）정말, 사실",
+        "detailContJap" : "本当に彼が犯人だろうかわからない",
+        "detailContKor" : "정말 그가 범인인지 알 수 없다"
+      },
+      { "detailName" : "本（もと）근본, 바탕, 타고남",
+        "detailContJap" : "本",
+        "detailContKor" : "근본",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "し、いと",
+   "detailGrp"  : [
+      { "detailName" : "綿糸（めんし）면사, 면실",
+        "detailContJap" : "綿糸の作り方",
+        "detailContKor" : "무명실 만드는 법"
+      },
+      { "detailName" : "糸（いと）실",
+        "detailContJap" : "糸から放れた凧",
+        "detailContKor" : "실에서 떨어져 나간 연"
+      }
+   ]
+},
+{  "subjectName" : "し(음)、よ、よっ、よん",
+   "detailGrp"  : [
+      { "detailName" : "四季（しき）사계",
+        "detailContJap" : "四季の移り変わり",
+        "detailContKor" : "사계의 변화"
+      },
+      { "detailName" : "四時（よじ）4시",
+        "detailContJap" : "四時にお邪魔します",
+        "detailContKor" : "4시에 방문드리겠습니다."
+      },
+      { "detailName" : "四(よっ)つ 넷, 4개",
+        "detailContJap" : "四つの部分からなっている",
+        "detailContKor" : "네 부분으로 되어 있다"
+      },
+      { "detailName" : "四枚（よんまい）4장",
+        "detailContJap" : "四枚目のミニアルバム",
+        "detailContKor" : "4번째 미니앨범"
+      }
+   ]
+},
+{  "subjectName" : "さん、やま",
+   "detailGrp"  : [
+      { "detailName" : "山地（さんち）산지",
+        "detailContJap" : "山地では気温が低い",
+        "detailContKor" : "산지에서는 기온이 낮다"
+      },
+      { "detailName" : "山（やま）산",
+        "detailContJap" : "山がそびえ立っている",
+        "detailContKor" : "산이 우뚝 서 있다"
+      }
+   ]
+},
+{  "subjectName" : "さん(음)、み、みつ",
+   "detailGrp"  : [
+      { "detailName" : "三時（さんじ）3시",
+        "detailContJap" : "銀行は三時で閉まる",
+        "detailContKor" : "은행은 3시에 문을 닫는다"
+      },
+      { "detailName" : "三(み)つ葉(ば) 세 잎",
+        "detailContJap" : "三つ葉の卵焼き",
+        "detailContKor" : "세 잎 계란말이"
+      },
+      { "detailName" : "三(みっ)つ 셋, 3개",
+        "detailContJap" : "三つの悪い癖",
+        "detailContKor" : "세 가지 나쁜 버릇"
+      }
+   ]
+},
+{  "subjectName" : "しん、もり",
+   "detailGrp"  : [
+      { "detailName" : "森林（しんりん）산림",
+        "detailContJap" : "森林保護",
+        "detailContKor" : "산림보호"
+      },
+      { "detailName" : "森（もり）숲",
+        "detailContJap" : "森の奥まで行こう",
+        "detailContKor" : "숲 안쪽까지 가자"
+      }
+   ]
+},
+{  "subjectName" : "じょう、しょう(음)、うえ、かみ、うわ、あ、のぼ",
+   "detailGrp"  : [
+      { "detailName" : "上下（じょうげ）상하",
+        "detailContJap" : "瞳を上下に動かす",
+        "detailContKor" : "눈동자를 위아래로 움직이다"
+      },
+      { "detailName" : "上（うえ、かみ）위, 위쪽",
+        "detailContJap" : "飛行機が雲の上を飛ぶ",
+        "detailContKor" : "비행기가 구름 위를 날다"
+      },
+      { "detailName" : "上着（うわぎ）윗옷",
+        "detailContJap" : "暑いので上着を脱ぐ",
+        "detailContKor" : "더워서 윗옷를 벗다"
+      },
+      { "detailName" : "上(あ)がる 올라가다",
+        "detailContJap" : "米価が上がるものと見込まれる",
+        "detailContKor" : "쌀값이 오를 것으로 전망된다"
+      },
+      { "detailName" : "上(のぼ)り 상행",
+        "detailContJap" : "上りにかかる",
+        "detailContKor" : "오르막길에 접어들다"
+      }
+   ]
+}
+
+]

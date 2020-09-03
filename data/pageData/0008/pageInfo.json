@@ -1,0 +1,129 @@
+[
+
+{  "subjectName" : "にゅう(음)、はい、い",
+   "detailGrp"  : [
+      { "detailName" : "入学（にゅうがく）입학",
+        "detailContJap" : "大学にやっとのことで入学した",
+        "detailContKor" : "대학에 턱걸이로 입학했다"
+      },
+      { "detailName" : "入(はい、い)る 들어가다, 들어오다",
+        "detailContJap" : "髪を刈って軍隊(ぐんたい)に入る",
+        "detailContKor" : "머리를 깎고 군대에 입대하다"
+      },
+      { "detailName" : "入(い)れる 넣다",
+        "detailContJap" : "箱の中に入れる",
+        "detailContKor" : "상자 속에 넣다"
+      }
+   ]
+},
+{  "subjectName" : "し、す、こ(훈)",
+   "detailGrp"  : [
+      { "detailName" : "子女（しじょ）자녀",
+        "detailContJap" : "子女の教育(きょういく)",
+        "detailContKor" : "자녀 교육"
+      },
+      { "detailName" : "椅子（いす）의자",
+        "detailContJap" : "椅子を少しだけよけてください",
+        "detailContKor" : "의자를 조금만 비켜 주세요"
+      },
+      { "detailName" : "子（こ）아이, 자식",
+        "detailContJap" : "お腹の子が動く",
+        "detailContKor" : "배 속의 아이가 움직이다"
+      }
+   ]
+},
+{  "subjectName" : "じ、あざ",
+   "detailGrp"  : [
+      { "detailName" : "字幕（じまく）자막",
+        "detailContJap" : "バラエティーを見ながら字幕を。。。",
+        "detailContKor" : "버라이어티를 보면서 자막을..."
+      },
+      { "detailName" : "漢字（かんじ）한자",
+        "detailContJap" : "漢字の読み方",
+        "detailContKor" : "한자 읽는 법"
+      },
+      { "detailName" : "字（あざな）별명",
+        "detailContJap" : "字",
+        "detailContKor" : "별명",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "せき、しゃく、あか(훈)",
+   "detailGrp"  : [
+      { "detailName" : "赤道（せきどう）적도",
+        "detailContJap" : "赤道を通過(つうか)する",
+        "detailContKor" : "적도를 통과하다"
+      },
+      { "detailName" : "赤銅（しゃくどう）적동(색)",
+        "detailContJap" : "赤銅の肌",
+        "detailContKor" : "구릿빛 피부"
+      },
+      { "detailName" : "赤(あか)い 붉다, 빨갛다",
+        "detailContJap" : "首に赤い斑点(はんてん)ができた",
+        "detailContKor" : "목에 붉은 반점이 생겼다"
+      }
+   ]
+},
+{  "subjectName" : "でん、た",
+   "detailGrp"  : [
+      { "detailName" : "田園（でんえん）전원(시골)",
+        "detailContJap" : "引退(いんたい)して田園で暮らす",
+        "detailContKor" : "은퇴해서 전원에 살다"
+      },
+      { "detailName" : "田（た）논",
+        "detailContJap" : "田を耕(たがや)す",
+        "detailContKor" : "논을 갈다"
+      }
+   ]
+},
+{  "subjectName" : "せい、しょう、ただ、まさ",
+   "detailGrp"  : [
+      { "detailName" : "正式（せいしき）정식",
+        "detailContJap" : "正式に学(まな)びたい気持ちですか？",
+        "detailContKor" : "정식으로 배울 마음이요?"
+      },
+      { "detailName" : "正直（しょうじき）정직",
+        "detailContJap" : "隠さないで正直に答えなさい",
+        "detailContKor" : "숨기지 말고 정직하게 대답해라"
+      },
+      { "detailName" : "正(ただ)しい 옳다, 바르다",
+        "detailContJap" : "正しい文に丸をつけよ",
+        "detailContKor" : "맞는 글에 동그라미를 쳐라"
+      },
+      { "detailName" : "正(まさ)に 확실히, 꼭",
+        "detailContJap" : "彼こそ正に私の探している人だ",
+        "detailContKor" : "그 사람이야말로 바로 내가 찾고 있는 사람이다"
+      }
+   ]
+},
+{  "subjectName" : "ちょう、まち",
+   "detailGrp"  : [
+      { "detailName" : "町（ちょう）정, 읍",
+        "detailContJap" : "各(かく)町ごとに色々な催(もよお)しが行(おこな)われる",
+        "detailContKor" : "각 읍마다 다양한 행사가 열린다"
+      },
+      { "detailName" : "町（まち）시내, 동네",
+        "detailContJap" : "町を一巡(ひとめぐ)りする",
+        "detailContKor" : "거리를 한 바퀴 돌다"
+      }
+   ]
+},
+{  "subjectName" : "そう、さっ、はや(훈)",
+   "detailGrp"  : [
+      { "detailName" : "早退（そうたい）조퇴",
+        "detailContJap" : "病気(びょうき)で早退する",
+        "detailContKor" : "병으로 조퇴하다"
+      },
+      { "detailName" : "早速（さっそく）당장",
+        "detailContJap" : "お注文(ちゅうもん)の品は早速お届(とど)けいたします",
+        "detailContKor" : "주문하신 물건은 곧 보내드리겠습니다"
+      },
+      { "detailName" : "早(はや)い (시간적으로) 이르다, 빠르다",
+        "detailContJap" : "約束の時間より５分ほど早い",
+        "detailContKor" : "약속 시간보다 5분정도 빠르다"
+      }
+   ]
+}
+
+]

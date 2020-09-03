@@ -1,0 +1,118 @@
+[
+
+{  "subjectName" : "けん、いぬ",
+   "detailGrp"  : [
+      { "detailName" : "愛犬（あいけん）애견",
+        "detailContJap" : "あなたの愛犬の犬種は何？",
+        "detailContKor" : "당신의 애견 견종은 뭐야?"
+      },
+      { "detailName" : "犬（いぬ）개",
+         "detailContJap" : "その犬は人によく馴れていない",
+         "detailContKor" : "그 개는 사람을 잘  따르지 않는다"
+      }
+   ]
+},
+{  "subjectName" : "けん、み",
+   "detailGrp"  : [
+      { "detailName" : "見学（けんがく）견학",
+        "detailContJap" : "見学に来る",
+        "detailContKor" : "견학을 오다"
+      },
+      { "detailName" : "見(み)る 보다",
+         "detailContJap" : "見ると聞くとは別だ",
+         "detailContKor" : "보는것과 듣는 것은 다르다"
+      }
+   ]
+},
+{  "subjectName" : "くう(음)、そら、から、あ",
+   "detailGrp"  : [
+      { "detailName" : "空気（くうき）공기",
+        "detailContJap" : "冬に冷たい空気を吸う",
+        "detailContKor" : "겨울의 찬공기를 마시다"
+      },
+      { "detailName" : "空（そら）하늘",
+        "detailContJap" : "雨もよいの空",
+        "detailContKor" : "비가 올 듯한 날씨"
+      },
+      { "detailName" : "空（から）텅 빔",
+        "detailContJap" : "宝くじがみんな空だ",
+        "detailContKor" : "복권이 모두 꽝이다"
+      },
+      { "detailName" : "空(あ)く 비다",
+        "detailContJap" : "席が空く",
+        "detailContKor" : "자리가 비다"
+
+      }
+   ]
+
+},
+{  "subjectName" : "こう(음)",
+   "detailGrp"  : [
+      { "detailName" : "学校（がんこう）학교",
+        "detailContJap" : "学校へ行く道で先生に会った",
+        "detailContKor" : "학교 가는 길에 선생님을 만났다"
+      },
+      { "detailName" : "校長（こうちょう）교장",
+        "detailContJap" : "校長先生",
+        "detailContKor" : "교장선생님"
+      }
+   ]
+},
+{  "subjectName" : "きゅう、く、ここの(훈)",
+   "detailGrp"  : [
+      { "detailName" : "九人（きゅうにん）9명",
+        "detailContJap" : "九人が新登場",
+        "detailContKor" : "아홉명이 신등장"
+      },
+      { "detailName" : "九時（くじ）9시",
+        "detailContJap" : "もう直ぐ九時だ",
+        "detailContKor" : "이제 곧 9시다"
+      },
+      { "detailName" : "九（ここの）つ 아홉, 9개",
+        "detailContJap" : "九つになる子",
+        "detailContKor" : "아홉 살이 되는 아이"
+      },
+      { "detailName" : "九日（ここんか）9일",
+        "detailContJap" : "九月九日",
+        "detailContKor" : "9월 9일"
+      }
+   ]
+},
+{  "subjectName" : "こう、く、くち(훈)",
+   "detailGrp"  : [
+      { "detailName" : "人口（じんこう）인구",
+        "detailContJap" : "人口密集地域",
+        "detailContKor" : "인구 밀집 지역"
+      },
+      { "detailName" : "口調（くちょう）말투",
+        "detailContJap" : "木村さんが子どもの口調で！",
+        "detailContKor" : "기무라씨가 어린이 말투로!"
+      },
+      { "detailName" : "口（くち）입",
+        "detailContJap" : "その子は口が軽い",
+        "detailContKor" : "그 애는 입이 가볍다"
+      }
+   ]
+},
+{  "subjectName" : "きん、こん、かね、かな",
+   "detailGrp"  : [
+      { "detailName" : "金曜日（きんようび）금요일",
+        "detailContJap" : "金曜日の夜、金曜日だっけ？",
+        "detailContKor" : "금요일밤, 금요일인가?"
+      },
+      { "detailName" : "金銅（こんどう）금동",
+        "detailContJap" : "金銅の仏像",
+        "detailContKor" : "금동 불상"
+      },
+      { "detailName" : "お金(かね) 돈",
+        "detailContJap" : "お前お金ちょっとある？",
+        "detailContKor" : "너 돈 좀 있어?"
+      },
+      { "detailName" : "金具（かなぐ）금속 부품",
+        "detailContJap" : "金具がかちゃかちゃいう",
+        "detailContKor" : "쇠장식이 짤그랑거리다"
+      }
+   ]
+}
+
+]

@@ -1,0 +1,21 @@
+{
+      "image" : {
+          "headPath" : "image/"
+        , "tailPath" : ".png"
+        , "padCount" : 3
+      }
+    , "btnAwsIcon" : "fas fa-play"
+    , "audio" : {
+          "headPath"  : "audio/"
+        , "tailPath" : ".mp3"
+        , "type"      : "audio/mpeg"
+        , "padCount"  : 3
+      }
+    , "page" : {
+          "padCount"  : 4
+        , "headPath"  : "../data/pageData/"
+
+      }
+    , "maxBtnCnt" : 9
+
+}

@@ -1,0 +1,109 @@
+[
+
+{  "subjectName" : "めい、みょう、な(훈)",
+   "detailGrp"  : [
+      { "detailName" : "有名（ゆうめい）유명",
+        "detailContJap" : "有名ユーチューバーの動画を見ている",
+        "detailContKor" : "유명 유튜버의 동영상을 보고 있다"
+      },
+      { "detailName" : "名字（みょうじ）성",
+        "detailContJap" : "珍しい名字の人",
+        "detailContKor" : "휘귀한 성을 가진 사람"
+      },
+      { "detailName" : "名前（なまえ）이름",
+        "detailContJap" : "名前を呼ばれて吃驚する",
+        "detailContKor" : "이름이 불려서 깜짝 놀라다"
+      }
+   ]
+},
+{  "subjectName" : "もく、ぼく、き、こ",
+   "detailGrp"  : [
+      { "detailName" : "木材（もくざい）목재",
+        "detailContJap" : "木材の一片(いっぺん)",
+        "detailContKor" : "목재의 한 토막"
+      },
+      { "detailName" : "土木（どぼく）토목",
+        "detailContJap" : "土木科",
+        "detailContKor" : "토목과"
+      },
+      { "detailName" : "木（き）나무",
+        "detailContJap" : "猿は木で寝ないですか？",
+        "detailContKor" : "원숭이는 나무에서 자지 않습니까?"
+      },
+      { "detailName" : "木(こ)の葉(は) 나뭇잎",
+        "detailContJap" : "この木の葉が揺れてるの見えますか？",
+        "detailContKor" : "여기 나뭇잎이 흔들리는거 보이시죠?"
+      }
+   ]
+},
+{  "subjectName" : "もく、ぼく、め、ま",
+   "detailGrp"  : [
+      { "detailName" : "目前（もくぜん）눈앞, 목전",
+        "detailContJap" : "試験が目前です",
+        "detailContKor" : "시험이 코앞이에요"
+      },
+      { "detailName" : "面目（めんぼく）면목, 체면",
+        "detailContJap" : "面目が潰れる",
+        "detailContKor" : "체면이 없어지다"
+      },
+      { "detailName" : "目（め）눈",
+        "detailContJap" : "朝早く目が覚める",
+        "detailContKor" : "아침 일찍 눈이 뜨이다"
+      },
+      { "detailName" : "目蓋（まぶた）눈꺼풀",
+        "detailContJap" : "目蓋をとじる",
+        "detailContKor" : "눈을 감다"
+      }
+   ]
+},
+{  "subjectName" : "ぶん、もん、ふみ(훈)",
+   "detailGrp"  : [
+      { "detailName" : "文化（ぶんか）문화",
+        "detailContJap" : "文化施設",
+        "detailContKor" : "문화시설"
+      },
+      { "detailName" : "一文（いちもん）한푼",
+        "detailContJap" : "一文の値打もない",
+        "detailContKor" : "한 푼의 가치도 없다"
+      },
+      { "detailName" : "文（ふみ）문서, 편지",
+        "detailContJap" : "文",
+        "detailContKor" : "편지(조금 공손한 어투)",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "はく、びゃく、しろ、しら",
+   "detailGrp"  : [
+      { "detailName" : "白衣（はくい）백의, 흰옷",
+        "detailContJap" : "白衣の天使",
+        "detailContKor" : "백의의 천사"
+      },
+      { "detailName" : "黒白（こくびゃく）흑백",
+        "detailContJap" : "黒白の猫",
+        "detailContKor" : "흑백 고양이"
+      },
+      { "detailName" : "白(しろ)い 희다, 하얗다",
+        "detailContJap" : "ご両親(りょうしん)も肌が白い方？",
+        "detailContKor" : "부모님도 피부가 하얀 편이신가?"
+      },
+      { "detailName" : "白髪（しらが）흰머리",
+        "detailContJap" : "白髪が激減(げきげん)する",
+        "detailContKor" : "흰머리가 격감하다"
+      }
+   ]
+},
+{  "subjectName" : "ひゃく(음)",
+   "detailGrp"  : [
+      { "detailName" : "百人（ひゃくにん）100명",
+        "detailContJap" : "大約百人ははいる",
+        "detailContKor" : "대략 백 명은 들어간다"
+      },
+      { "detailName" : "百年（ひゃくねん）백년",
+        "detailContJap" : "百年の物語",
+        "detailContKor" : "백년 이야기"
+      }
+   ]
+}
+
+]

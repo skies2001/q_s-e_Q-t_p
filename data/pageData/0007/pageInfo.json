@@ -1,0 +1,120 @@
+[
+
+{  "subjectName" : "ろく(음)、む、むっ、むい",
+   "detailGrp"  : [
+      { "detailName" : "六月（ろくがつ）6월",
+        "detailContJap" : "六月に入る",
+        "detailContKor" : "6월에 접어들다"
+      },
+      { "detailName" : "六(むっ)つ 여섯, 6개",
+        "detailContJap" : "六つ",
+        "detailContKor" : "여섯 개, 여섯 살",
+        "soundFlg" : 0
+      },
+      { "detailName" : "六日（むいか）6일",
+        "detailContJap" : "ちょうど六日かかって完成した",
+        "detailContKor" : "꼭 6일 걸려서 완성했다"
+      }
+   ]
+},
+{  "subjectName" : "おん、いん、おと、ね",
+   "detailGrp"  : [
+      { "detailName" : "音楽（おんがく）음악",
+        "detailContJap" : "この音楽を聞くと心が和(なご)む",
+        "detailContKor" : "이 음악을 들으면 마음이 차분해진다"
+      },
+      { "detailName" : "母音（ぼいん）모음",
+        "detailContJap" : "英語の母音",
+        "detailContKor" : "영어의 모음"
+      },
+      { "detailName" : "音（おと）소리",
+        "detailContJap" : "音を消してテレビを見る",
+        "detailContKor" : "소리를 죽이고 텔레비전을 보다"
+      },
+      { "detailName" : "本音（ほんね）속마음, 본심",
+        "detailContJap" : "やっと本音を吐くね",
+        "detailContKor" : "이제 본심이 나오는군"
+      }
+   ]
+},
+{  "subjectName" : "に、ふた",
+   "detailGrp"  : [
+      { "detailName" : "二枚（にまい）2장",
+        "detailContJap" : "二枚の絵を継ぎあわせてぴったり合わせる",
+        "detailContKor" : "두 장의 그림을 붙여서 꼭 들어맞추다"
+      },
+      { "detailName" : "二(ふた)つ 둘, 2개",
+        "detailContJap" : "彼は私より二つ年下だ",
+        "detailContKor" : "그는 나보다 두 살 어리다"
+      }
+   ]
+},
+{  "subjectName" : "じ、みみ",
+   "detailGrp"  : [
+      { "detailName" : "耳目（じもく）이목",
+        "detailContJap" : "耳目を集める",
+        "detailContKor" : "이목을 집중시키다"
+      },{ "detailName" : "耳（みみ）귀",
+        "detailContJap" : "耳がさとい",
+        "detailContKor" : "귀가 예민하다"
+      }
+   ]
+},
+{  "subjectName" : "にん、じん、ひと(훈)",
+   "detailGrp"  : [
+      { "detailName" : "人間（にんげん）인간",
+        "detailContJap" : "人間は一人で生きられない",
+        "detailContKor" : "인간은 혼자서 살 수 없다"
+      },
+      { "detailName" : "日本人（にほんじん）일본인",
+        "detailContJap" : "日本人としとは背が高い方だ",
+        "detailContKor" : "일본인치고는 키가 큰 편이다"
+      },
+      { "detailName" : "人（ひと）사람",
+        "detailContJap" : "ずばぬけている人",
+        "detailContKor" : "빼어난 사람"
+      }
+   ]
+},
+{  "subjectName" : "いち、いつ、ひと(훈)",
+   "detailGrp"  : [
+      { "detailName" : "一日（いちにち）1일, 하루",
+        "detailContJap" : "友達と楽しく一日をすごす",
+        "detailContKor" : "친구들과 즐거게 하루를 보내다"
+      },
+      { "detailName" : "唯一（ゆいいつ）유일",
+        "detailContJap" : "健康(けんこう)が唯一の財産(ざいさん)だ",
+        "detailContKor" : "건강이 유일한 재산이다"
+      },
+      { "detailName" : "一(ひと)つ 하나, 1개",
+        "detailContJap" : "それも一つの生き方だ",
+        "detailContKor" : "그것도 하나의 생활 방식이다"
+      },
+      { "detailName" : "一人（ひとり）한사람",
+        "detailContJap" : "一人旅なので話し相手もいない",
+        "detailContKor" : "혼자 하는 여행이기에 말동무도 없다"
+      }
+   ]
+},
+{  "subjectName" : "にち、じつ、ひ、か",
+   "detailGrp"  : [
+      { "detailName" : "日時（にちじ）일시",
+        "detailContJap" : "日時と場所(ばしょ)を明示(めいじ)する",
+        "detailContKor" : "일시와 장소를 명시히다"
+      },
+      { "detailName" : "前日（ぜんじつ）요전날",
+        "detailContJap" : "銘銘(めいめい)が前日までに用意(ようい)する",
+        "detailContKor" : "각자가 전날까지 준비한다"
+      },
+      { "detailName" : "日（ひ）해, 날",
+        "detailContJap" : "寒い日がずっと続(つづ)いた",
+        "detailContKor" : "추운 날씨가 내내 계속되었다"
+      },
+      { "detailName" : "二日（ふつか）2일",
+        "detailContJap" : "二日も便(べん)がない",
+        "detailContKor" : "이틀이나 변이 없다"
+      }
+   ]
+}
+
+]

@@ -1,0 +1,133 @@
+[
+
+{  "subjectName" : "すい、みず",
+   "detailGrp"  : [
+      { "detailName" : "水道（すいどう）수도",
+        "detailContJap" : "来月からガスと水道が入る",
+        "detailContKor" : "내달부터 가스와 수도가 들어온다"
+      },
+      { "detailName" : "お水(みず) 물, 냉수",
+        "detailContJap" : "お水をいただけますか？",
+        "detailContKor" : "물 좀 주시겠어요?"
+      }
+   ]
+},
+{  "subjectName" : "じゅう、じっ、とお、と",
+   "detailGrp"  : [
+      { "detailName" : "十年（じゅうねん）10년",
+        "detailContJap" : "十年になりました",
+        "detailContKor" : "10년 됐어요"
+      },
+      { "detailName" : "十戒（じっかい）십계(명)",
+        "detailContJap" : "十戒",
+        "detailContKor" : "십계명",
+        "soundFlg" : 0
+      },
+      { "detailName" : "十日（とおか）10일",
+        "detailContJap" : "出来上がりまで十日はかかる",
+        "detailContKor" : "완성까지 열흘은 걸린다"
+      }
+   ]
+},
+{  "subjectName" : "ご、いつ",
+   "detailGrp"  : [
+      { "detailName" : "五分（ごふん）5분",
+        "detailContJap" : "ここからそこまで五分かかる",
+        "detailContKor" : "여기에서 거기까지 5분 걸린다"
+      },
+      { "detailName" : "五(いつ)つ 다섯, 5개",
+        "detailContJap" : "五つ目の角を曲がる",
+        "detailContKor" : "다섯 번째 모퉁이를 돌다"
+      },
+      { "detailName" : "五日（いつか）5일",
+        "detailContJap" : "風で五日ねた",
+        "detailContKor" : "감기로 5일간 누웠다"
+      }
+   ]
+},
+{  "subjectName" : "ぎょく、たま",
+   "detailGrp"  : [
+      { "detailName" : "玉座（きょくざ）옥좌",
+        "detailContJap" : "王(おう)の玉座に近(ちか)づく",
+        "detailContKor" : "왕의 옥좌에 다가가다"
+      },
+      { "detailName" : "玉（たま）구슬",
+        "detailContJap" : "ここを押すと玉が飛び出る",
+        "detailContKor" : "여기를 누르면 구슬이 튀어나온다"
+      }
+   ]
+},
+{  "subjectName" : "おう(음)",
+   "detailGrp"  : [
+      { "detailName" : "王子（おうじ）왕자",
+        "detailContJap" : "星の王子様",
+        "detailContKor" : "별의 왕자님(어린 왕자)"
+      },
+      { "detailName" : "女王（じょおう）여왕",
+        "detailContJap" : "アナと雪の女王",
+        "detailContKor" : "안나와 눈의여왕(겨울왕국)"
+      }
+   ]
+},
+{  "subjectName" : "う、ゆう、みぎ(훈)",
+   "detailGrp"  : [
+      { "detailName" : "右折（うせつ）우회전",
+        "detailContJap" : "次の交差点(こうさてん)で右折してください",
+        "detailContKor" : "다음 네거리에서 우회전해 주세요"
+      },
+      { "detailName" : "左右（さゆう）좌우",
+        "detailContJap" : "左右をよく見て道を渡る",
+        "detailContKor" : "좌우를 잘 보고 길을 건너다"
+      },
+      { "detailName" : "右（みぎ）오른쪽",
+        "detailContJap" : "右から挨拶をしましょうか",
+        "detailContKor" : "오른쪽부터 인사 할까요?"
+      }
+   ]
+},
+{  "subjectName" : "う(음)、あめ、あま",
+   "detailGrp"  : [
+      { "detailName" : "雨天（うてん）우천",
+        "detailContJap" : "当日(とうじつ)雨天の際は中止(ちゅうし)する",
+        "detailContKor" : "당일 우천 시에는 중지한다"
+      },
+      { "detailName" : "雨（あめ）비",
+        "detailContJap" : "今雨が降っている",
+        "detailContKor" : "지금 비가 오고 있다"
+      },
+      { "detailName" : "雨戸（あまど）(비바람 막는)덧문",
+        "detailContJap" : "風で雨戸ががたがたする",
+        "detailContKor" : "바람으로 덧문이 덜커덩거리다"
+      }
+   ]
+},
+{  "subjectName" : "えん、まる",
+   "detailGrp"  : [
+      { "detailName" : "円（えん）엔(일본 화폐 단위)",
+        "detailContJap" : "円が上がる",
+        "detailContKor" : "엔화가 오르다"
+      },
+      { "detailName" : "円(まる)い 둥글다",
+        "detailContJap" : "裏山に円い月がかかっている",
+        "detailContKor" : "뒷산에 둥근 달이 걸려 있다"
+      }
+   ]
+},
+{  "subjectName" : "げつ、がつ、つき(훈)",
+   "detailGrp"  : [
+      { "detailName" : "今月（こんげつ）이번 달",
+        "detailContJap" : "今月中にお返しします",
+        "detailContKor" : "이번달 안으로 갚겠습니다"
+      },
+      { "detailName" : "正月（しょうがつ）정월",
+        "detailContJap" : "お正月が待ち遠(どお)しい",
+        "detailContKor" : "설이 몹시 기다려진다"
+      },
+      { "detailName" : "月（つき）달",
+        "detailContJap" : "木陰(こかげ)から月の光が漏る",
+        "detailContKor" : "나무 그늘 사이로 달빛이 새어 나오다"
+      }
+   ]
+}
+
+]

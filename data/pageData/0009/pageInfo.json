@@ -1,0 +1,32 @@
+[
+
+{  "subjectName" : "そく(음)、あし、た",
+   "detailGrp"  : [
+      { "detailName" : "不足（ぶそく）부족",
+        "detailContJap" : "運動不足で体力(たいりょく)が弱い",
+        "detailContKor" : "운동 부족으로 체력이 약하다"
+      },
+      { "detailName" : "足（あし）발, 다리",
+        "detailContJap" : "足が痺(しび)れて立てない",
+        "detailContKor" : "다리가 저려서 설 수가 없다"
+      },
+      { "detailName" : "足(た)りる 충분",
+        "detailContJap" : "わざわざ行かなくても電話で用(よう)が足りる",
+        "detailContKor" : "일부러 가지 않아도 전화로 용무가 충분하다"
+      }
+   ]
+},
+{  "subjectName" : "さ、ひだり",
+   "detailGrp"  : [
+      { "detailName" : "左右（さゆう）좌우",
+        "detailContJap" : "靴の左右をあべこべに履く",
+        "detailContKor" : "구두의 좌우를 뒤바꿔 신다"
+      },
+      { "detailName" : "左（ひだり）왼쪽",
+        "detailContJap" : "傘を左の手に持ち替える",
+        "detailContKor" : "우산을 왼손으로 바꿔 쥐다"
+      }
+   ]
+}
+
+]

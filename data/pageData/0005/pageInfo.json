@@ -1,0 +1,108 @@
+[
+
+{  "subjectName" : "せい、しょう(음)、い、う、お、は、き、なま",
+   "detailGrp"  : [
+      { "detailName" : "人生（じんせい）인생",
+        "detailContJap" : "芸術(げいじゅつ)は長く人生は短い",
+        "detailContKor" : "예술은 길고 인생은 짦다"
+      },
+      { "detailName" : "一生（いっしょう）일생",
+        "detailContJap" : "教育(きょういく)に一生をささげる",
+        "detailContKor" : "교육에 일생을 바치다"
+      },
+      { "detailName" : "生(い)きる 살다",
+        "detailContJap" : "人は生きるためにたべる",
+        "detailContKor" : "사람은 살기 위하여 먹는다"
+      },
+      { "detailName" : "生(う)まれる 태어나다",
+        "detailContJap" : "生まれてきて。。。ごめんなさい",
+        "detailContKor" : "태어나서... 죄송합니다"
+      },
+      { "detailName" : "生(お)い立(た)ち 성장",
+        "detailContJap" : "私の生い立ちを聞き母の偉大(いだい)さを知った",
+        "detailContKor" : "나의 성장 내력을 듣고 어머니의 위대함을 알았다"
+      },
+      { "detailName" : "生(は)える 나다, 자라나다",
+        "detailContJap" : "食パンにかびがはえる",
+        "detailContKor" : "식빵에 곰팡이가 피다"
+      },
+      { "detailName" : "生地（きじ）옷감",
+        "detailContJap" : "なめらかな生地",
+        "detailContKor" : "보들보들한 옷감"
+      },
+      { "detailName" : "生（なま）날것",
+        "detailContJap" : "生ビールと瓶ビール、どちらが好きですか？",
+        "detailContKor" : "생맥주와 병맥주 어느 쪽이 좋아요?"
+      }
+   ]
+},
+{  "subjectName" : "せき、ゆう",
+   "detailGrp"  : [
+      { "detailName" : "朝夕（ちょうせき）조석, 아침저녁",
+        "detailContJap" : "朝夕はめっきり寒くなりました",
+        "detailContKor" : "아침저녁으로 부쩍 추워졌습니다"
+      },
+      { "detailName" : "夕方（ゆうがた）해질녘, 저녁때",
+        "detailContJap" : "夕方に退勤する",
+        "detailContKor" : "저녁에 퇴근한다"
+      }
+   ]
+},
+{  "subjectName" : "せき、しょく、いし(훈)",
+   "detailGrp"  : [
+      { "detailName" : "石油",
+        "detailContJap" : "石油値上(ねあ)げの声におびえる",
+        "detailContKor" : "석유값이 인상되는 소리에 겁을 먹다"
+      },
+      { "detailName" : "磁石（じしゃく）자석",
+        "detailContJap" : "磁石の同じ極(きょく)どうしは反発(はんぱつ)する",
+        "detailContKor" : "자석의 같은 극끼리는 반발한다"
+      },
+      { "detailName" : "石（いし）돌",
+        "detailContJap" : "このくらいの石でも家は建てられる",
+        "detailContKor" : "이 정도의 돌로도 집은 지을 수 있다"
+      }
+   ]
+},
+{  "subjectName" : "せん、さき",
+   "detailGrp"  : [
+      { "detailName" : "先日（せんじつ）요전날",
+        "detailContJap" : "つい先日",
+        "detailContKor" : "바로 요전날"
+      },
+      { "detailName" : "先(さき)に 먼저, 앞서",
+        "detailContJap" : "忙しい人は先に帰ってもいい",
+        "detailContKor" : "바쁜 사람은 먼저 가도 좋다"
+      }
+   ]
+},
+{  "subjectName" : "しょう(음)、さい、こ、お",
+   "detailGrp"  : [
+      { "detailName" : "小説（しょうせつ）소설",
+        "detailContJap" : "今度の小説は大当たりを取った",
+        "detailContKor" : "이번 소설은 대히트를 쳤다"
+      },
+      { "detailName" : "小(ちい)さい 작다",
+        "detailContJap" : "小さいころから読書(どくしょ)する習慣(しゅうかん)をつける",
+        "detailContKor" : "어릴적부터 독서하는 습관을 들이다"
+      },
+      { "detailName" : "小物（こもの）소품",
+        "detailContJap" : "買って良かった地味に便利な小物",
+        "detailContKor" : "사길 잘했다 수수하고 편리한 소품"
+      }
+   ]
+},
+{  "subjectName" : "しゅ(음)、て、た",
+   "detailGrp"  : [
+      { "detailName" : "手段（しゅだん）수단",
+        "detailContJap" : "卑劣(ひれつな)な手段を取る",
+        "detailContKor" : "비열한 수단을 쓰다"
+      },
+      { "detailName" : "手（て）손",
+        "detailContJap" : "この手で行こう",
+        "detailContKor" : "이 방법으로 하자"
+      }
+   ]
+}
+
+]

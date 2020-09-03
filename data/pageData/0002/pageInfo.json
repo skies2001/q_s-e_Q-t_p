@@ -1,0 +1,124 @@
+[
+
+{  "subjectName" : "き(음)、け(음)",
+   "detailGrp"  : [
+      { "detailName" : "気温（きおん）기온",
+        "detailContJap" : "気温が下がる",
+        "detailContKor" : "기온이 내려가다"
+      },
+      { "detailName" : "寒気（さむけ）한기, 오한",
+        "detailContJap" : "寒気がする",
+        "detailContKor" : "한기가 들다"
+      }
+   ]
+},
+{  "subjectName" : "だん、なん、おとこ(훈)",
+   "detailGrp"  : [
+      { "detailName" : "男性（だんせい）남성",
+        "detailContJap" : "女性の方ですか？男性の方ですか？",
+        "detailContKor" : "여성분이세요? 남성분이세요?"
+      },
+      { "detailName" : "長男（ちょうなん）장남",
+        "detailContJap" : "長男に生まれる",
+        "detailContKor" : "장남으로 태어나다"
+      },
+      { "detailName" : "男(おとこ)の人(ひと) 남자",
+        "detailContJap" : "男の人みたいですか？",
+        "detailContKor" : "남자 같죠?"
+      }
+   ]
+},
+{  "subjectName" : "じょ、にょ、にょう、おんな(훈)、め(훈)",
+   "detailGrp"  : [
+      { "detailName" : "女性（じょせい）여성",
+        "detailContJap" : "花のように美しい女性",
+        "detailContKor" : "꽃처럼 아름다운 여성"
+      },
+      { "detailName" : "女房（にょうぼう）아내",
+        "detailContJap" : "女房にもろい",
+        "detailContKor" : "마누라에게 무르다"
+      },
+      { "detailName" : "女(おんな)の人(ひと) 여자",
+        "detailContJap" : "こんな女の人どこにいるんだよ？",
+        "detailContKor" : "이런 여자가 어딨어?"
+      },
+      { "detailName" : "乙女（おとめ）소녀, 처녀",
+        "detailContJap" : "清い乙女",
+        "detailContKor" : "청순한 소녀"
+      }
+   ]
+},
+{  "subjectName" : "ねん、とし",
+   "detailGrp"  : [
+      { "detailName" : "年末（ねんまつ）연말",
+        "detailContJap" : "年末にすす払いをして家をきれいにする",
+        "detailContKor" : "연말에 대청소를 해서 집을 깨끗이 하다"
+      },
+      { "detailName" : "年（とし）해, 나이",
+        "detailContJap" : "彼ももうかなり年を取った",
+        "detailContKor" : "그도 이제 꽤 나이가 들었다"
+      }
+   ]
+},
+{  "subjectName" : "だい、たい、おお(훈)",
+   "detailGrp"  : [
+      { "detailName" : "大学（だいがく）대학",
+        "detailContJap" : "大学を中退した青年",
+        "detailContKor" : "대학을 중퇴한 청년"
+      },
+      { "detailName" : "大切（たいせつ）소중함, 중요함",
+        "detailContJap" : "大切なものを弄るな",
+        "detailContKor" : "귀중한 물건을 만지지 마라"
+      },
+      { "detailName" : "大(おお)きい 크다",
+        "detailContJap" : "私は足が大きいみたい！",
+        "detailContKor" : "난 발이 큰가 봐!"
+      }
+   ]
+},
+{  "subjectName" : "りょく、りき、ちから(훈)",
+   "detailGrp"  : [
+      { "detailName" : "気力（きりょく）기력",
+        "detailContJap" : "気力が萎える",
+        "detailContKor" : "기력이 쇠하다"
+      },
+      { "detailName" : "力学（りきがう）역학",
+        "detailContJap" : "力学の知識",
+        "detailContKor" : "역학 지식"
+      },
+      { "detailName" : "力（ちから）힘",
+        "detailContJap" : "力を出す",
+        "detailContKor" : "힘을 내다"
+      }
+   ]
+},
+{  "subjectName" : "りん、はやし",
+   "detailGrp"  : [
+      { "detailName" : "林野（りんや）임야, 산림",
+        "detailContJap" : "林野を駆け巡る",
+        "detailContKor" : "임야를 뛰어 돌아다니다"
+      },
+      { "detailName" : "林（はやし）수풀, 숲",
+        "detailContJap" : "林の向こうまで見通す",
+        "detailContKor" : "숲 너머까지 내다보다"
+      }
+   ]
+},
+{  "subjectName" : "りつ、りゅう、た(훈)",
+   "detailGrp"  : [
+      { "detailName" : "設立（せつりつ）설립",
+        "detailContJap" : "医療法人を設立する",
+        "detailContKor" : "의료 법인을 설립하다"
+      },
+      { "detailName" : "建立（こんりゅう）건립",
+        "detailContJap" : "国家を建立する",
+        "detailContKor" : "국가를 건립하다"
+      },
+      { "detailName" : "立(た)つ 서다",
+        "detailContJap" : "鳥肌が立つ",
+        "detailContKor" : "닭살이(소름) 돋는다"
+      }
+   ]
+}
+
+]
