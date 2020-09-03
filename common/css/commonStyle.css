@@ -29,7 +29,7 @@ button.sub002:active {
     box-shadow: 0 2px #666;
     transform: translateY(2px);
 }
-i.sub003 {font-size: 21px}
+i.sub003 {font-size: 35px}
 div.sub004 {
     color: #42bbc7;
     margin-bottom: 15px;
@@ -52,14 +52,15 @@ a.linkPage {
 }
 #loadLinkBtn{
     position: fixed;
-    width: 100px;
+    width: 150px;
     text-align: center;
     top: 10%;
     right: 8px;
 }
 #loadLinkBtn *{
-    font-size: 25px;
+    font-size: 35px;
 }
+
 .scrollMoveBtn button{
     float:right;
     margin-top: 2px;
@@ -67,6 +68,9 @@ a.linkPage {
 .scrollMoveBtn button{
     cursor: pointer;
     width: 100%;
+}
+#loadLinkBtn a, #loadLinkBtn button{
+    height:60px
 }
 #moveTop button{
     margin-top: 25px;
