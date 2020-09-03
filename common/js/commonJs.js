@@ -74,9 +74,6 @@ $(document).ready(function(){
         var playBtns      = null;
         
         audioList = {};
-
-        $("#moveTop").trigger("click");
-
         $.ajax({
               url : pageInfoUrl
             , dataType : "json"
