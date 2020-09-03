@@ -1,6 +1,10 @@
 [
 
 {  "subjectName" : "にゅう(음)、はい、い",
+  "mainHanja" : {
+       "top" : "入",
+       "bottom": "들 입"
+ },
    "detailGrp"  : [
       { "detailName" : "入学（にゅうがく）입학",
         "detailContJap" : "大学にやっとのことで入学した",
@@ -17,6 +21,10 @@
    ]
 },
 {  "subjectName" : "し、す、こ(훈)",
+  "mainHanja" : {
+       "top" : "子",
+       "bottom": "아들 자"
+ },
    "detailGrp"  : [
       { "detailName" : "子女（しじょ）자녀",
         "detailContJap" : "子女の教育(きょういく)",
@@ -33,6 +41,10 @@
    ]
 },
 {  "subjectName" : "じ、あざ",
+  "mainHanja" : {
+       "top" : "字",
+       "bottom": "글자 자"
+ },
    "detailGrp"  : [
       { "detailName" : "字幕（じまく）자막",
         "detailContJap" : "バラエティーを見ながら字幕を。。。",
@@ -50,6 +62,10 @@
    ]
 },
 {  "subjectName" : "せき、しゃく、あか(훈)",
+  "mainHanja" : {
+       "top" : "赤",
+       "bottom": "붉을 적"
+ },
    "detailGrp"  : [
       { "detailName" : "赤道（せきどう）적도",
         "detailContJap" : "赤道を通過(つうか)する",
@@ -66,6 +82,10 @@
    ]
 },
 {  "subjectName" : "でん、た",
+  "mainHanja" : {
+       "top" : "田",
+       "bottom": "밭 전"
+ },
    "detailGrp"  : [
       { "detailName" : "田園（でんえん）전원(시골)",
         "detailContJap" : "引退(いんたい)して田園で暮らす",
@@ -78,6 +98,10 @@
    ]
 },
 {  "subjectName" : "せい、しょう、ただ、まさ",
+  "mainHanja" : {
+       "top" : "正",
+       "bottom": "바를 정"
+ },
    "detailGrp"  : [
       { "detailName" : "正式（せいしき）정식",
         "detailContJap" : "正式に学(まな)びたい気持ちですか？",
@@ -98,6 +122,10 @@
    ]
 },
 {  "subjectName" : "ちょう、まち",
+  "mainHanja" : {
+       "top" : "町",
+       "bottom": "밭두둑 정"
+ },
    "detailGrp"  : [
       { "detailName" : "町（ちょう）정, 읍",
         "detailContJap" : "各(かく)町ごとに色々な催(もよお)しが行(おこな)われる",
@@ -110,6 +138,10 @@
    ]
 },
 {  "subjectName" : "そう、さっ、はや(훈)",
+  "mainHanja" : {
+       "top" : "早",
+       "bottom": "일찍 조"
+ },
    "detailGrp"  : [
       { "detailName" : "早退（そうたい）조퇴",
         "detailContJap" : "病気(びょうき)で早退する",

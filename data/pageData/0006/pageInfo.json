@@ -1,6 +1,10 @@
 [
 
 {  "subjectName" : "すい、みず",
+  "mainHanja" : {
+       "top" : "水",
+       "bottom": "물 수"
+ },
    "detailGrp"  : [
       { "detailName" : "水道（すいどう）수도",
         "detailContJap" : "来月からガスと水道が入る",
@@ -13,6 +17,10 @@
    ]
 },
 {  "subjectName" : "じゅう、じっ、とお、と",
+  "mainHanja" : {
+       "top" : "十",
+       "bottom": "열 십"
+ },
    "detailGrp"  : [
       { "detailName" : "十年（じゅうねん）10년",
         "detailContJap" : "十年になりました",
@@ -30,6 +38,10 @@
    ]
 },
 {  "subjectName" : "ご、いつ",
+  "mainHanja" : {
+       "top" : "五",
+       "bottom": "다섯 오"
+ },
    "detailGrp"  : [
       { "detailName" : "五分（ごふん）5분",
         "detailContJap" : "ここからそこまで五分かかる",
@@ -46,6 +58,10 @@
    ]
 },
 {  "subjectName" : "ぎょく、たま",
+  "mainHanja" : {
+       "top" : "玉",
+       "bottom": "구을 옥"
+ },
    "detailGrp"  : [
       { "detailName" : "玉座（きょくざ）옥좌",
         "detailContJap" : "王(おう)の玉座に近(ちか)づく",
@@ -58,6 +74,10 @@
    ]
 },
 {  "subjectName" : "おう(음)",
+  "mainHanja" : {
+       "top" : "王",
+       "bottom": "임금 왕"
+ },
    "detailGrp"  : [
       { "detailName" : "王子（おうじ）왕자",
         "detailContJap" : "星の王子様",
@@ -70,6 +90,10 @@
    ]
 },
 {  "subjectName" : "う、ゆう、みぎ(훈)",
+  "mainHanja" : {
+       "top" : "右",
+       "bottom": "오른 우"
+ },
    "detailGrp"  : [
       { "detailName" : "右折（うせつ）우회전",
         "detailContJap" : "次の交差点(こうさてん)で右折してください",
@@ -86,6 +110,10 @@
    ]
 },
 {  "subjectName" : "う(음)、あめ、あま",
+  "mainHanja" : {
+       "top" : "雨",
+       "bottom": "비 우"
+ },
    "detailGrp"  : [
       { "detailName" : "雨天（うてん）우천",
         "detailContJap" : "当日(とうじつ)雨天の際は中止(ちゅうし)する",
@@ -102,6 +130,10 @@
    ]
 },
 {  "subjectName" : "えん、まる",
+  "mainHanja" : {
+       "top" : "円",
+       "bottom": "둥근 원"
+ },
    "detailGrp"  : [
       { "detailName" : "円（えん）엔(일본 화폐 단위)",
         "detailContJap" : "円が上がる",
@@ -114,6 +146,10 @@
    ]
 },
 {  "subjectName" : "げつ、がつ、つき(훈)",
+  "mainHanja" : {
+       "top" : "月",
+       "bottom": "달 월"
+ },
    "detailGrp"  : [
       { "detailName" : "今月（こんげつ）이번 달",
         "detailContJap" : "今月中にお返しします",

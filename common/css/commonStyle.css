@@ -149,6 +149,7 @@ a.linkPage {
     height: 75%;
     color: #00aeef;
     font-size: 100px;
+    font-weight: lighter;
 }
 
 #mainHanja > .bottom {

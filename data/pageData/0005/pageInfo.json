@@ -1,6 +1,10 @@
 [
 
 {  "subjectName" : "せい、しょう(음)、い、う、お、は、き、なま",
+  "mainHanja" : {
+       "top" : "生",
+       "bottom": "날 생"
+ },
    "detailGrp"  : [
       { "detailName" : "人生（じんせい）인생",
         "detailContJap" : "芸術(げいじゅつ)は長く人生は短い",
@@ -37,6 +41,10 @@
    ]
 },
 {  "subjectName" : "せき、ゆう",
+  "mainHanja" : {
+       "top" : "夕",
+       "bottom": "저녁 석"
+ },
    "detailGrp"  : [
       { "detailName" : "朝夕（ちょうせき）조석, 아침저녁",
         "detailContJap" : "朝夕はめっきり寒くなりました",
@@ -49,6 +57,10 @@
    ]
 },
 {  "subjectName" : "せき、しょく、いし(훈)",
+  "mainHanja" : {
+       "top" : "石",
+       "bottom": "돌 석"
+ },
    "detailGrp"  : [
       { "detailName" : "石油",
         "detailContJap" : "石油値上(ねあ)げの声におびえる",
@@ -65,6 +77,10 @@
    ]
 },
 {  "subjectName" : "せん、さき",
+  "mainHanja" : {
+       "top" : "先",
+       "bottom": "먼저 선"
+ },
    "detailGrp"  : [
       { "detailName" : "先日（せんじつ）요전날",
         "detailContJap" : "つい先日",
@@ -76,7 +92,11 @@
       }
    ]
 },
-{  "subjectName" : "しょう(음)、さい、こ、お",
+{  "subjectName" : "しょう(음)、ちい、こ、お",
+  "mainHanja" : {
+       "top" : "小",
+       "bottom": "작을 소"
+ },
    "detailGrp"  : [
       { "detailName" : "小説（しょうせつ）소설",
         "detailContJap" : "今度の小説は大当たりを取った",
@@ -93,6 +113,10 @@
    ]
 },
 {  "subjectName" : "しゅ(음)、て、た",
+  "mainHanja" : {
+       "top" : "手",
+       "bottom": "손 수"
+ },
    "detailGrp"  : [
       { "detailName" : "手段（しゅだん）수단",
         "detailContJap" : "卑劣(ひれつな)な手段を取る",

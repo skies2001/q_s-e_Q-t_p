@@ -1,6 +1,10 @@
 [
 
 {  "subjectName" : "けん、いぬ",
+  "mainHanja" : {
+       "top" : "犬",
+       "bottom": "개 견"
+ },
    "detailGrp"  : [
       { "detailName" : "愛犬（あいけん）애견",
         "detailContJap" : "あなたの愛犬の犬種は何？",
@@ -13,6 +17,10 @@
    ]
 },
 {  "subjectName" : "けん、み",
+  "mainHanja" : {
+       "top" : "見",
+       "bottom": "볼 견"
+ },
    "detailGrp"  : [
       { "detailName" : "見学（けんがく）견학",
         "detailContJap" : "見学に来る",
@@ -25,6 +33,10 @@
    ]
 },
 {  "subjectName" : "くう(음)、そら、から、あ",
+  "mainHanja" : {
+       "top" : "空",
+       "bottom": "하늘 공/빌 공"
+ },
    "detailGrp"  : [
       { "detailName" : "空気（くうき）공기",
         "detailContJap" : "冬に冷たい空気を吸う",
@@ -47,6 +59,10 @@
 
 },
 {  "subjectName" : "こう(음)",
+  "mainHanja" : {
+       "top" : "校",
+       "bottom": "학교 교"
+ },
    "detailGrp"  : [
       { "detailName" : "学校（がんこう）학교",
         "detailContJap" : "学校へ行く道で先生に会った",
@@ -59,6 +75,10 @@
    ]
 },
 {  "subjectName" : "きゅう、く、ここの(훈)",
+  "mainHanja" : {
+       "top" : "九",
+       "bottom": "아홉 구"
+ },
    "detailGrp"  : [
       { "detailName" : "九人（きゅうにん）9명",
         "detailContJap" : "九人が新登場",
@@ -79,6 +99,10 @@
    ]
 },
 {  "subjectName" : "こう、く、くち(훈)",
+  "mainHanja" : {
+       "top" : "口",
+       "bottom": "입 구"
+ },
    "detailGrp"  : [
       { "detailName" : "人口（じんこう）인구",
         "detailContJap" : "人口密集地域",
@@ -95,6 +119,10 @@
    ]
 },
 {  "subjectName" : "きん、こん、かね、かな",
+  "mainHanja" : {
+       "top" : "金",
+       "bottom": "쇠 금"
+ },
    "detailGrp"  : [
       { "detailName" : "金曜日（きんようび）금요일",
         "detailContJap" : "金曜日の夜、金曜日だっけ？",

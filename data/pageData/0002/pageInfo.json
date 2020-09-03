@@ -1,6 +1,10 @@
 [
 
 {  "subjectName" : "き(음)、け(음)",
+  "mainHanja" : {
+       "top" : "気",
+       "bottom": "기운 기"
+ },
    "detailGrp"  : [
       { "detailName" : "気温（きおん）기온",
         "detailContJap" : "気温が下がる",
@@ -13,6 +17,10 @@
    ]
 },
 {  "subjectName" : "だん、なん、おとこ(훈)",
+  "mainHanja" : {
+       "top" : "男",
+       "bottom": "사내 남"
+ },
    "detailGrp"  : [
       { "detailName" : "男性（だんせい）남성",
         "detailContJap" : "女性の方ですか？男性の方ですか？",
@@ -29,6 +37,10 @@
    ]
 },
 {  "subjectName" : "じょ、にょ、にょう、おんな(훈)、め(훈)",
+  "mainHanja" : {
+       "top" : "女",
+       "bottom": "계집 녀"
+ },
    "detailGrp"  : [
       { "detailName" : "女性（じょせい）여성",
         "detailContJap" : "花のように美しい女性",
@@ -49,6 +61,10 @@
    ]
 },
 {  "subjectName" : "ねん、とし",
+  "mainHanja" : {
+       "top" : "年",
+       "bottom": "해 년"
+ },
    "detailGrp"  : [
       { "detailName" : "年末（ねんまつ）연말",
         "detailContJap" : "年末にすす払いをして家をきれいにする",
@@ -61,6 +77,10 @@
    ]
 },
 {  "subjectName" : "だい、たい、おお(훈)",
+  "mainHanja" : {
+       "top" : "大",
+       "bottom": "큰 대"
+ },
    "detailGrp"  : [
       { "detailName" : "大学（だいがく）대학",
         "detailContJap" : "大学を中退した青年",
@@ -77,6 +97,10 @@
    ]
 },
 {  "subjectName" : "りょく、りき、ちから(훈)",
+  "mainHanja" : {
+       "top" : "力",
+       "bottom": "힘 력"
+ },
    "detailGrp"  : [
       { "detailName" : "気力（きりょく）기력",
         "detailContJap" : "気力が萎える",
@@ -93,6 +117,10 @@
    ]
 },
 {  "subjectName" : "りん、はやし",
+  "mainHanja" : {
+       "top" : "林",
+       "bottom": "수풀 림"
+ },
    "detailGrp"  : [
       { "detailName" : "林野（りんや）임야, 산림",
         "detailContJap" : "林野を駆け巡る",
@@ -105,6 +133,10 @@
    ]
 },
 {  "subjectName" : "りつ、りゅう、た(훈)",
+  "mainHanja" : {
+       "top" : "立",
+       "bottom": "설 립"
+ },
    "detailGrp"  : [
       { "detailName" : "設立（せつりつ）설립",
         "detailContJap" : "医療法人を設立する",

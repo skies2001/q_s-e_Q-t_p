@@ -1,6 +1,10 @@
 [
 
 {  "subectName" : "ほん、もと",
+  "mainHanja" : {
+       "top" : "本",
+       "bottom": "근본 본"
+ },
    "detailGrp"  : [
       { "detailName" : "本当（ほんとう）정말, 사실",
         "detailContJap" : "本当に彼が犯人だろうかわからない",
@@ -14,6 +18,10 @@
    ]
 },
 {  "subjectName" : "し、いと",
+  "mainHanja" : {
+       "top" : "糸",
+       "bottom": "실 사"
+ },
    "detailGrp"  : [
       { "detailName" : "綿糸（めんし）면사, 면실",
         "detailContJap" : "綿糸の作り方",
@@ -26,6 +34,10 @@
    ]
 },
 {  "subjectName" : "し(음)、よ、よっ、よん",
+  "mainHanja" : {
+       "top" : "四",
+       "bottom": "넷 사"
+ },
    "detailGrp"  : [
       { "detailName" : "四季（しき）사계",
         "detailContJap" : "四季の移り変わり",
@@ -46,6 +58,10 @@
    ]
 },
 {  "subjectName" : "さん、やま",
+  "mainHanja" : {
+       "top" : "山",
+       "bottom": "산 산"
+ },
    "detailGrp"  : [
       { "detailName" : "山地（さんち）산지",
         "detailContJap" : "山地では気温が低い",
@@ -58,6 +74,10 @@
    ]
 },
 {  "subjectName" : "さん(음)、み、みつ",
+  "mainHanja" : {
+       "top" : "三",
+       "bottom": "셋 삼"
+ },
    "detailGrp"  : [
       { "detailName" : "三時（さんじ）3시",
         "detailContJap" : "銀行は三時で閉まる",
@@ -74,6 +94,10 @@
    ]
 },
 {  "subjectName" : "しん、もり",
+  "mainHanja" : {
+       "top" : "森",
+       "bottom": "너무빽빽할 삼"
+ },
    "detailGrp"  : [
       { "detailName" : "森林（しんりん）산림",
         "detailContJap" : "森林保護",
@@ -86,6 +110,10 @@
    ]
 },
 {  "subjectName" : "じょう、しょう(음)、うえ、かみ、うわ、あ、のぼ",
+  "mainHanja" : {
+       "top" : "上",
+       "bottom": "위 상"
+ },
    "detailGrp"  : [
       { "detailName" : "上下（じょうげ）상하",
         "detailContJap" : "瞳を上下に動かす",

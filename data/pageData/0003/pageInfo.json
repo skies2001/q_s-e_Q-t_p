@@ -1,6 +1,10 @@
 [
 
 {  "subjectName" : "めい、みょう、な(훈)",
+  "mainHanja" : {
+       "top" : "名",
+       "bottom": "이름 명"
+ },
    "detailGrp"  : [
       { "detailName" : "有名（ゆうめい）유명",
         "detailContJap" : "有名ユーチューバーの動画を見ている",
@@ -17,6 +21,10 @@
    ]
 },
 {  "subjectName" : "もく、ぼく、き、こ",
+  "mainHanja" : {
+       "top" : "木",
+       "bottom": "나무 목"
+ },
    "detailGrp"  : [
       { "detailName" : "木材（もくざい）목재",
         "detailContJap" : "木材の一片(いっぺん)",
@@ -37,6 +45,10 @@
    ]
 },
 {  "subjectName" : "もく、ぼく、め、ま",
+  "mainHanja" : {
+       "top" : "目",
+       "bottom": "눈 목"
+ },
    "detailGrp"  : [
       { "detailName" : "目前（もくぜん）눈앞, 목전",
         "detailContJap" : "試験が目前です",
@@ -57,6 +69,10 @@
    ]
 },
 {  "subjectName" : "ぶん、もん、ふみ(훈)",
+  "mainHanja" : {
+       "top" : "文",
+       "bottom": "글월 문"
+ },
    "detailGrp"  : [
       { "detailName" : "文化（ぶんか）문화",
         "detailContJap" : "文化施設",
@@ -74,6 +90,10 @@
    ]
 },
 {  "subjectName" : "はく、びゃく、しろ、しら",
+  "mainHanja" : {
+       "top" : "白",
+       "bottom": "흰 백"
+ },
    "detailGrp"  : [
       { "detailName" : "白衣（はくい）백의, 흰옷",
         "detailContJap" : "白衣の天使",
@@ -94,6 +114,10 @@
    ]
 },
 {  "subjectName" : "ひゃく(음)",
+  "mainHanja" : {
+       "top" : "百",
+       "bottom": "일백 백"
+ },
    "detailGrp"  : [
       { "detailName" : "百人（ひゃくにん）100명",
         "detailContJap" : "大約百人ははいる",
