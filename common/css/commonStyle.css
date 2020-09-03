@@ -146,7 +146,7 @@ a.linkPage {
 }
 
 #mainHanja > .top {
-    height: 75%;
+    height: 80%;
     color: #00aeef;
     font-size: 100px;
     font-weight: lighter;
@@ -154,7 +154,10 @@ a.linkPage {
 }
 
 #mainHanja > .bottom {
-    height: 25%;
+    height: 20%;
     font-size: 20px;
     font-weight: bold;
+}
+#mainHanja > .bottom > span{
+    margin-top:10px;
 }
