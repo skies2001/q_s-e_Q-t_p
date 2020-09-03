@@ -16,6 +16,6 @@
         , "headPath"  : "../data/pageData/"
 
       }
-    , "maxBtnCnt" : 9
+    , "maxBtnCnt" : 10
 
 }

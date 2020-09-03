@@ -35,6 +35,143 @@
         "detailContKor" : "우산을 왼손으로 바꿔 쥐다"
       }
    ]
+},
+{  "subjectName" : "ちく、たけ",
+   "mainHanja" : {
+      "top" : "竹",
+      "bottom": "대 죽"
+  },
+   "detailGrp"  : [
+      { "detailName" : "竹馬（ちくば）죽마",
+        "detailContJap" : "竹馬に乗って歩くコツ",
+        "detailContKor" : "죽마를 타고 걷는 요령"
+      },
+      { "detailName" : "竹（たけ）대나무",
+        "detailContJap" : "節の多い竹",
+        "detailContKor" : "마디가 많은 대나무"
+      }
+   ]
+},
+{  "subjectName" : "ちゅう、なか",
+   "mainHanja" : {
+      "top" : "中",
+      "bottom": "가운데 중"
+  },
+   "detailGrp"  : [
+      { "detailName" : "中心（ちゅうしん）중심",
+        "detailContJap" : "彼がこの行事の中心人物だ",
+        "detailContKor" : "그가 이 행사의 중심 인물이다"
+      },
+      { "detailName" : "中（なか）가운데",
+        "detailContJap" : "家の中が丸見えだ",
+        "detailContKor" : "집 안이 훤히 들여다보인다"
+      }
+   ]
+},
+{  "subjectName" : "しゃ、くるま",
+   "mainHanja" : {
+      "top" : "車",
+      "bottom": "수레 차"
+  },
+   "detailGrp"  : [
+      { "detailName" : "電車（でんしゃ）전철",
+        "detailContJap" : "がらがらの電車",
+        "detailContKor" : "텅텅 빈 전차"
+      },
+      { "detailName" : "車（くるま）차, 자동차",
+        "detailContJap" : "道端(みちばた)に車が止まっている",
+        "detailContKor" : "길가에 차가 서 있다"
+      }
+   ]
+},
+{  "subjectName" : "せん、ち",
+   "mainHanja" : {
+      "top" : "千",
+      "bottom": "일천 천"
+  },
+   "detailGrp"  : [
+      { "detailName" : "千円（せんえん）1000엔",
+        "detailContJap" : "千円の損(そん)をする",
+        "detailContKor" : "천엔 손해보다"
+      },
+      { "detailName" : "千葉（ちば）치바(일본지명)",
+        "detailContJap" : "千葉にあるおすすめの旅館(りょかん)",
+        "detailContKor" : "치바에 있는 추천 여관"
+      }
+   ]
+},
+{  "subjectName" : "てん(음)、あめ、あま",
+   "mainHanja" : {
+      "top" : "天",
+      "bottom": "하늘 천"
+  },
+   "detailGrp"  : [
+      { "detailName" : "天気（てんき）날씨",
+        "detailContJap" : "天気が悪くて家に引き籠っている",
+        "detailContKor" : "날씨가 나빠서 집에 틀어박혀 있다"
+      },
+      { "detailName" : "天（あめ）하늘",
+        "detailContJap" : "天",
+        "detailContKor" : "하늘",
+        "soundFlg" : 0
+      },
+      { "detailName" : "天の川（あまのがわ）은하수",
+        "detailContJap" : "天の川銀河(ぎんが)の形はどのようにしてわっかたのか",
+        "detailContKor" : "은하수 은하의 모양은 어떻게 알았을까?"
+      }
+   ]
+},
+{  "subjectName" : "せん、かわ",
+   "mainHanja" : {
+      "top" : "川",
+      "bottom": "내 천"
+  },
+   "detailGrp"  : [
+      { "detailName" : "河川（かわん）하천",
+        "detailContJap" : "大雨で河川が氾濫(はんらん)する",
+        "detailContKor" : "큰비로 하천이 범람하다"
+      },
+      { "detailName" : "川（かわ）강",
+        "detailContJap" : "雨のため川が濁(にご)った",
+        "detailContKor" : "비 때문에 강이 흐려졌다"
+      }
+   ]
+},
+{  "subjectName" : "せい、しょう、あお(훈)",
+   "mainHanja" : {
+      "top" : "青",
+      "bottom": "푸를 청"
+  },
+   "detailGrp"  : [
+      { "detailName" : "青年（せいねん）청년",
+        "detailContJap" : "青年時代は人生の花だ",
+        "detailContKor" : "청년 시절은 인생의 꽃이다"
+      },
+      { "detailName" : "緑青（ろくしょう）녹청(청록)",
+        "detailContJap" : "緑青は無毒(むどく)といわれる",
+        "detailContKor" : "녹청은 무독이라고 한다"
+      },
+      { "detailName" : "青(あお)い 푸르다, 파랗다",
+        "detailContJap" : "青い目をした女の子",
+        "detailContKor" : "푸른 눈을 가진 여자아이"
+      }
+   ]
+},
+{  "subjectName" : "そう、くさ",
+   "mainHanja" : {
+      "top" : "草",
+      "bottom": "풀 초"
+  },
+   "detailGrp"  : [
+      { "detailName" : "雑草（ざっそう）잡초",
+        "detailContJap" : "雑草がもさもさはびこっている",
+        "detailContKor" : "잡초가 빽빽이 우거져 있다"
+      },
+      { "detailName" : "草（くさ）풀",
+        "detailContJap" : "草を枕(まくら)に寝る",
+        "detailContKor" : "풀밭을 베개로 삼고 자다"
+      }
+   ]
 }
 
 ]
