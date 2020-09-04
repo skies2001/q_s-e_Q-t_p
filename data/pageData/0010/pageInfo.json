@@ -55,6 +55,90 @@
         "detailContKor" : "작은 새는 벌레를 잡아먹고 산다"
       }
    ]
+},
+{  "subjectName" : "しち(음)、なな、なの",
+   "mainHanja" : {
+      "top" : "七",
+      "bottom": "일고 칠"
+  },
+   "detailGrp"  : [
+      { "detailName" : "七時（しちじ）7시",
+        "detailContJap" : "七時ごろ",
+        "detailContKor" : "일곱시쯤"
+      },
+      { "detailName" : "七(なな)つ 일곱, 7개",
+        "detailContJap" : "七つ目",
+        "detailContKor" : "일곱번째"
+      },
+      { "detailName" : "七日（なのか）7일",
+        "detailContJap" : "七日の苦労がみのる",
+        "detailContKor" : "일주일간의 고생이 빛을 보다"
+      }
+   ]
+},
+{  "subjectName" : "ど、と、つち(훈)",
+   "mainHanja" : {
+      "top" : "土",
+      "bottom": "흙 토"
+  },
+   "detailGrp"  : [
+      { "detailName" : "土器（とき）토기",
+        "detailContJap" : "土器の片割れが見つかる",
+        "detailContKor" : "토기의 파편이 발견되다"
+      },
+      { "detailName" : "土地（とち）토지",
+        "detailContJap" : "土地を売った金を会社に回(まわ)す",
+        "detailContKor" : "땅 판 돈을 회사에 돌려주다"
+      },
+      { "detailName" : "土（つち）흙",
+        "detailContJap" : "故国の土を踏む",
+        "detailContKor" : "고국 땅을 밝다"
+      }
+   ]
+},
+{  "subjectName" : "かい(훈)",
+   "mainHanja" : {
+      "top" : "貝",
+      "bottom": "조개 패"
+  },
+   "detailGrp"  : [
+      { "detailName" : "貝（かい）조개",
+        "detailContJap" : "貝の殻",
+        "detailContKor" : "조개 껍질"
+      }
+   ]
+},
+{  "subjectName" : "か、げ(음)、した、しも、もと、さ、お、くだ",
+   "mainHanja" : {
+      "top" : "下",
+      "bottom": "아래 하"
+  },
+   "detailGrp"  : [
+      { "detailName" : "下流（かりゅう）하류",
+        "detailContJap" : "下流に住む魚類(ぎょろい)",
+        "detailContKor" : "하류에 사는 어류"
+      },
+      { "detailName" : "下水（げすい）하수",
+        "detailContJap" : "下水がにおう",
+        "detailContKor" : "하수(시궁창) 냄새가 나다"
+      },
+      { "detailName" : "下（した、しも）아래, 밑",
+        "detailContJap" : "兄より三(みっ)つ下だ",
+        "detailContKor" : "형보다 세 살 아래다"
+      },
+      { "detailName" : "下(さ)げる 내리다",
+        "detailContJap" : "思わず頭を下げる",
+        "detailContKor" : "엉겹결에 머리를 숙이다"
+      },
+      { "detailName" : "下(お)りる 내리다",
+        "detailContJap" : "山を下りる",
+        "detailContKor" : "산에서 내려오다"
+      },
+      { "detailName" : "下(くだ)り 하행",
+        "detailContJap" : "事故(じご)で下りはべた遅れだ",
+        "detailContKor" : "사고로 하행(하행 열차)은 모두 지연이다"
+      }
+   ]
 }
 
 ]

@@ -1,0 +1,68 @@
+[
+
+{  "subjectName" : "がく、まな",
+   "mainHanja" : {
+      "top" : "学",
+      "bottom": "배울 학"
+  },
+   "detailGrp"  : [
+      { "detailName" : "学生（がくせい）학생",
+        "detailContJap" : "教室(きょうしつ)で眠っている学生",
+        "detailContKor" : "교실에서 자고 있는 학생"
+      },
+      { "detailName" : "学(まな)ぶ 배우다",
+        "detailContJap" : "先生に就いて学ぶ",
+        "detailContKor" : "선생님 상대로(밑에서) 배우다"
+      }
+   ]
+},
+{  "subjectName" : "か(음)、ひ、ほ",
+   "mainHanja" : {
+      "top" : "火",
+      "bottom": "불 화"
+  },
+   "detailGrp"  : [
+      { "detailName" : "火事（かじ）홰재, 불",
+        "detailContJap" : "火事が一日に五件(ごけん)あった",
+        "detailContKor" : "화재가 하루에 다섯 건 있었다"
+      },
+      { "detailName" : "火（ひ）불",
+        "detailContJap" : "ふうふう吹いて火を起こす",
+        "detailContKor" : "후후 불어서 불을 일으키다"
+      }
+   ]
+},
+{  "subjectName" : "か、はな",
+   "mainHanja" : {
+      "top" : "花",
+      "bottom": "꽃 화"
+  },
+   "detailGrp"  : [
+      { "detailName" : "開花（かいか）개화",
+        "detailContJap" : "暖かいと開花が早い",
+        "detailContKor" : "(날씨가)따뜻하면 개화가 빠르다"
+      },
+      { "detailName" : "花（はな）꽃",
+        "detailContJap" : "道端に花がぱあっと咲いている",
+        "detailContKor" : "길가에 꽃이 활짝 피어 있다"
+      }
+   ]
+},
+{  "subjectName" : "きゅう、やす",
+   "mainHanja" : {
+      "top" : "休",
+      "bottom": "쉴 휴"
+  },
+   "detailGrp"  : [
+      { "detailName" : "休日（きゅうじつ）휴일",
+        "detailContJap" : "せっかくの休日も雨でつぶれた",
+        "detailContKor" : "모처럼의 휴일도 비로 허비되었다"
+      },
+      { "detailName" : "休(やす)む 쉬다, 휴식하다",
+        "detailContJap" : "夏の日盛(ざか)りには作業(さぎょう)を休む",
+        "detailContKor" : "여름 한낮에는 작업을 쉰다"
+      }
+   ]
+}
+
+]

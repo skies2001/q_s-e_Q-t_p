@@ -5,7 +5,9 @@ body {
     /* Reset default margin on the body element */
     font-family: 'Noto Sans JP', sans-serif;
 }
-
+#contents{
+  padding: 0 0 15px 30px;
+}
 div.sub001,
 span.sub001 > div {
     font-size: 25px;
@@ -160,4 +162,8 @@ a.linkPage {
 }
 #mainHanja > .bottom > span{
     margin-top:10px;
+}
+.scrollMoveBtn>button{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: bold;
 }

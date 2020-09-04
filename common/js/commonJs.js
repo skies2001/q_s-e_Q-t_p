@@ -72,7 +72,7 @@ $(document).ready(function(){
         var buttonIcon    = cmmInfo.btnAwsIcon;
         var clickEvLoc    = ".clickEv001:not([style*='display: none'])";
         var playBtns      = null;
-        
+
         audioList = {};
         $.ajax({
               url : pageInfoUrl
@@ -134,27 +134,19 @@ $(document).ready(function(){
                     });
                     baseHtml.append(cpyHtml.html());
                 });
-
                 baseHtml.find("i.sub003").addClass(buttonIcon);
-           
 
-//                $.each(baseHtml.find(".hanjaImg"), function(idx, item){
-//                    var itemName = String(idx+1).padStart(imagePadCount, "0");
-//                    var imgPath  =  imageHeadPath + itemName + imageTailPath;
-//                    $(item).attr("src",imgPath)
-//                });
-                
                 $("#loadHtml").html(baseHtml.html());
                 playBtns = $("#loadHtml").find(clickEvLoc);
-                
+
                 playBtns.click(function(){
-                    var curPos    = playBtns.index(this)+1; 
+                    var curPos    = playBtns.index(this)+1;
                     var itemName  = String(curPos).padStart(audioPadCount, "0");
                     var audioPath = "";
-                    
+
                     if(!audioList.hasOwnProperty(itemName)){
                         audioPath = audioHeadPath + itemName + audioTailPath;
-                        audioList[itemName] = new Audio(audioPath);   
+                        audioList[itemName] = new Audio(audioPath);
                     }
                     audioList[itemName].play();
                 });

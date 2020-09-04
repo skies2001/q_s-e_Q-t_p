@@ -62,7 +62,7 @@
        "bottom": "돌 석"
  },
    "detailGrp"  : [
-      { "detailName" : "石油",
+      { "detailName" : "石油（せきゆ）석유",
         "detailContJap" : "石油値上(ねあ)げの声におびえる",
         "detailContKor" : "석유값이 인상되는 소리에 겁을 먹다"
       },
@@ -119,7 +119,7 @@
  },
    "detailGrp"  : [
       { "detailName" : "手段（しゅだん）수단",
-        "detailContJap" : "卑劣(ひれつな)な手段を取る",
+        "detailContJap" : "卑劣(ひれつ)な手段を取る",
         "detailContKor" : "비열한 수단을 쓰다"
       },
       { "detailName" : "手（て）손",
