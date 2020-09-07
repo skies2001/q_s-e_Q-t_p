@@ -6,9 +6,10 @@ var cts002 = {
     maxBtnCnt : 1
 };
 
-cts001.firstFnc = function(info){
+cts001.firstFnc = function(info, pageDictPage){
   this.cmmInfo = info;
   this.clickEvLoc = ".clickEv001:not([style*='display: none'])";
+  this.pageDictPath = pageDictPage + "/";
   var that = this;
 
   $.ajax({
@@ -34,7 +35,7 @@ $.ajax({
 cts001.attachLinkPageFnc = function(){
   var that = this;
   $("a.linkPage").click(function(){
-      var pageLoc = this.innerText.padStart(that.cmmInfo.page.padCount,"0");
+      var pageLoc = that.pageDictPath + this.innerText.padStart(that.cmmInfo.page.padCount,"0");
       var pageHeadPath =  that.cmmInfo.page.headPath;
       var pageInfoUrl = pageHeadPath + pageLoc + "/pageInfo.json";
       var baseHtml = $(document.createElement("div"));
@@ -130,17 +131,18 @@ cts001.attachLinkPageFnc = function(){
 
 }; // end attachLinkPage
 
-cts001.load = function(info){
-  this.firstFnc(info);
+cts001.load = function(){
+  this.firstFnc.apply(this, arguments);
   this.attachLinkPageFnc();
 }
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-cts002.firstFnc = function(info){
+cts002.firstFnc = function(info, pageDictPage){
   this.cmmInfo = info;
   this.clickEvLoc = ".clickEv001:not([style*='display: none'])";
+  this.pageDictPath = pageDictPage + "/";
   var that = this;
 
 $.ajax({
@@ -166,7 +168,7 @@ cts002.attachLinkPageFnc = function(){
   $(this.cmmInfo.loadHtmlId).html(this.templateHtml);
 };
 
-cts002.load = function(info){
-  this.firstFnc(info);
+cts002.load = function(){
+  this.firstFnc.apply(this, arguments);
   this.attachLinkPageFnc();
 }
