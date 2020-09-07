@@ -105,7 +105,7 @@
  },
    "detailGrp"  : [
       { "detailName" : "人口（じんこう）인구",
-        "detailContJap" : "人口密集地域",
+        "detailContJap" : "人口密集地域(じんこうみっしゅうちいき)",
         "detailContKor" : "인구 밀집 지역"
       },
       { "detailName" : "口調（くちょう）말투",
@@ -129,7 +129,7 @@
         "detailContKor" : "금요일밤, 금요일인가?"
       },
       { "detailName" : "金銅（こんどう）금동",
-        "detailContJap" : "金銅の仏像",
+        "detailContJap" : "金銅の仏像(ぶつぞう)",
         "detailContKor" : "금동 불상"
       },
       { "detailName" : "お金(かね) 돈",

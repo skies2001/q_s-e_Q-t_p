@@ -1,6 +1,6 @@
 [
 
-{  "subectName" : "ほん、もと",
+{  "subjectName" : "ほん、もと",
   "mainHanja" : {
        "top" : "本",
        "bottom": "근본 본"
@@ -28,7 +28,7 @@
         "detailContKor" : "무명실 만드는 법"
       },
       { "detailName" : "糸（いと）실",
-        "detailContJap" : "糸から放れた凧",
+        "detailContJap" : "糸から放れた凧(たこ)",
         "detailContKor" : "실에서 떨어져 나간 연"
       }
    ]
@@ -128,7 +128,7 @@
         "detailContKor" : "더워서 윗옷를 벗다"
       },
       { "detailName" : "上(あ)がる 올라가다",
-        "detailContJap" : "米価が上がるものと見込まれる",
+        "detailContJap" : "米価(べいか)が上がるものと見込まれる",
         "detailContKor" : "쌀값이 오를 것으로 전망된다"
       },
       { "detailName" : "上(のぼ)り 상행",

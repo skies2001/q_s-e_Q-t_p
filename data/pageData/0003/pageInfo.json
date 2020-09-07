@@ -7,7 +7,7 @@
  },
    "detailGrp"  : [
       { "detailName" : "有名（ゆうめい）유명",
-        "detailContJap" : "有名ユーチューバーの動画を見ている",
+        "detailContJap" : "有名ユーチューバーの動画(どうが)を見ている",
         "detailContKor" : "유명 유튜버의 동영상을 보고 있다"
       },
       { "detailName" : "名字（みょうじ）성",
@@ -15,7 +15,7 @@
         "detailContKor" : "휘귀한 성을 가진 사람"
       },
       { "detailName" : "名前（なまえ）이름",
-        "detailContJap" : "名前を呼ばれて吃驚する",
+        "detailContJap" : "名前を呼ばれて吃驚(びっくり)する",
         "detailContKor" : "이름이 불려서 깜짝 놀라다"
       }
    ]
@@ -120,7 +120,7 @@
  },
    "detailGrp"  : [
       { "detailName" : "百人（ひゃくにん）100명",
-        "detailContJap" : "大約百人ははいる",
+        "detailContJap" : "大約(たいやく)百人ははいる",
         "detailContKor" : "대략 백 명은 들어간다"
       },
       { "detailName" : "百年（ひゃくねん）백년",
