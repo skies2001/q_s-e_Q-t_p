@@ -1,0 +1,20 @@
+[
+
+{  "subjectName" : "こう、たか",
+   "mainHanja" : {
+      "top" : "高",
+      "bottom": "높을 고"
+  },
+   "detailGrp"  : [
+      { "detailName" : "高校（こうこう）고등학교",
+        "detailContJap" : "高校時代",
+        "detailContKor" : "고교 시절"
+      },
+      { "detailName" : "高(たか)い 높다, 비싸다",
+        "detailContJap" : "声が高い",
+        "detailContKor" : "목소리다 크다"
+      }
+   ]
+}
+
+]

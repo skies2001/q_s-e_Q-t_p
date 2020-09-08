@@ -1,0 +1,156 @@
+[
+
+{  "subjectName" : "か、け、いえ、や",
+   "mainHanja" : {
+      "top" : "家",
+      "bottom": "집 가"
+  },
+   "detailGrp"  : [
+      { "detailName" : "家内（かない）아내, 집사람",
+        "detailContJap" : "家内と同道(どうどう)する",
+        "detailContKor" : "아내와 동행하다"
+      },
+      { "detailName" : "家来（けらい）가신, 부하",
+        "detailContJap" : "家来が多いということは、敵もおおいということ。",
+        "detailContKor" : "하인이 많으면, 적수도 그만큼 많다"
+      },
+      { "detailName" : "家（いえ）집",
+        "detailContJap" : "昔住んだあの家",
+        "detailContKor" : "엣날에 살던 저집"
+      },
+      { "detailName" : "家賃（やちん）집세",
+        "detailContJap" : "家賃が高い",
+        "detailContKor" : "집세가 비싸다"
+      }
+   ]
+},
+{  "subjectName" : "か、うた",
+   "mainHanja" : {
+      "top" : "歌",
+      "bottom": "노래 가"
+  },
+   "detailGrp"  : [
+      { "detailName" : "歌手（かしゅ）가수",
+        "detailContJap" : "人気歌手を追い回(まわ)す",
+        "detailContKor" : "인기 가수를 따라다니다"
+      },
+      { "detailName" : "歌(うた)う 노래하다",
+        "detailContJap" : "流行歌(りゅうこうか)一曲(いっきょく)を歌う",
+        "detailContKor" : "유행가 한 곡을 부르다"
+      }
+   ]
+},
+{  "subjectName" : "かく(음)、かど、つの",
+   "mainHanja" : {
+      "top" : "角",
+      "bottom": "뿔 각"
+  },
+   "detailGrp"  : [
+      { "detailName" : "角度（かくど）각도",
+        "detailContJap" : "角度を測る",
+        "detailContKor" : "각도를 재다"
+      },
+      { "detailName" : "角（かど）모퉁이, 귀퉁이",
+        "detailContJap" : "角を曲がれば大通(おおどお)りに出る",
+        "detailContKor" : "모퉁이를 돌면 큰길이 나온다"
+      },
+      { "detailName" : "角（つの）뿔, 각",
+        "detailContJap" : "牛の角で人を突いた",
+        "detailContKor" : "소가 뿔로 사람을 받았다"
+      }
+   ]
+},
+{  "subjectName" : "かん、けん、あいだ、ま",
+   "mainHanja" : {
+      "top" : "間",
+      "bottom": "사이 간"
+  },
+   "detailGrp"  : [
+      { "detailName" : "中間（ちゅうかん）중간",
+        "detailContJap" : "駅と銀行(ぎんこう)の中間",
+        "detailContKor" : "역과 은행의 사이"
+      },
+      { "detailName" : "世間（せけん）세상, 사회, 세간",
+        "detailContJap" : "よく世間にある事だ",
+        "detailContKor" : "흔히 세상에 있는 일이다"
+      },
+      { "detailName" : "間（あいだ）거리, 동안, 사이, 관계",
+        "detailContJap" : "生徒(せいと)の間に人気がある",
+        "detailContKor" : "학생들 사이에 인기가 있다"
+      },
+      { "detailName" : "間(ま)もなく 곧",
+        "detailContJap" : "間もなく花見時(どき)が来る",
+        "detailContKor" : "곧 꽃구경 철이 온다"
+      }
+   ]
+},
+{  "subjectName" : "きょう、ごう、つよ、し",
+   "mainHanja" : {
+      "top" : "強",
+      "bottom": "굳셀 강"
+  },
+   "detailGrp"  : [
+      { "detailName" : "強力（きょうりょく）강력",
+        "detailContJap" : "強力に反論(はんろん)を提起(ていき)する",
+        "detailContKor" : "강력하게 반론을 제기하다"
+      },
+      { "detailName" : "強盗（ごうとう）강도",
+        "detailContJap" : "乗客(じょうきゃく)が強盗に開き直る",
+        "detailContKor" : "승객이 강도로 돌변하다"
+      },
+      { "detailName" : "強(つよ)い 세다, 강하다",
+        "detailContJap" : "彼らは強い",
+        "detailContKor" : "그들은 강하다"
+      },
+      { "detailName" : "強(し)いる 억지로 시키다",
+        "detailContJap" : "自分の考えを人に強いる",
+        "detailContKor" : "자신의 생각을 나에게 강요하다"
+      }
+   ]
+},
+{  "subjectName" : "きょう(음)、けい(음)",
+   "mainHanja" : {
+      "top" : "京",
+      "bottom": "서울 경"
+  },
+   "detailGrp"  : [
+      { "detailName" : "東京（とうきょう）도쿄(일본 지명)",
+        "detailContJap" : "東京を経てアメリカに帰る",
+        "detailContKor" : "동경을 거쳐 미국에 돌아가다"
+      }
+   ]
+},
+{  "subjectName" : "けい、はか",
+   "mainHanja" : {
+      "top" : "計",
+      "bottom": "셈할 셈"
+  },
+   "detailGrp"  : [
+      { "detailName" : "計算（けいさん）계산",
+        "detailContJap" : "計算がぴったり合わない",
+        "detailContKor" : "계산이 딱 맞지 않는다"
+      },
+      { "detailName" : "計(はか)る 달다, 재다",
+        "detailContJap" : "体長(たいちょう)を計る",
+        "detailContKor" : "몸길이를 재다"
+      }
+   ]
+},
+{  "subjectName" : "こ、ふる",
+   "mainHanja" : {
+      "top" : "古",
+      "bottom": "옛 고"
+  },
+   "detailGrp"  : [
+      { "detailName" : "古代（こだい）고대",
+        "detailContJap" : "古代文明の遺跡",
+        "detailContKor" : "고대 문명의 유적"
+      },
+      { "detailName" : "古(ふる)い 낡다, 오래되다",
+        "detailContJap" : "古いものを直して用いる",
+        "detailContKor" : "헌 것을 고쳐서 사용하다"
+      }
+   ]
+}
+
+]
