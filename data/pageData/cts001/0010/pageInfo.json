@@ -82,7 +82,7 @@
       "bottom": "흙 토"
   },
    "detailGrp"  : [
-      { "detailName" : "土器（とき）토기",
+      { "detailName" : "土器（どき）토기",
         "detailContJap" : "土器の片割れが見つかる",
         "detailContKor" : "토기의 파편이 발견되다"
       },
