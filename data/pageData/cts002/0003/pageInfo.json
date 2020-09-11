@@ -1,0 +1,133 @@
+[
+
+{  "subjectName" : "こく、くに",
+   "mainHanja" : {
+      "top" : "国",
+      "bottom": "나라 국"
+  },
+   "detailGrp"  : [
+      { "detailName" : "国民（こくみん）국민",
+        "detailContJap" : "全国民から嫌われる",
+        "detailContKor" : "전 군민으로부터 미움을 받다"
+      },
+      { "detailName" : "国（くに）나라, 고향",
+        "detailContJap" : "どの国に訪問(ほうもん)したいですか？",
+        "detailContKor" : "어느 나라를 방문하고 싶습니까?"
+      }
+   ]
+},
+{  "subjectName" : "きゅう、ゆみ",
+   "mainHanja" : {
+      "top" : "弓",
+      "bottom": "활 궁"
+  },
+   "detailGrp"  : [
+      { "detailName" : "弓道（きゅうどう）궁도",
+        "detailContJap" : "弓道大会",
+        "detailContKor" : "궁도대회"
+      },
+      { "detailName" : "弓（ゆみ）활",
+        "detailContJap" : "弓を射る",
+        "detailContKor" : "활을 쏘다"
+      }
+   ]
+},
+{  "subjectName" : "き、かえ",
+   "mainHanja" : {
+      "top" : "帰",
+      "bottom": "돌아올 귀"
+  },
+   "detailGrp"  : [
+      { "detailName" : "帰宅（きたく）귀택, 귀가",
+        "detailContJap" : "まっすぐに帰宅する",
+        "detailContKor" : "곧장 귀가하다"
+      },
+      { "detailName" : "帰(かえ)る 돌아오다, 돌아가다",
+        "detailContJap" : "家に帰ったら三時だった",
+        "detailContKor" : "집에 돌아오니 3시 였다"
+      }
+   ]
+},
+{  "subjectName" : "きん、ちか",
+   "mainHanja" : {
+      "top" : "近",
+      "bottom": "가까울 근"
+  },
+   "detailGrp"  : [
+      { "detailName" : "近所（きんじょ）근처, 이웃",
+        "detailContJap" : "学校の近所に住んでいる",
+        "detailContKor" : "학교 근처에 살고 있다"
+      },
+      { "detailName" : "近(ちか)い 가깝다",
+        "detailContJap" : "別れが近い男女の特徴(とくちょう)5選",
+        "detailContKor" : "이별이 가까운 남여의 특징 5선"
+      }
+   ]
+},
+{  "subjectName" : "こん、きん、いま(훈)",
+   "mainHanja" : {
+      "top" : "今",
+      "bottom": "이제 금"
+  },
+   "detailGrp"  : [
+      { "detailName" : "今度（こんど）이번",
+        "detailContJap" : "今度の休みには海に行くことにした",
+        "detailContKor" : "이번 휴가는 바다로 가기로 했다"
+      },
+      { "detailName" : "古今（こきん）고금",
+        "detailContJap" : "古今の名作(めいさく)",
+        "detailContKor" : "고금의 명작"
+      },
+      { "detailName" : "今（いま）지금",
+        "detailContJap" : "今本気で言うのか",
+        "detailContKor" : "지금 진심으로 하는 말이냐"
+      }
+   ]
+},
+{  "subjectName" : "き(음)",
+   "mainHanja" : {
+      "top" : "汽",
+      "bottom": "김 기"
+  },
+   "detailGrp"  : [
+      { "detailName" : "汽車（きしゃ）기차(증기 기관차)",
+        "detailContJap" : "やっと汽車に乗れた",
+        "detailContKor" : " 기차를 탈 수 있었다"
+      }
+   ]
+},
+{  "subjectName" : "き、しる",
+   "mainHanja" : {
+      "top" : "記",
+      "bottom": "기록할 기"
+  },
+   "detailGrp"  : [
+      { "detailName" : "記入（きにゅう）기입",
+        "detailContJap" : "空白に答えを記入しなさい",
+        "detailContKor" : "공백에 답을 기입하시오"
+      },
+      { "detailName" : "記(しる)す 적다, 기억해 두다",
+        "detailContJap" : "書類(しょるい)に番号(ばんごう)を記す",
+        "detailContKor" : "서류에 번호를 적다"
+      }
+   ]
+},
+{  "subjectName" : "なん、な、みなみ(훈)",
+   "mainHanja" : {
+      "top" : "南",
+      "bottom": "남녘 남"
+  },
+   "detailGrp"  : [
+      { "detailName" : "南北（なんぼく）남북",
+        "detailContJap" : "南北の地域差(ちいきさ)",
+        "detailContKor" : "남북의 지역차"
+      },
+      { "detailName" : "南（みなみ）남쪽",
+        "detailContJap" : "風が南へ回る",
+        "detailContKor" : "바람이 남쪽으로 돌다"
+      }
+   ]
+}
+
+
+]

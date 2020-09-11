@@ -64,7 +64,7 @@
        "bottom": "학교 교"
  },
    "detailGrp"  : [
-      { "detailName" : "学校（がんこう）학교",
+      { "detailName" : "学校（がっこう）학교",
         "detailContJap" : "学校へ行く道で先生に会った",
         "detailContKor" : "학교 가는 길에 선생님을 만났다"
       },

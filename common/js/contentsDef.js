@@ -3,7 +3,7 @@ var cts001 = {
 };
 
 var cts002 = {
-  maxBtnCnt : 2
+  maxBtnCnt : 3
 };
 
 var cts999 = {

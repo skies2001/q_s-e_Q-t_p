@@ -15,6 +15,171 @@
         "detailContKor" : "목소리다 크다"
       }
    ]
+},
+{  "subjectName" : "こう、かんが",
+   "mainHanja" : {
+      "top" : "考",
+      "bottom": "생각할 고"
+  },
+   "detailGrp"  : [
+      { "detailName" : "参考（さんこう）참고",
+        "detailContJap" : "人の意見を参考する",
+        "detailContKor" : "남의 의견을 참고하다"
+      },
+      { "detailName" : "考(かんが)える 생각하다",
+        "detailContJap" : "考えれば考えるほどわからない",
+        "detailContKor" : "생각하면 생각할수록 모르겠다"
+      }
+   ]
+},
+{  "subjectName" : "こく、たに",
+   "mainHanja" : {
+      "top" : "谷",
+      "bottom": "굴 곡"
+  },
+   "detailGrp"  : [
+      { "detailName" : "渓谷（けいこく）계곡",
+        "detailContJap" : "深い渓谷",
+        "detailContKor" : "깊은 계곡"
+      },
+      { "detailName" : "谷（たに）골짜기",
+        "detailContJap" : "谷が深い",
+        "detailContKor" : "골짜기가 깊다"
+      }
+   ]
+},
+{  "subjectName" : "こう、く、たくみ(훈)",
+   "mainHanja" : {
+      "top" : "工",
+      "bottom": "장인 공"
+  },
+   "detailGrp"  : [
+      { "detailName" : "工事（こうじ）공사",
+        "detailContJap" : "ダム工事で水没した村",
+        "detailContKor" : "댐 공사로 수몰된 마을"
+      },
+      { "detailName" : "大工（だいく）목수, 목수 일",
+        "detailContJap" : "大工の仕事先",
+        "detailContKor" : "목수의 일터"
+      },
+      { "detailName" : "工（たくみ）장인, 기교",
+        "detailContJap" : "工",
+        "detailContKor" : "장인, 기교",
+        "soundFlg": 0
+      }
+   ]
+},
+{  "subjectName" : "こう、おおやけ",
+   "mainHanja" : {
+      "top" : "公",
+      "bottom": "공변될 공"
+  },
+   "detailGrp"  : [
+      { "detailName" : "公平（こうへい）공평",
+        "detailContJap" : "公平な目で見る",
+        "detailContKor" : "공평한 눈으로 보다"
+      },
+      { "detailName" : "公（おおやけ）국가, 정부, 공공",
+        "detailContJap" : "公の場所(ばしょ)",
+        "detailContKor" : "공공장소"
+      }
+   ]
+},
+{  "subjectName" : "か(음)",
+   "mainHanja" : {
+      "top" : "科",
+      "bottom": "과목 과"
+  },
+   "detailGrp"  : [
+      { "detailName" : "科目（かもく）과목",
+        "detailContJap" : "好きな科目か得意(とくい)なかもく",
+        "detailContKor" : "좋아하는 과목이나 잘하는 과목"
+      },
+      { "detailName" : "教科（きょうか）교과",
+        "detailContJap" : "得意な教科で人生(じんせい)変わります",
+        "detailContKor" : "잘하는 교과에 따라 인생이 바뀝니다"
+      }
+   ]
+},
+{  "subjectName" : "こう、ひろ",
+   "mainHanja" : {
+      "top" : "広",
+      "bottom": "넓을 광"
+  },
+   "detailGrp"  : [
+      { "detailName" : "広告（こうこく）광고",
+        "detailContJap" : "新聞に広告をでかでかと出した",
+        "detailContKor" : "신문에 광고를 커다랗게 냈다"
+      },
+      { "detailName" : "広(ひろ)い 넓다",
+        "detailContJap" : "この部屋はものすごく広い",
+        "detailContKor" : "이 방은 엄청 넓다"
+      }
+   ]
+},
+{  "subjectName" : "こう(음)、はか、ひかり",
+   "mainHanja" : {
+      "top" : "光",
+      "bottom": "빛 광"
+  },
+   "detailGrp"  : [
+      { "detailName" : "光線（こうせん）광선",
+        "detailContJap" : "太陽(たいよう)光線が強い",
+        "detailContKor" : "태양광선이 강하다"
+      },
+      { "detailName" : "光(ひか)る 빛나다, 반짝이다",
+        "detailContJap" : "靴がぴかぴか光る",
+        "detailContKor" : "구두가 반짝반짝 빛나다"
+      },
+      { "detailName" : "光（ひかり）빛, 불빛",
+        "detailContJap" : "光が鏡に反射する",
+        "detailContKor" : "빛이 거울에 반사하다"
+      }
+   ]
+},
+{  "subjectName" : "きょう(음)、おし、おそ",
+   "mainHanja" : {
+      "top" : "教",
+      "bottom": "가르칠 교"
+  },
+   "detailGrp"  : [
+      { "detailName" : "教室（きょうしつ）교실",
+        "detailContJap" : "教室を掃除する",
+        "detailContKor" : "교실을 청소하다"
+      },
+      { "detailName" : "教(おし)える 가르치다",
+        "detailContJap" : "教えるのが苦手",
+        "detailContKor" : "가르치는것이 서툴다"
+      },
+      { "detailName" : "教(おそ)わる 배우다",
+        "detailContJap" : "先生から教わる",
+        "detailContKor" : "선생님에게 배우다"
+      }
+   ]
+},
+{  "subjectName" : "こう(음)、まじ、ま、か",
+   "mainHanja" : {
+      "top" : "交",
+      "bottom": "사귈 교/엇갈릴 교"
+  },
+   "detailGrp"  : [
+      { "detailName" : "交流（こうりゅう）교류",
+        "detailContJap" : "もう少し交流しましょうか？",
+        "detailContKor" : "소통 조금 더 할까요?"
+      },
+      { "detailName" : "交(まじ)える 교차시키다",
+        "detailContJap" : "銃火(じゅうか)を交える",
+        "detailContKor" : "총격을 주고받다"
+      },
+      { "detailName" : "交(ま)ぜる 뒤섞다",
+        "detailContJap" : "酒に水を交ぜる",
+        "detailContKor" : "술에 물을 섞다"
+      },
+      { "detailName" : "交(か)わす 주고받다",
+        "detailContJap" : "握手(あくしゅ)を交わす",
+        "detailContKor" : "악수를 나누다"
+      }
+   ]
 }
 
 ]
