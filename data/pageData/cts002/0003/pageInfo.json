@@ -127,6 +127,42 @@
         "detailContKor" : "바람이 남쪽으로 돌다"
       }
    ]
+},
+{  "subjectName" : "（冂 、人）ナイ、ダイ、うち",
+   "mainHanja" : {
+      "top" : "内",
+      "bottom": "안 내"
+  },
+   "detailGrp"  : [
+      { "detailName" : "内容（ないよう）내용",
+        "detailContJap" : "あの本は内容が貧弱(ひんじゃく)だ",
+        "detailContKor" : "저 책은 내용이 빈약하다"
+      },
+      { "detailName" : "境内（けいだい）경내(신사 안)",
+        "detailContJap" : "神社(じんじゃ)の境内",
+        "detailContKor" : "신사의 경내"
+      },
+      { "detailName" : "内（うち）안, 속, 동안",
+        "detailContJap" : "三日の内に終わる",
+        "detailContKor" : "사흘 안에 끝나다"
+      }
+   ]
+},
+{  "subjectName" : "（夕）タ、おお",
+   "mainHanja" : {
+      "top" : "多",
+      "bottom": "많을 다"
+  },
+   "detailGrp"  : [
+      { "detailName" : "多数（たすう）다수",
+        "detailContJap" : "この事故で多数の死亡者(しぼうしゃ)を出した",
+        "detailContKor" : "이 사고로 다수의 사망자를 냈다"
+      },
+      { "detailName" : "多い（おお）많다",
+        "detailContJap" : "汁が多いのであふれでた",
+        "detailContKor" : "국물이 많아서 넘쳤다"
+      }
+   ]
 }
 
 

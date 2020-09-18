@@ -1,6 +1,6 @@
 [
 
-{  "subjectName" : "がく、まな",
+{  "subjectName" : "（子）がく、まな",
    "mainHanja" : {
       "top" : "学",
       "bottom": "배울 학"
@@ -32,7 +32,7 @@
       }
    ]
 },
-{  "subjectName" : "か、はな",
+{  "subjectName" : "（艹、亻）か、はな",
    "mainHanja" : {
       "top" : "花",
       "bottom": "꽃 화"
@@ -48,7 +48,7 @@
       }
    ]
 },
-{  "subjectName" : "きゅう、やす",
+{  "subjectName" : "（亻、木）きゅう、やす",
    "mainHanja" : {
       "top" : "休",
       "bottom": "쉴 휴"

@@ -1,6 +1,6 @@
 [
 
-{  "subjectName" : "そく(음)、あし、た",
+{  "subjectName" : "（口）そく(음)、あし、た",
    "mainHanja" : {
      "top" : "足",
      "bottom": "발 족"
@@ -20,7 +20,7 @@
       }
    ]
 },
-{  "subjectName" : "さ、ひだり",
+{  "subjectName" : "（工）さ、ひだり",
    "mainHanja" : {
      "top" : "左",
      "bottom": "왼 좌"
@@ -84,7 +84,7 @@
       }
    ]
 },
-{  "subjectName" : "せん、ち",
+{  "subjectName" : "（十）せん、ち",
    "mainHanja" : {
       "top" : "千",
       "bottom": "일천 천"
@@ -100,7 +100,7 @@
       }
    ]
 },
-{  "subjectName" : "てん(음)、あめ、あま",
+{  "subjectName" : "（大）てん(음)、あめ、あま",
    "mainHanja" : {
       "top" : "天",
       "bottom": "하늘 천"
@@ -137,7 +137,7 @@
       }
    ]
 },
-{  "subjectName" : "せい、しょう、あお(훈)",
+{  "subjectName" : "（月）せい、しょう、あお(훈)",
    "mainHanja" : {
       "top" : "青",
       "bottom": "푸를 청"
@@ -157,7 +157,7 @@
       }
    ]
 },
-{  "subjectName" : "そう、くさ",
+{  "subjectName" : "（艹、早）そう、くさ",
    "mainHanja" : {
       "top" : "草",
       "bottom": "풀 초"

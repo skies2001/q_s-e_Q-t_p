@@ -1,6 +1,6 @@
 [
 
-{  "subjectName" : "そん、むら",
+{  "subjectName" : "（木）そん、むら",
    "mainHanja" : {
       "top" : "村",
       "bottom": "마을 촌"
@@ -16,7 +16,7 @@
       }
    ]
 },
-{  "subjectName" : "しゅつ、すい、で、だ",
+{  "subjectName" : "（凵）しゅつ、すい、で、だ",
    "mainHanja" : {
       "top" : "出",
       "bottom": "날 출"
@@ -96,7 +96,7 @@
       }
    ]
 },
-{  "subjectName" : "かい(훈)",
+{  "subjectName" : "（目、八）かい(훈)",
    "mainHanja" : {
       "top" : "貝",
       "bottom": "조개 패"

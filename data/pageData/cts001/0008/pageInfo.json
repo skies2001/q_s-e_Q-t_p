@@ -40,7 +40,7 @@
       }
    ]
 },
-{  "subjectName" : "じ、あざ",
+{  "subjectName" : "（子）じ、あざ",
   "mainHanja" : {
        "top" : "字",
        "bottom": "글자 자"
@@ -61,7 +61,7 @@
       }
    ]
 },
-{  "subjectName" : "せき、しゃく、あか(훈)",
+{  "subjectName" : "（土）せき、しゃく、あか(훈)",
   "mainHanja" : {
        "top" : "赤",
        "bottom": "붉을 적"
@@ -97,7 +97,7 @@
       }
    ]
 },
-{  "subjectName" : "せい、しょう、ただ、まさ",
+{  "subjectName" : "（止）せい、しょう、ただ、まさ",
   "mainHanja" : {
        "top" : "正",
        "bottom": "바를 정"
@@ -121,7 +121,7 @@
       }
    ]
 },
-{  "subjectName" : "ちょう、まち",
+{  "subjectName" : "（田）ちょう、まち",
   "mainHanja" : {
        "top" : "町",
        "bottom": "밭두둑 정"
@@ -137,7 +137,7 @@
       }
    ]
 },
-{  "subjectName" : "そう、さっ、はや(훈)",
+{  "subjectName" : "（日、十）そう、さっ、はや(훈)",
   "mainHanja" : {
        "top" : "早",
        "bottom": "일찍 조"

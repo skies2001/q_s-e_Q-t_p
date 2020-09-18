@@ -37,7 +37,7 @@
       }
    ]
 },
-{  "subjectName" : "ご、いつ",
+{  "subjectName" : "（二）ご、いつ",
   "mainHanja" : {
        "top" : "五",
        "bottom": "다섯 오"
@@ -89,7 +89,7 @@
       }
    ]
 },
-{  "subjectName" : "う、ゆう、みぎ(훈)",
+{  "subjectName" : "（口）う、ゆう、みぎ(훈)",
   "mainHanja" : {
        "top" : "右",
        "bottom": "오른 우"
@@ -129,7 +129,7 @@
       }
    ]
 },
-{  "subjectName" : "えん、まる",
+{  "subjectName" : "（冂）えん、まる",
   "mainHanja" : {
        "top" : "円",
        "bottom": "둥근 원"

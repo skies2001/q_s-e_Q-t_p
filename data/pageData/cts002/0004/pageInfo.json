@@ -1,0 +1,170 @@
+[
+
+{  "subjectName" : "（艹 ）チャ、サ",
+   "mainHanja" : {
+      "top" : "茶",
+      "bottom": "차 다/차 차"
+  },
+   "detailGrp"  : [
+      { "detailName" : "紅茶（こうちゃ）홍차",
+        "detailContJap" : "紅茶をちびりちびり飲む",
+        "detailContKor" : "홍차를 홀짝홀짝 마시다"
+      },
+      { "detailName" : "茶道（さどう）다도",
+        "detailContJap" : "茶道の所作(しょさ)に学ぶ",
+        "detailContKor" : "다도 동작에서 배우다"
+      }
+   ]
+},
+{  "subjectName" : "（竹）トウ、こた",
+   "mainHanja" : {
+      "top" : "答",
+      "bottom": "대답할 답"
+  },
+   "detailGrp"  : [
+      { "detailName" : "回答（かいとう）회답",
+        "detailContJap" : "回答は文書(ぶんしょ)でお願いします",
+        "detailContKor" : "회답은 문서로 부탁합니다"
+      },
+      { "detailName" : "答える（こた）대답하다",
+        "detailContJap" : "相手に呼び掛けに答える",
+        "detailContKor" : "상대방의 부름에 응답하다"
+      }
+   ]
+},
+{  "subjectName" : "（⺌ ）トウ、あ",
+   "mainHanja" : {
+      "top" : "当",
+      "bottom": "마땅할 당"
+  },
+   "detailGrp"  : [
+      { "detailName" : "本当（ほんとう）진짜, 사실, 진정함, 정상",
+        "detailContJap" : "本当に愛してくれる人",
+        "detailContKor" : "진실로 사랑해 주는 사람"
+      },
+      { "detailName" : "当日（とうじつ）당일",
+        "detailContJap" : "事件当日の行動(こうどう)を調べ上げる",
+        "detailContKor" : "사건 당일의 행동을 철저히 조사하다"
+      },
+      { "detailName" : "当たる（あ）맞다, 부딪히다, 적중하다",
+        "detailContJap" : "予報(よほう)が当たる",
+        "detailContKor" : "예보가 들어맞다"
+      }
+   ]
+},
+{  "subjectName" : "（口）ダイ、タイ",
+   "mainHanja" : {
+      "top" : "台",
+      "bottom": "토대 대/별 태"
+  },
+   "detailGrp"  : [
+      { "detailName" : "灯台（とうだい）등대",
+        "detailContJap" : "闇を照らす灯台",
+        "detailContKor" : "어둠을 밝히는 등대"
+      },
+      { "detailName" : "台風（たいふう）태풍",
+        "detailContJap" : "台風で海がしける",
+        "detailContKor" : "태풍으로 바다가 거세지다"
+      }
+   ]
+},
+{  "subjectName" : "（口、メ）ズ、ト、はか",
+   "mainHanja" : {
+      "top" : "図",
+      "bottom": "그림 도"
+  },
+   "detailGrp"  : [
+      { "detailName" : "地図（ちず）지도",
+        "detailContJap" : "机の上に地図を広げて見る",
+        "detailContKor" : "책상 위에 지도를 펼쳐 보다"
+      },
+      { "detailName" : "図書館（としょかん）도서관",
+        "detailContJap" : "この本を図書館に持って行きなさい",
+        "detailContKor" : "이 책을 보서관에 가져가시오"
+      },
+      { "detailName" : "図る（はか）꾀하다, 예측하다",
+        "detailContJap" : "自分の利益(りえき)ばかり図る",
+        "detailContKor" : "자신의 이익만 도모하다"
+      }
+   ]
+},
+{  "subjectName" : "トウ、かたな",
+   "mainHanja" : {
+      "top" : "刀",
+      "bottom": "칼 도"
+  },
+   "detailGrp"  : [
+      { "detailName" : "大刀（だいとう）대도, 큰 칼",
+        "detailContJap" : "だいとうを腰に差す",
+        "detailContKor" : "대도를 허리에 차다"
+      },
+      { "detailName" : "刀（かたな）칼",
+        "detailContJap" : "刀で竹をすぱりと切り倒す",
+        "detailContKor" : "칼로 대나무를 싹뚝 잘라 넘기,"
+      }
+   ]
+},
+{  "subjectName" : "（辶、自 ）ドウ、トウ、みち",
+   "mainHanja" : {
+      "top" : "道",
+      "bottom": "길 도"
+  },
+   "detailGrp"  : [
+      { "detailName" : "道路（どうろ）도로",
+        "detailContJap" : "地震で道路に亀裂が出来る",
+        "detailContKor" : "지진으로 도로에 균열이 생기다"
+      },
+      { "detailName" : "神道（しんとう）신도",
+        "detailContJap" : "神道",
+        "detailContKor" : "신도",
+        "soundFlg" : 0
+      },
+      { "detailName" : "道（みち）길, 도로",
+        "detailContJap" : "道を間違えたな",
+        "detailContKor" : "길을 잘못 들렀군"
+      }
+   ]
+},
+{  "subjectName" : "（言、売）ドク、トク、トウ、よ",
+   "mainHanja" : {
+      "top" : "読",
+      "bottom": "읽을 독"
+  },
+   "detailGrp"  : [
+      { "detailName" : "読書（どくしょ）독서",
+        "detailContJap" : "多読するのも読書方法の一つだ",
+        "detailContKor" : "다독하는 것도 독서의 방법의 하나다"
+      },
+      { "detailName" : "読本（とくほん）독본",
+        "detailContJap" : "小学読本（しょうがく）",
+        "detailContKor" : "초등학교 교과서",
+        "soundFlg" : 0
+      },
+      { "detailName" : "句読点（くとうてん）구두점(쉼표나 마침표 같은 문장 구분표)",
+        "detailContJap" : "句読点を打つ",
+        "detailContKor" : "구두점을 찍다"
+      },
+      { "detailName" : "読む（よ）읽다",
+        "detailContJap" : "本を読む暇がない",
+        "detailContKor" : "책을 읽을 틈이 없다"
+      }
+   ]
+},
+{  "subjectName" : "（夂 ）トウ、ふゆ",
+   "mainHanja" : {
+      "top" : "冬",
+      "bottom": "겨울 동"
+  },
+   "detailGrp"  : [
+      { "detailName" : "冬眠（とうみん）동면(겨울잠)",
+        "detailContJap" : "クマは冬眠する習性(しゅうせい)がある",
+        "detailContKor" : "곰은 동면하는 습성이 있다"
+      },
+      { "detailName" : "冬（ふゆ）겨울",
+        "detailContJap" : "冬なので、革ジャンパーがよく売れるな",
+        "detailContKor" : "겨울이라서 가죽점퍼가 잘 팔리네"
+      }
+   ]
+}
+
+]
