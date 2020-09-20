@@ -26,6 +26,12 @@ ctsCmm001.firstFnc = function(info,  pageInfo){
   cmm.attachLinkDomFnc($("#movePage"), this.maxBtnCnt, "linkPage");
 };
 
+
+ctsCmm001.savePagePos = function(){
+    var linkBtns = $(this.cmmInfo.loadLinkBtnId).find("a.linkPage");
+    localStorage.setItem("mainMenuIndex", $("#mainMenu").prop("selectedIndex"));
+    localStorage.setItem("linkPageIndex", linkBtns.index(linkBtns.filter(".activeBtn")));
+};
 ctsCmm001.attachLinkPageFnc = function(){
   var that = this;
   $("a.linkPage").click(function(){
@@ -117,6 +123,7 @@ ctsCmm001.attachLinkPageFnc = function(){
         }); // end ajax
         $(".activeBtn").removeClass("activeBtn");
         $(this).addClass("activeBtn")
+        that.savePagePos();
     }); // end clickEvent
 
     cmm.scrollEventFnc($(that.cmmInfo.loadHtmlId));
@@ -128,4 +135,5 @@ ctsCmm001.attachLinkPageFnc = function(){
 ctsCmm001.load = function(){
   this.firstFnc.apply(this, arguments);
   this.attachLinkPageFnc();
+
 }

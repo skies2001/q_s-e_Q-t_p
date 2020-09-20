@@ -32,7 +32,7 @@
       }
    ]
 },
-{  "subjectName" : "くう(음)、そら、から、あ",
+{  "subjectName" : "（穴）くう(음)、そら、から、あ",
   "mainHanja" : {
        "top" : "空",
        "bottom": "하늘 공/빌 공"
@@ -58,7 +58,7 @@
    ]
 
 },
-{  "subjectName" : "こう(음)",
+{  "subjectName" : "（木、六）こう(음)",
   "mainHanja" : {
        "top" : "校",
        "bottom": "학교 교"

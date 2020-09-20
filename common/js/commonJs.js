@@ -1,18 +1,6 @@
 var cmm = {};
 cmm.info = {};
 
-cmm.load = function(){
-  var that = this;
-  $.ajax({
-        url : "../data/cmmInfo.json"
-      , dataType : "json"
-      , async : false
-      , success : function(rslt){
-          that.info = rslt;
-      }
-  });
-};
-
 cmm.attachLinkDomFnc = function(target, maxBtnCnt, addClass){
     for(var i=0; i<maxBtnCnt ; i++){
         var aTag = $(document.createElement("a"));
@@ -22,7 +10,23 @@ cmm.attachLinkDomFnc = function(target, maxBtnCnt, addClass){
         target.append("\n\t\t").append(aTag);
         if((i+1) == maxBtnCnt) target.append("\n");
     }
+};
+
+cmm.storePos = function(){
+    localStorage.setItem("scrollTop", $(window).scrollTop());
 }
+
+cmm.scrollPosCheckEvt = function(){
+    var timeInfo = null;
+    $(window).on("scroll", function(){
+        if(timeInfo == null){
+                timeInfo = setTimeout(function(){
+                        cmm.storePos();
+                        timeInfo = null;
+                },500);
+        }
+    });
+};
 
   cmm.scrollEventFnc = function(loadHtml){
         $(".scrollMoveBtn").click(function(ev, param){
@@ -48,15 +52,38 @@ cmm.attachLinkDomFnc = function(target, maxBtnCnt, addClass){
         });
   };
 
+  cmm.loadScrollPos  = function(){
+
+      var loadPos = localStorage.getItem("scrollTop");
+      if($.isNumeric(loadPos)){
+          $(window).scrollTop(loadPos);
+          console.log(loadPos, "load");
+      }
+  };
+
   cmm.afterScrollFnc = function(devMod){
     switch(devMod){
       case 1:
         $("a.linkPage").last().trigger("click");
-        $("#moveBottom").trigger("click",{"slowTime" : 0});
+        //$("#moveBottom").trigger("click",{"slowTime" : 0});
+
         break;
       default:
           $("a.linkPage").first().trigger("click");
-          $("#moveTop").trigger("click",{"slowTime" : 0});
+         //$("#moveTop").trigger("click",{"slowTime" : 0});
         break;
     }
+    this.loadScrollPos();
+  };
+  cmm.load = function(){
+    var that = this;
+    $.ajax({
+          url : "../data/cmmInfo.json"
+        , dataType : "json"
+        , async : false
+        , success : function(rslt){
+            that.info = rslt;
+        }
+    });
+    this.scrollPosCheckEvt();
   };

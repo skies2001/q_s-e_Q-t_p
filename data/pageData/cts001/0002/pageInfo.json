@@ -1,6 +1,6 @@
 [
 
-{  "subjectName" : "き(음)、け(음)",
+{  "subjectName" : "（气 、メ）き(음)、け(음)",
   "mainHanja" : {
        "top" : "気",
        "bottom": "기운 기"
@@ -16,7 +16,7 @@
       }
    ]
 },
-{  "subjectName" : "だん、なん、おとこ(훈)",
+{  "subjectName" : "（田、力）だん、なん、おとこ(훈)",
   "mainHanja" : {
        "top" : "男",
        "bottom": "사내 남"
@@ -60,7 +60,7 @@
       }
    ]
 },
-{  "subjectName" : "ねん、とし",
+{  "subjectName" : "（干）ねん、とし",
   "mainHanja" : {
        "top" : "年",
        "bottom": "해 년"
@@ -116,7 +116,7 @@
       }
    ]
 },
-{  "subjectName" : "りん、はやし",
+{  "subjectName" : "（木）りん、はやし",
   "mainHanja" : {
        "top" : "林",
        "bottom": "수풀 림"
