@@ -124,6 +124,7 @@ ctsCmm001.attachLinkPageFnc = function(){
         $(".activeBtn").removeClass("activeBtn");
         $(this).addClass("activeBtn")
         that.savePagePos();
+        $("#moveTop").trigger("click",{"slowTime" : 0});
     }); // end clickEvent
 
     cmm.scrollEventFnc($(that.cmmInfo.loadHtmlId));
