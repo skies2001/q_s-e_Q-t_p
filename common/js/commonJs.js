@@ -23,7 +23,7 @@ cmm.scrollPosCheckEvt = function(){
                 timeInfo = setTimeout(function(){
                         cmm.storePos();
                         timeInfo = null;
-                },500);
+                },250);
         }
     });
 };
@@ -33,9 +33,10 @@ cmm.scrollPosCheckEvt = function(){
             if(!(param instanceof Object)) param = {};
 
             var body = $("body, html");
-            var scrollPos = 0;
+            var scrollPos =  0;
             var slowTime = $.isNumeric(param.slowTime)
                                          ? param.slowTime : 400;
+
             body.stop();
             switch(this.id){
                 case "moveTop":
@@ -53,27 +54,22 @@ cmm.scrollPosCheckEvt = function(){
   };
 
   cmm.loadScrollPos  = function(){
-
       var loadPos = localStorage.getItem("scrollTop");
       if($.isNumeric(loadPos)){
           $(window).scrollTop(loadPos);
-          console.log(loadPos, "load");
       }
   };
-
-  cmm.afterScrollFnc = function(devMod){
-    switch(devMod){
-      case 1:
-        $("a.linkPage").last().trigger("click");
-        //$("#moveBottom").trigger("click",{"slowTime" : 0});
-
-        break;
-      default:
+  cmm.afterScrollFnc = function(){
+      if(cmm.info.firstLoad == 1){
+          var linkPageIndex = localStorage.getItem("linkPageIndex");
+          var activeBtn = $("a.linkPage").eq(linkPageIndex);
+          activeBtn.trigger("click");
+          this.loadScrollPos();
+          cmm.info.firstLoad = 0;
+      }else{
           $("a.linkPage").first().trigger("click");
-         //$("#moveTop").trigger("click",{"slowTime" : 0});
-        break;
-    }
-    this.loadScrollPos();
+          $("#moveTop").trigger("click",{"slowTime" : 0});
+      }
   };
   cmm.load = function(){
     var that = this;
@@ -86,4 +82,9 @@ cmm.scrollPosCheckEvt = function(){
         }
     });
     this.scrollPosCheckEvt();
+    var mainMenuIndex =  localStorage.getItem("mainMenuIndex");
+    var loadOp = $("#mainMenu option").eq(mainMenuIndex);
+    if(loadOp.length > 0){
+        loadOp.prop("selected", true);
+    }
   };

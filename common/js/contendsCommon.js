@@ -127,7 +127,7 @@ ctsCmm001.attachLinkPageFnc = function(){
     }); // end clickEvent
 
     cmm.scrollEventFnc($(that.cmmInfo.loadHtmlId));
-    cmm.afterScrollFnc(that.cmmInfo.devMod);
+    cmm.afterScrollFnc();
 
 
 }; // end attachLinkPage
