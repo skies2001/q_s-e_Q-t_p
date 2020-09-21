@@ -44,7 +44,7 @@ cmm.changeMoveBtn = function(target, maxBtnCnt, movePage, addNames, options){
     }
     if(options.first){
       $.each(numBtns, function(idx, item){
-          $(item).text(firstNum+idx).removeClass(".activeBtn");
+          $(item).text(firstNum+idx).removeClass(addNames.activeBtn);
           ($(item).text() <= maxBtnCnt) ? $(item).removeClass(addNames.hidden)
                                                                         : $(item).addClass(addNames.hidden);
       });
@@ -117,12 +117,15 @@ cmm.scrollPosCheckEvt = function(){
       }
   };
   cmm.afterScrollFnc = function(pageInfo){
+    var loadScroll = true;
       if(this.info.firstLoad == 1){
            var linkPageNum = localStorage.getItem("linkPageNum");
            this.changeMoveBtn($("#movePage"), pageInfo.maxBtnCnt,linkPageNum,pageInfo.addNames);
            var activeBtn = null;
            if(!$.isNumeric(linkPageNum)){
               linkPageNum = 1;
+              loadScroll = false;
+              localStorage.setItem("scrollTop","0");
            }
            $.each($("a.linkPage." +pageInfo.addNames.number ), function(idx, item){
              if($(item).text() == linkPageNum){
@@ -130,7 +133,8 @@ cmm.scrollPosCheckEvt = function(){
                return false;
              }
            });
-           this.loadScrollPos();
+           if(loadScroll) this.loadScrollPos();
+
            cmm.info.firstLoad = 0;
       }else{
           $("a.linkPage.number").first().trigger("click");
