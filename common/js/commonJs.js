@@ -1,14 +1,71 @@
 var cmm = {};
 cmm.info = {};
 
-cmm.attachLinkDomFnc = function(target, maxBtnCnt, addClass){
-    for(var i=0; i<maxBtnCnt ; i++){
-        var aTag = $(document.createElement("a"));
-        aTag.addClass(addClass);
-        aTag.attr("href", "javascript:void(0);");
-        aTag.text(i+1);
+cmm.attachLinkDomFnc = function(target, maxBtnCnt, addNames){
+var drawBtsCnt = 7;
+    for(var i=0; i<drawBtsCnt ; i++){
+      var aTag = $(document.createElement("a"));
+      aTag.addClass(addNames.linkPage);
+     aTag.addClass(addNames.hidden);
+      aTag.attr("href", "javascript:void(0);");
+        if(i == 0 || drawBtsCnt == i+1){
+          var arrowBtn = $(document.createElement("i"));;
+          if(i == 0){
+              arrowBtn.addClass("fas fa-arrow-up");
+              aTag.addClass(addNames.prevPage);
+          }else{
+              arrowBtn.addClass("fas fa-arrow-down");
+              aTag.addClass(addNames.nextPage);
+          }
+          aTag.addClass(addNames.arrow);
+          aTag.append(arrowBtn);
+        }else{
+            aTag.addClass(addNames.number);
+
+        }
         target.append("\n\t\t").append(aTag);
-        if((i+1) == maxBtnCnt) target.append("\n");
+        if((i+1) == drawBtsCnt) target.append("\n");
+    }
+    this.changeMoveBtn(target, maxBtnCnt,1,addNames, {first : true});
+};
+cmm.changeMoveBtn = function(target, maxBtnCnt, movePage, addNames, options){
+    if(!(options instanceof Object)) options = {};
+    if(movePage < 1) movePage = 1;
+    if(movePage > maxBtnCnt) movePage = maxBtnCnt;
+
+    var changeFlg = true;
+    var firstNum = (Math.ceil(movePage/5)-1)*5+1;
+    var numBtns = target.find("."+addNames.number);
+    var prevBtn = target.find("."+addNames.prevPage);
+    var nextBtn = target.find("."+addNames.nextPage);
+
+    if(options.first && maxBtnCnt > 5){
+        nextBtn.removeClass(addNames.hidden);
+    }
+    if(options.first){
+      $.each(numBtns, function(idx, item){
+          $(item).text(firstNum+idx).removeClass(".activeBtn");
+          ($(item).text() <= maxBtnCnt) ? $(item).removeClass(addNames.hidden)
+                                                                        : $(item).addClass(addNames.hidden);
+      });
+      changeFlg = false;
+    }else{
+      $.each(numBtns, function(idx, item){
+          if($(item).text() == movePage){
+              changeFlg = false;
+          }
+      });
+    }
+    if(changeFlg){
+        (firstNum > 1) ? prevBtn.removeClass(addNames.hidden)
+                                     :  prevBtn.addClass(addNames.hidden);
+        $.each(numBtns, function(idx, item){
+            $(item).text(firstNum+idx).removeClass(addNames.activeBtn);
+            ($(item).text() <= maxBtnCnt) ? $(item).removeClass(addNames.hidden)
+                                                                          : $(item).addClass(addNames.hidden);
+        });
+        (maxBtnCnt >= firstNum+5) ? nextBtn.removeClass(addNames.hidden)
+                                                                  :  nextBtn.addClass(addNames.hidden);
     }
 };
 
@@ -59,15 +116,22 @@ cmm.scrollPosCheckEvt = function(){
           $(window).scrollTop(loadPos);
       }
   };
-  cmm.afterScrollFnc = function(){
-      if(cmm.info.firstLoad == 1){
-          var linkPageIndex = localStorage.getItem("linkPageIndex");
-          var activeBtn = $("a.linkPage").eq(linkPageIndex);
-          activeBtn.trigger("click");
-          this.loadScrollPos();
-          cmm.info.firstLoad = 0;
+  cmm.afterScrollFnc = function(pageInfo){
+      if(this.info.firstLoad == 1){
+           var linkPageIndex = localStorage.getItem("linkPageIndex");
+           this.changeMoveBtn($("#movePage"), pageInfo.maxBtnCnt,linkPageIndex,pageInfo.addNames);
+           var activeBtn = null;
+           $.each($("a.linkPage." +pageInfo.addNames.number ), function(idx, item){
+
+             if($(item).text() == linkPageIndex){
+                $(item).trigger("click");
+                return false;
+             }
+           });
+           this.loadScrollPos();
+           cmm.info.firstLoad = 0;
       }else{
-          $("a.linkPage").first().trigger("click");
+          $("a.linkPage.number").first().trigger("click");
           $("#moveTop").trigger("click",{"slowTime" : 0});
       }
   };

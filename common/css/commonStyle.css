@@ -114,13 +114,20 @@ a.linkPage {
 #movePage a {
     text-decoration: none;
     color: #2020c3;
-    border: 1px solid #2020c3;
-    border-radius: 3px;
     margin-top: 2px;
     float: right;
     width: 100%;
     box-sizing: border-box;
-
+}
+#movePage a.number {
+    border: 1px solid #2020c3;
+    border-radius: 3px;
+}
+#movePage a.linkPage i {
+  font-size: 50px;
+}
+#movePage a.nextPage {
+  margin-top: 10px;
 }
 
 .activeBtn {
@@ -166,4 +173,7 @@ a.linkPage {
 .scrollMoveBtn>button{
     font-family: 'M PLUS Rounded 1c', sans-serif;
     font-weight: bold;
+}
+a.linkPage.hidden {
+    display: none;
 }

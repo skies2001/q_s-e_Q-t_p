@@ -4,6 +4,15 @@ ctsCmm001.firstFnc = function(info,  pageInfo){
   this.clickEvLoc = ".clickEv001:not([style*='display: none'])";
   this.pageDictPath = pageInfo.pageDictPath ;
   this.maxBtnCnt     =pageInfo.maxBtnCnt
+  this.addNames = {
+    linkPage : "linkPage",
+    number : "number",
+    prevPage : "prevPage",
+    nextPage : "nextPage",
+    hidden : "hidden",
+    arrow : "arrow",
+    activeBtn : "activeBtn"
+  };
   var that = this;
 
   $.ajax({
@@ -23,18 +32,29 @@ ctsCmm001.firstFnc = function(info,  pageInfo){
         $(that.cmmInfo.loadLinkBtnId).html(rslt);
     }
   });
-  cmm.attachLinkDomFnc($("#movePage"), this.maxBtnCnt, "linkPage");
+
+  cmm.attachLinkDomFnc($("#movePage"), this.maxBtnCnt, this.addNames);
 };
 
 
 ctsCmm001.savePagePos = function(){
     var linkBtns = $(this.cmmInfo.loadLinkBtnId).find("a.linkPage");
     localStorage.setItem("mainMenuIndex", $("#mainMenu").prop("selectedIndex"));
-    localStorage.setItem("linkPageIndex", linkBtns.index(linkBtns.filter(".activeBtn")));
+    localStorage.setItem("linkPageIndex", linkBtns.filter(".activeBtn").text());
 };
 ctsCmm001.attachLinkPageFnc = function(){
   var that = this;
-  $("a.linkPage").click(function(){
+  $("a.linkPage.arrow").click(function(){
+      var movePage = Number($("a.linkPage.activeBtn").text());
+      if($(this).hasClass(that.addNames.prevPage)){
+          movePage-=5;
+      } else if($(this).hasClass(that.addNames.nextPage)){
+        movePage+=5;
+      }
+      cmm.changeMoveBtn($("#movePage"), that.maxBtnCnt,movePage,that.addNames);
+      $("a.linkPage.number").eq(0).trigger("click");
+  });
+  $("a.linkPage.number").click(function(){
       var pageLoc = that.pageDictPath + this.innerText.padStart(that.cmmInfo.page.padCount,"0");
       var pageHeadPath =  that.cmmInfo.page.headPath;
       var pageInfoUrl = pageHeadPath + pageLoc + "/pageInfo.json";
@@ -121,14 +141,16 @@ ctsCmm001.attachLinkPageFnc = function(){
                 });  //end clickEvent
             } // end success
         }); // end ajax
-        $(".activeBtn").removeClass("activeBtn");
-        $(this).addClass("activeBtn")
+        if($(this).hasClass("number")){
+            $(".activeBtn").removeClass("activeBtn");
+            $(this).addClass("activeBtn")
+        }
         that.savePagePos();
         $("#moveTop").trigger("click",{"slowTime" : 0});
     }); // end clickEvent
 
     cmm.scrollEventFnc($(that.cmmInfo.loadHtmlId));
-    cmm.afterScrollFnc();
+    cmm.afterScrollFnc(that);
 
 
 }; // end attachLinkPage
