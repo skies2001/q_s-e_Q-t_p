@@ -165,6 +165,22 @@
         "detailContKor" : "겨울이라서 가죽점퍼가 잘 팔리네"
       }
    ]
+},
+{  "subjectName" : "（木、田）トウ、ひがし",
+   "mainHanja" : {
+      "top" : "東",
+      "bottom": "동녘 동"
+  },
+   "detailGrp"  : [
+      { "detailName" : "東西（とうざい）동서",
+        "detailContJap" : "東西文化の交流",
+        "detailContKor" : "동서 문화의 교류"
+    },
+    { "detailName" : "東（ひがし）동쪽",
+      "detailContJap" : "日は東より出て西に沈む",
+      "detailContKor" : "해는 동쪽에서 떠서 서쪽으로 진다"
+    }
+   ]
 }
 
 ]

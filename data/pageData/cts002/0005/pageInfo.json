@@ -1,0 +1,159 @@
+[
+
+{  "subjectName" : "（口、冂）ドウ、おな",
+   "mainHanja" : {
+      "top" : "同",
+      "bottom": "한가지 동"
+  },
+   "detailGrp"  : [
+      { "detailName" : "同時（どうじ）",
+        "detailContJap" : "同時にいちはやく駆け付けた",
+        "detailContKor" : "동시에 재빨리 달려갔다"
+    },
+    { "detailName" : "同じ（おな）같음, 동일함",
+      "detailContJap" : "二人は同じ年ごろだ",
+      "detailContKor" : ""
+    }
+   ]
+},
+{  "subjectName" : "（頁、묘 ）トウ、ズ、ト、あたま、かしる",
+   "mainHanja" : {
+      "top" : "頭",
+      "bottom": "머리 두"
+  },
+   "detailGrp"  : [
+      { "detailName" : "先頭（せんとう）선두",
+        "detailContJap" : "社長みずから先頭に立つ",
+        "detailContKor" : "사장이 몸소 선두에 서다"
+      },
+      { "detailName" : "頭痛（ずつう）두통",
+        "detailContJap" : "試験のことを考えると頭痛がする",
+        "detailContKor" : "시험 생각만 하면 머리가 아프다"
+      },
+      { "detailName" : "頭（あたま）머리",
+        "detailContJap" : "頭を壁に強くぶつける",
+        "detailContKor" : "머리를 벽에 세개 들이받다"
+      },
+      { "detailName" : "頭（かしら）우두머리, 두목",
+        "detailContJap" : "頭",
+        "detailContKor" : "우두머리, 두목",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（木、白）ラク、ガク、たの",
+   "mainHanja" : {
+      "top" : "楽",
+      "bottom": "즐길 락/풍류 악"
+  },
+   "detailGrp"  : [
+      { "detailName" : "楽園（らくえん）낙원",
+        "detailContJap" : "地上の楽園",
+        "detailContKor" : "지상 낙원"
+      },
+      { "detailName" : "音楽（おんがく）음악",
+        "detailContJap" : "アイポッドに音楽を入れる方法",
+        "detailContKor" : "아이팟에 음악 넣는 방법"
+      },
+      { "detailName" : "楽しい（たの）즐겁다",
+        "detailContJap" : "本を読む時が一番楽しい",
+        "detailContKor" : "책을 읽을 때가 가장 즐겁다"
+      }
+   ]
+},
+{  "subjectName" : "（木）ライ、く、きた",
+   "mainHanja" : {
+      "top" : "来",
+      "bottom": "올 래"
+  },
+   "detailGrp"  : [
+      { "detailName" : "来年（らいねん）내년",
+        "detailContJap" : "彼は来年また来るそうです",
+        "detailContKor" : "그는 내년에 다시 온답니다"
+      },
+      { "detailName" : "未来（みらい）미래",
+        "detailContJap" : "明るい未来に向かって努力しましょう",
+        "detailContKor" : "밝은 미래를 향해 노력합시다"
+      },
+      { "detailName" : "来る（く）오다",
+        "detailContJap" : "家に来るなと言った",
+        "detailContKor" : "집에 오지 말라고 했다"
+      },
+      { "detailName" : "来る（きた）오는, 다가오는",
+        "detailContJap" : "来るものは拒まず、去る者は追わず",
+        "detailContKor" : "오는 사람은 막지 않고, 가는 사람 쫓지 않는다"
+      }
+   ]
+},
+{  "subjectName" : "（田）リ、さと",
+   "mainHanja" : {
+      "top" : "里",
+      "bottom": "마을 리"
+  },
+   "detailGrp"  : [
+      { "detailName" : "里程標（りていひょう）이정표",
+        "detailContJap" : "新しい里程標を打ち立てる",
+        "detailContKor" : "새로운 이정표를 세우다"
+      },
+      { "detailName" : "里（さと）마을, 동네, 고향",
+        "detailContJap" : "里を離れた山奥",
+        "detailContKor" : "마을에서 떨어진 산속"
+      }
+   ]
+},
+{  "subjectName" : "（里）リ",
+   "mainHanja" : {
+      "top" : "理",
+      "bottom": "다스릴 리"
+  },
+   "detailGrp"  : [
+      { "detailName" : "理解（りかい）이해",
+        "detailContJap" : "正しく理解する",
+        "detailContKor" : "올바르게 이해하다"
+      },
+      { "detailName" : "地理（ちり）지리",
+        "detailContJap" : "このあたりの地理に明るい",
+        "detailContKor" : "이 근처 지리에 밝다"
+      }
+   ]
+},
+{  "subjectName" : "バ、うま、ま",
+   "mainHanja" : {
+      "top" : "馬",
+      "bottom": "말 마"
+  },
+   "detailGrp"  : [
+      { "detailName" : "木馬（もくば）목마",
+        "detailContJap" : "回転木馬がくるくる回る",
+        "detailContKor" : "회전목마가 빙글빙글 돌다"
+      },
+      { "detailName" : "馬（うま）말",
+        "detailContJap" : "馬を柵の中に追い込む",
+        "detailContKor" : "말을 우리 안으로 몰아넣다"
+      },
+      { "detailName" : "馬子（まご）마부",
+        "detailContJap" : "馬子",
+        "detailContKor" : "마부",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "マン、バン",
+   "mainHanja" : {
+      "top" : "万",
+      "bottom": "일만 만"
+  },
+   "detailGrp"  : [
+      { "detailName" : "一万（いちまん）10,000",
+        "detailContJap" : "一万",
+        "detailContKor" : "1만",
+        "soundFlg" : 0
+      },
+      { "detailName" : "万歳（ばんざい）만세",
+        "detailContJap" : "わあ、合格だ、万歳",
+        "detailContKor" : "와 합격이다 만세"
+      }
+   ]
+}
+
+]
