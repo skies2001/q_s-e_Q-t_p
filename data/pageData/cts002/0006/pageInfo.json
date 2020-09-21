@@ -1,0 +1,165 @@
+[
+
+{  "subjectName" : "（貝）バイ、か",
+   "mainHanja" : {
+      "top" : "買",
+      "bottom": "살 매"
+  },
+   "detailGrp"  : [
+      { "detailName" : "売買（ばいばい）매매",
+        "detailContJap" : "不動産の売買",
+        "detailContKor" : "부동산 매매"
+      },
+      { "detailName" : "買う（か）사다",
+        "detailContJap" : "帰り道に売店で買う",
+        "detailContKor" : "돌아가는 길에 매점에서 사다"
+      }
+   ]
+},{  "subjectName" : "（毌）マイ",
+   "mainHanja" : {
+      "top" : "毎",
+      "bottom": "매양 매"
+  },
+   "detailGrp"  : [
+      { "detailName" : "毎日（まいにち）매일",
+        "detailContJap" : "毎日新しい事件が起きる",
+        "detailContKor" : "날마다 새로운 사건이 발생한다"
+      },
+      { "detailName" : "毎回（まいかい）매회, 매번",
+        "detailContJap" : "毎回無得点に終わる",
+        "detailContKor" : "매회 무득점으로 끝나다"
+      }
+   ]
+},
+{  "subjectName" : "（女、未）マイ、いもうと",
+   "mainHanja" : {
+      "top" : "妹",
+      "bottom": "아래우니 매"
+  },
+   "detailGrp"  : [
+      { "detailName" : "姉妹（しまい）자매",
+        "detailContJap" : "あの姉妹は年子だ",
+        "detailContKor" : "저 자매는 연년생이다"
+      },
+      { "detailName" : "妹（いもうと）여동생",
+        "detailContJap" : "姉にそっくりな妹",
+        "detailContKor" : "언니를 꼭 닮은 여동생"
+      }
+   ]
+},
+{  "subjectName" : "（土、夂）バク、むぎ",
+   "mainHanja" : {
+      "top" : "麦",
+      "bottom": "보리 맥"
+  },
+   "detailGrp"  : [
+      { "detailName" : "麦芽（ばくが）맥아",
+        "detailContJap" : "麦芽",
+        "detailContKor" : "맥아",
+        "soundFlg" : 0
+      },
+      { "detailName" : "麦（むぎ）보리",
+        "detailContJap" : "白米に麦を混ぜて食べる",
+        "detailContKor" : "흰쌀에 보리를 석어 먹다"
+      }
+   ]
+},
+{  "subjectName" : "（日、月）メイ、ミョウ、あ、あか、あき",
+   "mainHanja" : {
+      "top" : "明",
+      "bottom": "밝을 명"
+  },
+   "detailGrp"  : [
+      { "detailName" : "明白（めいはく）명백",
+        "detailContJap" : "明白な事実",
+        "detailContKor" : "명백한 사실"
+      },
+      { "detailName" : "明ける（あ）밝다(날이)",
+        "detailContJap" : "年が明ける",
+        "detailContKor" : "새해가 되다"
+      },
+      { "detailName" : "明るい（あか）밝다",
+        "detailContJap" : "明るい性格",
+        "detailContKor" : "밝은 성격"
+      },
+      { "detailName" : "明らか（あき）분명함, 명백함",
+        "detailContJap" : "事件の真相が明らかにされた",
+        "detailContKor" : "사건의 진상이 밝혀졌다"
+      }
+   ]
+},
+{  "subjectName" : "（鳥 、口）メイ、な",
+   "mainHanja" : {
+      "top" : "鳴",
+      "bottom": "울 명"
+  },
+   "detailGrp"  : [
+      { "detailName" : "悲鳴（ひめい）비명",
+        "detailContJap" : "悲鳴をあげる",
+        "detailContKor" : "비명을 지르다"
+      },
+      { "detailName" : "鳴る（な）소리가 나다, 울리다",
+        "detailContJap" : "ずどんと大砲が鳴る",
+        "detailContKor" : "꽝 하고 대포 소리가 나다"
+      },
+      { "detailName" : "鳴く（な）울다(새, 벌레, 동물 등이)",
+        "detailContJap" : "山羊がめえめえと鳴く",
+        "detailContKor" : "염소가 음매 음매 울다"
+      }
+   ]
+},
+{  "subjectName" : "ボ、はは",
+   "mainHanja" : {
+      "top" : "母",
+      "bottom": "어미 모"
+  },
+   "detailGrp"  : [
+      { "detailName" : "祖母（そぼ）조모, 할머니",
+        "detailContJap" : "僕は祖母のもとで育った",
+        "detailContKor" : "나는 할머니 밑에서 자랐다"
+      },
+      { "detailName" : "母（はは）어머니",
+        "detailContJap" : "母を尋ね旅に出る",
+        "detailContKor" : "어머니를 찾아 길 떠나다"
+      }
+   ]
+},
+{  "subjectName" : "モウ、け",
+   "mainHanja" : {
+      "top" : "毛",
+      "bottom": "털 모"
+  },
+   "detailGrp"  : [
+      { "detailName" : "毛布（もうふ）모포, 담요",
+        "detailContJap" : "毛布で体をくるむ",
+        "detailContKor" : "담요로 몸을 감싸다"
+      },
+      { "detailName" : "毛（け）털",
+        "detailContJap" : "毛が抜ける",
+        "detailContKor" : "털이 빠지다"
+      }
+   ]
+},
+{  "subjectName" : "（門、耳）ブン、モン、き",
+   "mainHanja" : {
+      "top" : "聞",
+      "bottom": "들을 문"
+  },
+   "detailGrp"  : [
+      { "detailName" : "新聞（しんぶん）신문",
+        "detailContJap" : "新聞も読めない",
+        "detailContKor" : "신문도 읽을 줄 모른다"
+      },
+      { "detailName" : "聴聞会（ちょうもんかい）청문회",
+        "detailContJap" : "聴聞会",
+        "detailContKor" : "청문회",
+        "soundFlg" : 0
+      },
+      { "detailName" : "聞く（き）듣다, 묻다",
+        "detailContJap" : "この音楽を聞くと心が和む",
+        "detailContKor" : "이 음악을 들으면 마음이 차분해진다"
+      }
+   ]
+}
+
+]

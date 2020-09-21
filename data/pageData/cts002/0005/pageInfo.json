@@ -154,6 +154,21 @@
         "detailContKor" : "와 합격이다 만세"
       }
    ]
+},{  "subjectName" : "（土）バイ、うる、うれる",
+   "mainHanja" : {
+      "top" : "売",
+      "bottom": "팔 매"
+  },
+   "detailGrp"  : [
+      { "detailName" : "販売（はんばい）판매",
+        "detailContJap" : "4K テレビの販売が急増する",
+        "detailContKor" : "4K TV 판매가 급증하다"
+      },
+      { "detailName" : "売る（う）팔다",
+        "detailContJap" : "底で買っ天井で売る",
+        "detailContKor" : "바닥 시세에 사서 최고가로 팔다"
+      }
+   ]
 }
 
 ]

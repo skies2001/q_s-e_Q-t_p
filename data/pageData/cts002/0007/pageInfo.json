@@ -1,0 +1,56 @@
+[
+
+{  "subjectName" : "（木）マイ、ベイ、こめ",
+   "mainHanja" : {
+      "top" : "米",
+      "bottom": "쌀 미"
+  },
+   "detailGrp"  : [
+      { "detailName" : "白米（はくまい）백미",
+        "detailContJap" : "白米を配給する",
+        "detailContKor" : "백미를 배급하다"
+      },
+      { "detailName" : "日米（にちべい）일미(일본과 미국)",
+        "detailContJap" : "日米間に不協和音が生じる",
+        "detailContKor" : "일미간에 불협화음이 생기다"
+      },
+      { "detailName" : "米（こめ）쌀",
+        "detailContJap" : "米を米蔵に入れて置く",
+        "detailContKor" : "쌀을 곳간에 넣어 두다"
+      }
+   ]
+},
+{  "subjectName" : "（十）ハン、なか",
+   "mainHanja" : {
+      "top" : "半",
+      "bottom": "반 반"
+  },
+   "detailGrp"  : [
+      { "detailName" : "半分（はんぶん）반, 절반",
+        "detailContJap" : "月の半分は出張だ",
+        "detailContKor" : "한 달의 절반은 출장이다"
+      },
+      { "detailName" : "半ば（なかば）절반, 중앙",
+        "detailContJap" : "本の半ばをとばして読む",
+        "detailContKor" : "책 중간을 건너뛰고 읽다"
+      }
+   ]
+},
+{  "subjectName" : "ホウ、かた",
+   "mainHanja" : {
+      "top" : "方",
+      "bottom": "모 방"
+  },
+   "detailGrp"  : [
+      { "detailName" : "方向（ほうこう）방향",
+        "detailContJap" : "左の方向にハンドルを切る",
+        "detailContKor" : "왼쪽 방향으로 핸들을 꺾다"
+      },
+      { "detailName" : "方（かた）방위, 방향, 분(사람의 높임말)",
+        "detailContJap" : "こっちの方がずっといい",
+        "detailContKor" : "이편이 훨씬 낫다"
+      }
+   ]
+}
+
+]
