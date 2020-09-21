@@ -118,14 +118,16 @@ cmm.scrollPosCheckEvt = function(){
   };
   cmm.afterScrollFnc = function(pageInfo){
       if(this.info.firstLoad == 1){
-           var linkPageIndex = localStorage.getItem("linkPageIndex");
-           this.changeMoveBtn($("#movePage"), pageInfo.maxBtnCnt,linkPageIndex,pageInfo.addNames);
+           var linkPageNum = localStorage.getItem("linkPageNum");
+           this.changeMoveBtn($("#movePage"), pageInfo.maxBtnCnt,linkPageNum,pageInfo.addNames);
            var activeBtn = null;
+           if(!$.isNumeric(linkPageNum)){
+              linkPageNum = 1;
+           }
            $.each($("a.linkPage." +pageInfo.addNames.number ), function(idx, item){
-
-             if($(item).text() == linkPageIndex){
-                $(item).trigger("click");
-                return false;
+             if($(item).text() == linkPageNum){
+               $(item).trigger("click");
+               return false;
              }
            });
            this.loadScrollPos();

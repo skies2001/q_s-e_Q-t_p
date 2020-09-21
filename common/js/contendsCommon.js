@@ -40,7 +40,7 @@ ctsCmm001.firstFnc = function(info,  pageInfo){
 ctsCmm001.savePagePos = function(){
     var linkBtns = $(this.cmmInfo.loadLinkBtnId).find("a.linkPage");
     localStorage.setItem("mainMenuIndex", $("#mainMenu").prop("selectedIndex"));
-    localStorage.setItem("linkPageIndex", linkBtns.filter(".activeBtn").text());
+    localStorage.setItem("linkPageNum", linkBtns.filter(".activeBtn").text());
 };
 ctsCmm001.attachLinkPageFnc = function(){
   var that = this;
