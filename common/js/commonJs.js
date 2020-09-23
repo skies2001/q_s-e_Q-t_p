@@ -21,7 +21,6 @@ var drawBtsCnt = 7;
           aTag.append(arrowBtn);
         }else{
             aTag.addClass(addNames.number);
-
         }
         target.append("\n\t\t").append(aTag);
         if((i+1) == drawBtsCnt) target.append("\n");
@@ -68,7 +67,6 @@ cmm.changeMoveBtn = function(target, maxBtnCnt, movePage, addNames, options){
                                                                   :  nextBtn.addClass(addNames.hidden);
     }
 };
-
 cmm.storePos = function(){
     localStorage.setItem("scrollTop", $(window).scrollTop());
 }

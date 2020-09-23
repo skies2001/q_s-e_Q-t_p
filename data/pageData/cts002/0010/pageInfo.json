@@ -1,0 +1,154 @@
+[
+
+{  "subjectName" : "（日、寺）ジ、とき",
+   "mainHanja" : {
+      "top" : "時",
+      "bottom": "때 시"
+  },
+   "detailGrp"  : [
+      { "detailName" : "時間（じかん）시간",
+        "detailContJap" : "病院は待ち時間が長い",
+        "detailContKor" : "병원은 대기 시간이 길다"
+      },
+      { "detailName" : "時（とき）때",
+        "detailContJap" : "幼い時、遊んだ所",
+        "detailContKor" : "어릴 적에 놀던 곳"
+      }
+   ]
+},
+{  "subjectName" : "ショク、ジキ、た、く",
+   "mainHanja" : {
+      "top" : "食",
+      "bottom": "밥 식"
+  },
+   "detailGrp"  : [
+      { "detailName" : "食事（しょくじ）식사",
+        "detailContJap" : "不規則な食事",
+        "detailContKor" : "불규칙한 식사"
+      },
+      { "detailName" : "断食（だんじき）단식",
+        "detailContJap" : "断食療法",
+        "detailContKor" : "단식 요법"
+      },
+      { "detailName" : "食べる（た）먹다",
+        "detailContJap" : "何をして食べているのか",
+        "detailContKor" : "무엇을 해서 먹고 사나"
+      },
+      { "detailName" : "食う（く）먹다",
+        "detailContJap" : "食うだけの働きをする",
+        "detailContKor" : "먹는 만큼의 일을 하다(밥값을 하다)"
+      }
+   ]
+},
+{  "subjectName" : "（立、木、斤）シン、あたら、あら、にい",
+   "mainHanja" : {
+      "top" : "新",
+      "bottom": "새로울 신"
+  },
+   "detailGrp"  : [
+      { "detailName" : "新年（しんねん）신년, 새해",
+        "detailContJap" : "新年おめでとうございます",
+        "detailContKor" : "새해 복 많이 많으세요"
+      },
+      { "detailName" : "新しい（あたら）새롭다",
+        "detailContJap" : "毎日新しい事件が起きる",
+        "detailContKor" : "날마다 새로운 사건이 발생한다"
+      },
+      { "detailName" : "新た（あら）새로움",
+        "detailContJap" : "人生の新たな出発",
+        "detailContKor" : "인생의 새로운 출발"
+      },
+      { "detailName" : "新妻（にいづま）새색시",
+        "detailContJap" : "新妻",
+        "detailContKor" : "새색시"
+        ,"soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（宀、土）シツ、むろ",
+   "mainHanja" : {
+      "top" : "室",
+      "bottom": "집 실"
+  },
+   "detailGrp"  : [
+      { "detailName" : "室内（しつない）실내",
+        "detailContJap" : "室内の通気が悪い",
+        "detailContKor" : "실내 통기가 안좋다"
+      },
+      { "detailName" : "室（むろ）방, 암굴",
+        "detailContJap" : "笑声が室から漏れて来た",
+        "detailContKor" : "웃음소리가 방에서 새어 나왔다"
+      }
+   ]
+},
+{  "subjectName" : "シン、こころ",
+   "mainHanja" : {
+      "top" : "心",
+      "bottom": "마음 심"
+  },
+   "detailGrp"  : [
+      { "detailName" : "心理（しんり）심리",
+        "detailContJap" : "君の心理を私はよく分からない",
+        "detailContKor" : "자네 심리를 나는 잘 모르겠다"
+      },
+      { "detailName" : "心（こころ）마음",
+        "detailContJap" : "親の心を痛める",
+        "detailContKor" : "부모 마음을 괴롭히다(가슴에 못을 박다)"
+      }
+   ]
+},
+{  "subjectName" : "（頁、立）ガン、かお",
+   "mainHanja" : {
+      "top" : "顔",
+      "bottom": "얼굴 안"
+  },
+   "detailGrp"  : [
+      { "detailName" : "洗顔（せんがん）세안, 세수",
+        "detailContJap" : "洗顔がいつからできますか？",
+        "detailContKor" : "세안은 언제부터 할 수 있을까요?"
+      },
+      { "detailName" : "顔（かお）얼굴",
+        "detailContJap" : "顔に傷のある男",
+        "detailContKor" : "얼굴에 상처가 있는 남자"
+      }
+   ]
+},
+{  "subjectName" : "（石、山）ガン、いわ",
+   "mainHanja" : {
+      "top" : "岩",
+      "bottom": "바위 암"
+  },
+   "detailGrp"  : [
+      { "detailName" : "岩石（がんせき）암석",
+        "detailContJap" : "岩石の突き出た海岸",
+        "detailContKor" : "암석이 튀어나온 해안"
+      },
+      { "detailName" : "岩（いわ）바위",
+        "detailContJap" : "びくともしない岩",
+        "detailContKor" : "꿈쩍 않는 바위"
+      }
+   ]
+},
+{  "subjectName" : "（夕、イ、亠）ヤ、よ、よう",
+   "mainHanja" : {
+      "top" : "夜",
+      "bottom": "밤 야"
+  },
+   "detailGrp"  : [
+      { "detailName" : "夜食（やしょく）야식",
+        "detailContJap" : "夜食はなにがいいですかね？",
+        "detailContKor" : "야식은 뭐가 좋을까요?"
+      },
+      { "detailName" : "真夜中（まよなか）한밤중",
+        "detailContJap" : "真夜中まで勉強する",
+        "detailContKor" : "한밤중까지 공부하다"
+      },
+      { "detailName" : "夜（よる）밤",
+        "detailContJap" : "夜おそく出歩くのは危険だ",
+        "detailContKor" : "밤늦게 나다니는 것은 위험하다"
+      }
+   ]
+}
+
+
+]

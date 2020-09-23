@@ -1,0 +1,160 @@
+[
+
+{  "subjectName" : "（土）ジ、てら",
+   "mainHanja" : {
+      "top" : "寺",
+      "bottom": "절 사"
+  },
+   "detailGrp"  : [
+      { "detailName" : "寺院（じいん）사원",
+        "detailContJap" : "現在する最古の寺院",
+        "detailContKor" : "현존하는 가장 오래된 사원"
+      },
+      { "detailName" : "お寺（てら）절",
+        "detailContJap" : "お寺に参る",
+        "detailContKor" : "절에 참배하다"
+      }
+   ]
+},
+{  "subjectName" : "（土）シャ、やしろ",
+   "mainHanja" : {
+      "top" : "社",
+      "bottom": "모일 사"
+  },
+   "detailGrp"  : [
+      { "detailName" : "社会（しゃかい）사회",
+        "detailContJap" : "学校卒業して社会に出る",
+        "detailContKor" : "학교를 졸업하고 사회에 진출하다"
+      },
+      { "detailName" : "社（やしろ）신을 모신 건물",
+        "detailContJap" : "零陣をまつった社",
+        "detailContKor" : "영험이 있는 신을 모신 신사"
+      }
+   ]
+},
+{  "subjectName" : "（竹、目）サン",
+   "mainHanja" : {
+      "top" : "算",
+      "bottom": "셈할 산"
+  },
+   "detailGrp"  : [
+      { "detailName" : "算数（さんすう）산수",
+        "detailContJap" : "算数の問題の出す",
+        "detailContKor" : "산수 문제를 내다"
+      },
+      { "detailName" : "予算（よさん）예산",
+        "detailContJap" : "予算を立てる",
+        "detailContKor" : "예산을 세우다"
+      }
+   ]
+},
+{  "subjectName" : "（ク）ショク、シキ、いろ",
+   "mainHanja" : {
+      "top" : "色",
+      "bottom": "빛 색"
+  },
+   "detailGrp"  : [
+      { "detailName" : "特色（とくしょく）특색",
+        "detailContJap" : "特色のある本",
+        "detailContKor" : "특색 있는 책"
+      },
+      { "detailName" : "景色（けしき）경치",
+        "detailContJap" : "景色の良い所",
+        "detailContKor" : "경치 좋은 곳"
+      },
+      { "detailName" : "色（いろ）색, 색깔",
+        "detailContJap" : "不快な色を顔にあらわす",
+        "detailContKor" : "불쾌한 빛을 얼굴에 나타내다"
+      }
+   ]
+},
+{  "subjectName" : "（日）ショ、か",
+   "mainHanja" : {
+      "top" : "書",
+      "bottom": "글 서"
+  },
+   "detailGrp"  : [
+      { "detailName" : "書類（しょるい）서류",
+        "detailContJap" : "秘密書類を整理する",
+        "detailContKor" : "비밀 서류를 정리하다"
+      },
+      { "detailName" : "書く（か）쓰다",
+        "detailContJap" : "手紙を書く",
+        "detailContKor" : "편지를 쓰다"
+      }
+   ]
+},
+{  "subjectName" : "（四）セイ、サイ、にし",
+   "mainHanja" : {
+      "top" : "西",
+      "bottom": "서녘 서"
+  },
+   "detailGrp"  : [
+      { "detailName" : "西洋（せいよう）서양",
+        "detailContJap" : "西洋の文物を取り入れる",
+        "detailContKor" : "서양의 문물을 받아들이다"
+      },
+      { "detailName" : "関西（かんさい）관서(일본 지명)",
+        "detailContJap" : "関西方言",
+        "detailContKor" : "관서방언"
+      },
+      { "detailName" : "西（にし）서쪽",
+        "detailContJap" : "西の空が赤く染まった",
+        "detailContKor" : "서쪽 하늘이 붉게 물들었다"
+      }
+   ]
+},
+{  "subjectName" : "（凢、八、口）セン、ふね、ふな",
+   "mainHanja" : {
+      "top" : "船",
+      "bottom": "배 선"
+  },
+   "detailGrp"  : [
+      { "detailName" : "船員（せんいん）선원",
+        "detailContJap" : "貨物船で働く船員",
+        "detailContKor" : "화물선에서 일하는 선원"
+      },
+      { "detailName" : "船（ふね）배",
+        "detailContJap" : "船が川底に沈んだ",
+        "detailContKor" : "배가 강바닥에 가라앉았다"
+      },
+      { "detailName" : "船便（ふなびん）선편, 배편",
+        "detailContJap" : "その島へは船便がありますか",
+        "detailContKor" : "그 섬으로 가는 배편이 있습니까"
+      }
+   ]
+},
+{  "subjectName" : "（糸、白、水）セン",
+   "mainHanja" : {
+      "top" : "線",
+      "bottom": "줄 선"
+  },
+   "detailGrp"  : [
+      { "detailName" : "線路（せんろ）선로",
+        "detailContJap" : "電話線路",
+        "detailContKor" : "전화선로"
+      },
+      { "detailName" : "直線（ちょくせん）직선",
+        "detailContJap" : "二点を通る直線",
+        "detailContKor" : "두 점을 지나는 직선"
+      }
+   ]
+},
+{  "subjectName" : "（雨、ヨ）セツ、ゆき",
+   "mainHanja" : {
+      "top" : "雪",
+      "bottom": "눈 설"
+  },
+   "detailGrp"  : [
+      { "detailName" : "雪原（せつげん）설원",
+        "detailContJap" : "雪原と北アルプスが美しい冬晴れ",
+        "detailContKor" : "설원과 북알프스가 아름다운 겨울 날씨"
+      },
+      { "detailName" : "雪（ゆき）눈",
+        "detailContJap" : "雪が降りそうです",
+        "detailContKor" : "눈이 올 것 같아요"
+      }
+   ]
+}
+
+]

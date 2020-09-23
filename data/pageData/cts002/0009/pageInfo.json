@@ -1,0 +1,148 @@
+[
+
+{  "subjectName" : "（土）セイ、ジョウ、こえ、こわ",
+   "mainHanja" : {
+      "top" : "声",
+      "bottom": "소리 성"
+  },
+   "detailGrp"  : [
+      { "detailName" : "声楽（せいがく）성악",
+        "detailContJap" : "声楽のレッスンに通う",
+        "detailContKor" : "성악 레슨을 받으러 다니다"
+      },
+      { "detailName" : "声（こえ）목소리",
+        "detailContJap" : "驚きのあまり声も出ない",
+        "detailContKor" : "놀란 나머지 말도 안 나온다"
+      },
+      { "detailName" : "声色（こわいろ）목소리, 음색",
+        "detailContJap" : "声色をまねる",
+        "detailContKor" : "음색을 흉내 내다(성대모사)"
+      }
+   ]
+},
+{  "subjectName" : "（日、生）セイ、ショウ、ほし",
+   "mainHanja" : {
+      "top" : "星",
+      "bottom": "별 성"
+  },
+   "detailGrp"  : [
+      { "detailName" : "火星（かせい）화성",
+        "detailContJap" : "科学燃料ロケットを利用して火星に向かう",
+        "detailContKor" : "화학 연로 로켓을 이용하여 화성에 가다"
+      },
+      { "detailName" : "星（ほし）별",
+        "detailContJap" : "夜空に流れる星を見ろ",
+        "detailContKor" : "밤하늘에 흐르는 별을 보라"
+      }
+   ]
+},
+{  "subjectName" : "（糸、田）サイ、ほそ、こま",
+   "mainHanja" : {
+      "top" : "細",
+      "bottom": "가늘 세"
+  },
+   "detailGrp"  : [
+      { "detailName" : "細菌（さいきん）세균",
+        "detailContJap" : "細菌検査を行う",
+        "detailContKor" : "세균 검사를 하다  "
+      },
+      { "detailName" : "細い（ほそ）가늘다",
+        "detailContJap" : "指が細い",
+        "detailContKor" : "손가락이 가늘다"
+      },
+      { "detailName" : "細かい（こま）작다, 자세하다",
+        "detailContJap" : "細かい字で書くと読みにくい",
+        "detailContKor" : "잔글씨로 쓰면 읽기 어렵다"
+      }
+   ]
+},
+{  "subjectName" : "（小）ショウ、すく、すこ",
+   "mainHanja" : {
+      "top" : "少",
+      "bottom": "적을 소"
+  },
+   "detailGrp"  : [
+      { "detailName" : "少年（しょうねん）소년",
+        "detailContJap" : "少年時代の思い出をなつかしむ",
+        "detailContKor" : "소년 시절의 추억을 그리워하다"
+      },
+      { "detailName" : "少ない（すく）적다(양이)",
+        "detailContJap" : "骨ばかりで身が少ない",
+        "detailContKor" : "뼈만 있고 살은 적다"
+      },
+      { "detailName" : "少し（すこ）조금, 약간",
+        "detailContJap" : "窓が少しあいている",
+        "detailContKor" : "창문이 약간 열려 있다"
+      }
+   ]
+},
+{  "subjectName" : "（自）シュ、くび",
+   "mainHanja" : {
+      "top" : "首",
+      "bottom": "머리 수"
+  },
+   "detailGrp"  : [
+      { "detailName" : "首都（しゅと）수도",
+        "detailContJap" : "日本の首都は東京で有る",
+        "detailContKor" : "일본의 수도는 도쿄(동경)이다"
+      },
+      { "detailName" : "首（くび）목",
+        "detailContJap" : "首を長くして待つ",
+        "detailContKor" : "목이 빠지게 기다리다"
+      }
+   ]
+},
+{  "subjectName" : "（米、女、攵）スウ、ウ、かず、かぞ",
+   "mainHanja" : {
+      "top" : "数",
+      "bottom": "셀 수"
+  },
+   "detailGrp"  : [
+      { "detailName" : "数学（すうがく）수학",
+        "detailContJap" : "うちの子は数学に弱い",
+        "detailContKor" : "우리 아이는 수학에 약하다"
+      },
+      { "detailName" : "数（かず）수, 개수",
+        "detailContJap" : "数ある作品",
+        "detailContKor" : "수많은 작품"
+      },
+      { "detailName" : "数える（かぞ）수를 세다",
+        "detailContJap" : "百から一まであべこべに数える",
+        "detailContKor" : "100에서 1까지 거꾸로 세다"
+      }
+   ]
+},
+{  "subjectName" : "（巾）シ、いち",
+   "mainHanja" : {
+      "top" : "市",
+      "bottom": "저자 시"
+  },
+   "detailGrp"  : [
+      { "detailName" : "市内（しない）시내",
+        "detailContJap" : "市内に住んでいる",
+        "detailContKor" : "시내에 살고 있다"
+      },
+      { "detailName" : "市場（いちば）시장",
+        "detailContJap" : "魚市場",
+        "detailContKor" : "어시장"
+      }
+   ]
+},
+{  "subjectName" : "（天）シ、や",
+   "mainHanja" : {
+      "top" : "矢",
+      "bottom": "화살 시"
+  },
+   "detailGrp"  : [
+      { "detailName" : "一矢（いっし）화살 한 개",
+        "detailContJap" : "一矢を報いる",
+        "detailContKor" : "화살을 되쏘다, 앙갚음, 반격하다(적의 공격이나 비난에 반격)"
+      },
+      { "detailName" : "矢（や）화살",
+        "detailContJap" : "矢は的の真ん中に的中した",
+        "detailContKor" : "화살은 과녁 한복판에 맞았다"
+      }
+   ]
+}
+
+]

@@ -51,6 +51,120 @@
         "detailContKor" : "이편이 훨씬 낫다"
       }
    ]
-}
+},
+{  "subjectName" : "（田、米）バン",
+   "mainHanja" : {
+      "top" : "番",
+      "bottom": "차례 번"
+  },
+   "detailGrp"  : [
+      { "detailName" : "番号（ばんごう）번호",
+        "detailContJap" : "番号順に並べる",
+        "detailContKor" : "번호순으로 늘어놓다"
+      },
+      { "detailName" : "一番（いちばん）가장, 제일",
+        "detailContJap" : "一番で合格する",
+        "detailContKor" : "일드으로 합격하다"
+      }
+   ]
+ },
+ {  "subjectName" : "（止）ホ、ブ、フ、ある、あゆ",
+    "mainHanja" : {
+       "top" : "歩",
+       "bottom": "걸음 보"
+   },
+    "detailGrp"  : [
+       { "detailName" : "歩道（ほどう）도보",
+         "detailContJap" : "横断歩道",
+         "detailContKor" : "횡단보도"
+       },
+       { "detailName" : "歩く（ある）걷다",
+         "detailContJap" : "歩いて行く",
+         "detailContKor" : "걸어가다"
+       },
+       { "detailName" : "歩む（あゆ）걷다, 거쳐오다, 지나다",
+         "detailContJap" : "苦難の道を歩む",
+         "detailContKor" : "고난의 길을 걷다"
+       }
+    ]
+ },
+ {  "subjectName" : "フ、ちち",
+    "mainHanja" : {
+       "top" : "父",
+       "bottom": "아비 부"
+   },
+    "detailGrp"  : [
+       { "detailName" : "父母（ふぼ）부모",
+         "detailContJap" : "父母の国（くに）",
+         "detailContKor" : "부모의 나라(조국)",
+         "soundFlg" : 0
+       },
+       { "detailName" : "父（ちち）아버지",
+         "detailContJap" : "父の機嫌を損ねる",
+         "detailContKor" : "아버지의 심기를 상하게 하다"
+       }
+    ]
+ },
+ {  "subjectName" : "ホク、きた",
+    "mainHanja" : {
+       "top" : "北",
+       "bottom": "북녘 북/질 배"
+   },
+    "detailGrp"  : [
+       { "detailName" : "北部（ほくぶ）북방",
+         "detailContJap" : "北部地方（ちほう）",
+         "detailContKor" : "북부지방",
+         "soundFlg" : 0
+       },
+       { "detailName" : "北（きた）북쪽",
+         "detailContJap" : "北に残してきた家族をなつかしむ",
+         "detailContKor" : "북쪽에 남겨 두고 온 가족을 그리워하다"
+       }
+    ]
+ },
+ {  "subjectName" : "（八、力）ブン、フン、ブ、わ",
+    "mainHanja" : {
+       "top" : "分",
+       "bottom": "나눌 분"
+   },
+    "detailGrp"  : [
+       { "detailName" : "分離（ぶんり）분리",
+         "detailContJap" : "水と油は完全に分離する",
+         "detailContKor" : "물과 기름은 완전히 분리된다"
+       },
+       { "detailName" : "分別（ふんべつ）분별",
+         "detailContJap" : "分別のない子",
+         "detailContKor" : "철 없는 아이"
+       },
+       { "detailName" : "五分（ごぶ）5푼, 5%",
+         "detailContJap" : "月五分の利子",
+         "detailContKor" : "월 5푼의 이자"
+       },
+       { "detailName" : "分かる（わ）알다, 이해하다",
+         "detailContJap" : "わけが分からない",
+         "detailContKor" : "이유를 알 수 없다"
+       },
+       { "detailName" : "分ける（わ）나누다",
+         "detailContJap" : "学年別に分ける",
+         "detailContKor" : "학년별로 나누다"
+       }
+    ]
+ },
+ {  "subjectName" : "（田、心）シ、おも",
+    "mainHanja" : {
+       "top" : "思",
+       "bottom": "생각 사"
+   },
+    "detailGrp"  : [
+       { "detailName" : "思想（しそう）사상",
+         "detailContJap" : "その時代を特徴づける思想",
+         "detailContKor" : "그 시대를 특징짓는 사상"
+       },
+       { "detailName" : "思う（おも）생각하다",
+         "detailContJap" : "思ったことを言う",
+         "detailContKor" : "생각한 것을 말하다"
+       }
+    ]
+ }
 
 ]
