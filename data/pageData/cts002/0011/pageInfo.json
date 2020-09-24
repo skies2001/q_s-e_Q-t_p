@@ -1,0 +1,148 @@
+[
+
+{  "subjectName" : "（里、マ）ヤ、の",
+   "mainHanja" : {
+      "top" : "野",
+      "bottom": "들 야"
+  },
+   "detailGrp"  : [
+      { "detailName" : "野外（やがい）야외",
+        "detailContJap" : "都塵を離れて、野外の空気を吸う",
+        "detailContKor" : "도시의 번잡함을  벗어나 야외 공기를 마시다"
+      },
+      { "detailName" : "野原（のはら）들, 들판",
+        "detailContJap" : "雪の覆われた山や野原",
+        "detailContKor" : "눈 덮인 산과 들"
+      }
+   ]
+},
+{  "subjectName" : "（弓）ジャク、よわ",
+   "mainHanja" : {
+      "top" : "弱",
+      "bottom": "약할 약"
+  },
+   "detailGrp"  : [
+      { "detailName" : "弱点（じゃくてん）약점",
+        "detailContJap" : "その人の弱点を並べ立てる",
+        "detailContKor" : "그 사람의 약점을 열거하다"
+      },
+      { "detailName" : "弱い（よわ）약하다",
+        "detailContJap" : "弱い癖に強がりを言う",
+        "detailContKor" : "약한 주제에 큰소리치다"
+      }
+   ]
+},
+{  "subjectName" : "（田）ギョ、さかな、うお",
+   "mainHanja" : {
+      "top" : "魚",
+      "bottom": "고기 어"
+  },
+   "detailGrp"  : [
+      { "detailName" : "金魚（きんぎょ）금붕어",
+        "detailContJap" : "網で金魚を掬う",
+        "detailContKor" : "그물로 금붕어를 건져 올리다"
+      },
+      { "detailName" : "魚（さかな、うお）물고기",
+        "detailContJap" : "魚の骨から身を離す",
+        "detailContKor" : "생선 뼈에서 살을  발라내다"
+      }
+   ]
+},
+{  "subjectName" : "（言、五、口）ゴ、かた",
+   "mainHanja" : {
+      "top" : "語",
+      "bottom": "말씀 어"
+  },
+   "detailGrp"  : [
+      { "detailName" : "英語（えいご）영어",
+        "detailContJap" : "英語で百点をもらう",
+        "detailContKor" : "영어에서 백 점을 맞다"
+      },
+      { "detailName" : "語る（かた）말하다, 이야기하다",
+        "detailContJap" : "膝を突き合わせて語る",
+        "detailContKor" : "무릎을 마주 대고 얘기하다"
+      }
+   ]
+},
+{  "subjectName" : "ゲン、ゴン、い、こと",
+   "mainHanja" : {
+      "top" : "言",
+      "bottom": "말씀 언"
+  },
+   "detailGrp"  : [
+      { "detailName" : "言語（げんご）언어",
+        "detailContJap" : "言語を異にする国",
+        "detailContKor" : "언어를 달리하는 나라"
+      },
+      { "detailName" : "無言（むごん）무언",
+        "detailContJap" : "彼は無言で教卓の前に歩み出た",
+        "detailContKor" : "그는 아무 말 없이 교탁 앞으로 걸어 나왔다"
+      },
+      { "detailName" : "言う（い）말하다",
+        "detailContJap" : "お互いに愛しろと言う言葉を口癖ように言う",
+        "detailContKor" : "서로 사랑하라는 말을 입버릇처럼 하다"
+      },
+      { "detailName" : "一言（ひとこと）한마디",
+        "detailContJap" : "一言も忽せにしない",
+        "detailContKor" : "한마디도 소홀히 하지 않다"
+      }
+   ]
+},
+{  "subjectName" : "（十）ゴ",
+   "mainHanja" : {
+      "top" : "午",
+      "bottom": "낮 오"
+  },
+   "detailGrp"  : [
+      { "detailName" : "午前（ごぜん）오전",
+        "detailContJap" : "午前中に仕事を終える",
+        "detailContKor" : "오전 중에 일을 끝내다"
+      },
+      { "detailName" : "正午（しょうご）정오",
+        "detailContJap" : "今まさに正午だ",
+        "detailContKor" : "지금이 바로 정오다"
+      }
+   ]
+},
+{  "subjectName" : "（夕）ガイ、ゲ、そと、ほか、はず",
+   "mainHanja" : {
+      "top" : "外",
+      "bottom": "바깥 외"
+  },
+   "detailGrp"  : [
+      { "detailName" : "外国（がいこく）외국",
+        "detailContJap" : "外国人を毛嫌いする",
+        "detailContKor" : "외국인을 까닭 없이 실어하다"
+      },
+      { "detailName" : "外科（げか）외과",
+        "detailContJap" : "外科手術を受ける",
+        "detailContKor" : "외과 수술을 받다"
+      },
+      { "detailName" : "外（そと、ほか）밖, 바깥",
+        "detailContJap" : "外で遊ぶ",
+        "detailContKor" : "바깥에서 놀다"
+      },
+      { "detailName" : "外（ほか）다른 것, 다른 곳",
+        "detailContJap" : "外に方法がない",
+        "detailContKor" : "달리 방법이 없다"
+      },
+      { "detailName" : "外す（はず）떼다, 풀다",
+        "detailContJap" : "眼鏡を外す",
+        "detailContKor" : "안경을 벗다"
+      }
+   ]
+},
+{  "subjectName" : "（日、ヨ）ヨウ",
+   "mainHanja" : {
+      "top" : "曜" ,
+      "bottom": "빛날 요"
+  },
+   "detailGrp"  : [
+      { "detailName" : "曜日（ようび）요일",
+        "detailContJap" : "月曜日が祝日の場合は別週に振り替えます",
+        "detailContKor" : "월요일이 공휴일인 경우는 다른 주로 대체합니다"
+      }
+   ]
+}
+
+]

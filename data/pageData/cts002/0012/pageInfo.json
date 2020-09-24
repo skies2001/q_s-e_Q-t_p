@@ -1,0 +1,36 @@
+[
+
+{  "subjectName" : "（月）ヨウ、もち",
+   "mainHanja" : {
+      "top" : "用",
+      "bottom": "쓸 용"
+  },
+   "detailGrp"  : [
+      { "detailName" : "利用（りよう）이용",
+        "detailContJap" : "随時利用できる",
+        "detailContKor" : "수시로 이용할 수 있다"
+      },
+      { "detailName" : "用いる（もち）사용하다, 채용하다",
+        "detailContJap" : "湯で緩めて用いる",
+        "detailContKor" : "더운물을 타서 쓰다"
+      }
+   ]
+},
+{  "subjectName" : "（）ウ、は、はね",
+   "mainHanja" : {
+      "top" : "羽",
+      "bottom": "날개 우"
+  },
+   "detailGrp"  : [
+      { "detailName" : "羽毛（うもう）우모, 깃털, 새털",
+        "detailContJap" : "羽毛は一年に一二回抜けかわる",
+        "detailContKor" : "깃털은 일년에 한 두번 털갈이를 한다"
+      },
+      { "detailName" : "羽（は、はね）날개",
+        "detailContJap" : "羽を広げる",
+        "detailContKor" : "날개를 펴다"
+      }
+   ]
+}
+
+]
