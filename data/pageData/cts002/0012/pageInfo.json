@@ -16,7 +16,7 @@
       }
    ]
 },
-{  "subjectName" : "（）ウ、は、はね",
+{  "subjectName" : "ウ、は、はね",
    "mainHanja" : {
       "top" : "羽",
       "bottom": "날개 우"
@@ -29,6 +29,138 @@
       { "detailName" : "羽（は、はね）날개",
         "detailContJap" : "羽を広げる",
         "detailContKor" : "날개를 펴다"
+      }
+   ]
+},
+{  "subjectName" : "ギュウ、うし",
+   "mainHanja" : {
+      "top" : "牛",
+      "bottom": "소 우"
+  },
+   "detailGrp"  : [
+      { "detailName" : "牛乳（ぎゅうにゅう）우유",
+        "detailContJap" : "一本ずつ牛乳を飲んだ",
+        "detailContKor" : "한 병씩 우유를 마셨다"
+      },
+      { "detailName" : "牛（うし）소",
+        "detailContJap" : "牛が草をはむ",
+        "detailContKor" : "소가 풀을 뜯어 먹다"
+      }
+   ]
+},
+{  "subjectName" : "（又）ユウ、とも",
+   "mainHanja" : {
+      "top" : "友",
+      "bottom": "벗 우"
+  },
+   "detailGrp"  : [
+      { "detailName" : "友情（ゆうじょう）우정",
+        "detailContJap" : "友情を大切にする",
+        "detailContKor" : "우정을 소중이 하다"
+      },
+      { "detailName" : "友達（ともだち）친구",
+        "detailContJap" : "噂好きの友達",
+        "detailContKor" : "소문을 좋아하는 친구"
+      }
+   ]
+},
+{  "subjectName" : "（雨）ウン、くも",
+   "mainHanja" : {
+      "top" : "雲",
+      "bottom": "구름 운"
+  },
+   "detailGrp"  : [
+      { "detailName" : "雲集（うんしゅう）운집",
+        "detailContJap" : "雲集する観衆",
+        "detailContKor" : "운집하는 관중"
+      },
+      { "detailName" : "雲（くも）구름",
+        "detailContJap" : "雲一片もない",
+        "detailContKor" : "구름 한 점도 없다"
+      }
+   ]
+},
+{  "subjectName" : "（口、吉）エン、その",
+   "mainHanja" : {
+      "top" : "園",
+      "bottom": "동산 원"
+  },
+   "detailGrp"  : [
+      { "detailName" : "公園（こうえん）공원",
+        "detailContJap" : "公園を一回りする",
+        "detailContKor" : "공원을 한 바퀴 돌다"
+      },
+      { "detailName" : "花園（はなぞの）화원, 꽃동산",
+        "detailContJap" : "犬が花園に入る",
+        "detailContKor" : "개가 꽃밫에 들어가다"
+      }
+   ]
+},
+{  "subjectName" : "（辶、吉）エン、オン、とお",
+   "mainHanja" : {
+      "top" : "遠",
+      "bottom": "멀 원"
+  },
+   "detailGrp"  : [
+      { "detailName" : "遠足（えんそく）소풍",
+        "detailContJap" : "遠足には生憎の雨だ",
+        "detailContKor" : "소풍 가기엔 좋지 않는 비다"
+      },
+      { "detailName" : "遠い（とお）멀다",
+        "detailContJap" : "遠い所をようこそ",
+        "detailContKor" : "먼 곳을 잘 오셨습니다"
+      }
+   ]
+},
+{  "subjectName" : "ゲン、ガン、もと",
+   "mainHanja" : {
+      "top" : "元",
+      "bottom": "으뜸 원"
+  },
+   "detailGrp"  : [
+      { "detailName" : "元気（げんき）기력, 기운",
+        "detailContJap" : "元気のない返事",
+        "detailContKor" : "힘없는 대답"
+      },
+      { "detailName" : "元日（がんじつ）설날",
+        "detailContJap" : "元日の夕方に無人島に行ったら、こうなるっていう動画",
+        "detailContKor" : "새해 첫날 저녁에 무인도에 가면 이렇게 된다는 동영상"
+      },
+      { "detailName" : "元（もと）원래, 처음",
+        "detailContJap" : "元に返って考え直す",
+        "detailContKor" : "원점으로 돌아가서 다시 생각하다"
+      }
+   ]
+},
+{  "subjectName" : "（厂、白，小）ゲン、はら",
+   "mainHanja" : {
+      "top" : "原",
+      "bottom": "근원 원/들 원"
+  },
+   "detailGrp"  : [
+      { "detailName" : "原因（げんいん）원인",
+        "detailContJap" : "原因不明の死亡",
+        "detailContKor" : "원인 불명의 사망"
+      },
+      { "detailName" : "原（はら）들, 벌판",
+        "detailContJap" : "草深い原を分けて進む",
+        "detailContKor" : "풀이 우거진 들판을 헤치고 나아가다"
+      }
+   ]
+},
+{  "subjectName" : "（人）ニク",
+   "mainHanja" : {
+      "top" : "肉",
+      "bottom": "고기 육"
+  },
+   "detailGrp"  : [
+      { "detailName" : "肉体（にくたい）육체",
+        "detailContJap" : "肉体的にたえられない",
+        "detailContKor" : "육체적으로 견딜 수 없다"
+      },
+      { "detailName" : "豚肉（ぶたにく）돼기고기",
+        "detailContJap" : "豚肉を加工してハムを作る",
+        "detailContKor" : "돼지고기를 가공해서 햄을 만든다"
       }
    ]
 }

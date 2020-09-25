@@ -1,0 +1,36 @@
+[
+
+{  "subjectName" : "（弓）イン、ひ",
+   "mainHanja" : {
+      "top" : "引",
+      "bottom": "끌 인"
+  },
+   "detailGrp"  : [
+      { "detailName" : "引用（いんよう）인용",
+        "detailContJap" : "聖書の言葉を引用する",
+        "detailContKor" : "성서의 말을 인용하다"
+      },
+      { "detailName" : "引く（ひ）끌다, 당기다",
+        "detailContJap" : "老人の手を引いて案内する",
+        "detailContKor" : "노인의 손을 이끌어 안내하다"
+      }
+   ]
+},
+{  "subjectName" : "（女、市）シ、あね",
+   "mainHanja" : {
+      "top" : "姉",
+      "bottom": ""
+  },
+   "detailGrp"  : [
+      { "detailName" : "姉妹（しまい）자매",
+        "detailContJap" : "一人っ子政策なので姉妹なのはなぜ？",
+        "detailContKor" : "1자녀 정책인데 자매인 것은 왜?"
+      },
+      { "detailName" : "姉（あね）언니, 누나 ",
+        "detailContJap" : "私には二人の姉がいる",
+        "detailContKor" : "나에게는 언니가 두 명 있다"
+      }
+   ]
+}
+
+]
