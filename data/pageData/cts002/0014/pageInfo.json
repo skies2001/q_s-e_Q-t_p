@@ -31,6 +31,146 @@
         "detailContKor" : "당신이 지금 있는 인생의 지점, 지금은 어디쯤?"
       }
    ]
+},
+{  "subjectName" : "（弓）テイ、ダイ、デ、おとうと",
+   "mainHanja" : {
+      "top" : "弟",
+      "bottom": "아우 제"
+  },
+   "detailGrp"  : [
+      { "detailName" : "師弟（してい）사제",
+        "detailContJap" : "師弟関係を結ぶ",
+        "detailContKor" : "사제 관계를 맺다"
+      },
+      { "detailName" : "兄弟（きょうだい）형제",
+        "detailContJap" : "兄弟一緒の生活",
+        "detailContKor" : "형제끼리의 생활"
+      },
+      { "detailName" : "弟子（でし）제자",
+        "detailContJap" : "多くの弟子を育て上げる",
+        "detailContKor" : "많은 제자를 길러 내다"
+      },
+      { "detailName" : "弟（おとうと）남동생",
+        "detailContJap" : "弟は人嫌いでこまる",
+        "detailContKor" : "동생은 사람 만나기를 싫어해서 곤란하다"
+      }
+   ]
+},
+{  "subjectName" : "（糸、目）ソ、くみ、く",
+   "mainHanja" : {
+      "top" : "組",
+      "bottom": "짤 조"
+  },
+   "detailGrp"  : [
+      { "detailName" : "組織（そしき）조직",
+        "detailContJap" : "組織の中核をなす人",
+        "detailContKor" : "조직의 핵심을 이루는 사람"
+      },
+      { "detailName" : "組（くみ）반, 쌍",
+        "detailContJap" : "彼とは同じ組に属する",
+        "detailContKor" : "그와는 같은 조에 속한다"
+      },
+      { "detailName" : "組む（くみ）짜다, 역다",
+        "detailContJap" : "手を組む",
+        "detailContKor" : "손을 깍지 끼다, 서로 협력하다"
+      }
+   ]
+},
+{  "subjectName" : "チョウ、とり",
+   "mainHanja" : {
+      "top" : "鳥",
+      "bottom": "새 조"
+  },
+   "detailGrp"  : [
+      { "detailName" : "白鳥（はくちょう）",
+        "detailContJap" : "白鳥の夢",
+        "detailContKor" : "백조의 꿈"
+      },
+      { "detailName" : "鳥（とり）새",
+        "detailContJap" : "鳥をかごから放つ",
+        "detailContKor" : "새를 새장에서 풀어 주다"
+      }
+   ]
+},
+{  "subjectName" : "（月、十、日）チョウ、あさ",
+   "mainHanja" : {
+      "top" : "朝",
+      "bottom": "아침 조"
+  },
+   "detailGrp"  : [
+      { "detailName" : "朝食（ちょうしょく）조식, 아침식사",
+        "detailContJap" : "朝食抜きで腹が減る",
+        "detailContKor" : "아침 식사를 걸려서 배가 고프다"
+      },
+      { "detailName" : "朝（あさ）아침",
+        "detailContJap" : "朝早く家を出る",
+        "detailContKor" : "아침 일찍 집을 나서다"
+      }
+   ]
+},
+{  "subjectName" : "（辶、冂、吉）シュウ",
+   "mainHanja" : {
+      "top" : "週",
+      "bottom": "주일 주"
+  },
+   "detailGrp"  : [
+      { "detailName" : "週末（しゅうまつ）주말",
+        "detailContJap" : "週末の計画を練る",
+        "detailContKor" : "주말 계획을 짜다"
+      },
+      { "detailName" : "来週（らいしゅう）다음주",
+        "detailContJap" : "来週までには片が付くだろう",
+        "detailContKor" : "다음주까지는 결말이 날 것이다"
+      }
+   ]
+},
+{  "subjectName" : "（土）ソウ、はし",
+   "mainHanja" : {
+      "top" : "走",
+      "bottom": "달릴 주"
+  },
+   "detailGrp"  : [
+      { "detailName" : "競走（きょうそう）경주",
+        "detailContJap" : "競走でびりになる",
+        "detailContKor" : "경주에서 꼴찌가 되다"
+      },
+      { "detailName" : "走る（はし）달리다, 뛰다",
+        "detailContJap" : "電車が走る",
+        "detailContKor" : "전차가 달리다"
+      }
+   ]
+},
+{  "subjectName" : "（日）チュウ、ひる",
+   "mainHanja" : {
+      "top" : "昼",
+      "bottom": "낮 주"
+  },
+   "detailGrp"  : [
+      { "detailName" : "昼夜（ちゅうや）주야",
+        "detailContJap" : "昼夜を分かたず働く",
+        "detailContKor" : "주야를 가리지 않고 일하다"
+      },
+      { "detailName" : "昼（ひる）낮",
+        "detailContJap" : "今日のお昼は卵丼にしよう",
+        "detailContKor" : "오늘 점심은 계란덮밥으로 하자"
+      }
+   ]
+},
+{  "subjectName" : "シ、と",
+   "mainHanja" : {
+      "top" : "止",
+      "bottom": "그칠 지"
+  },
+   "detailGrp"  : [
+      { "detailName" : "中止（ちゅうし）중지",
+        "detailContJap" : "雨の場合には中止する",
+        "detailContKor" : "비가 올 경우에는 중지한다"
+      },
+      { "detailName" : "止める（と）멈추다, 세우다, 그만두다",
+        "detailContJap" : "通行を止める",
+        "detailContKor" : "통행을 멈추다"
+      }
+   ]
 }
 
 ]

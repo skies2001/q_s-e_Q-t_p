@@ -1,0 +1,68 @@
+[
+
+{  "subjectName" : "（糸、氏）シ、かみ",
+   "mainHanja" : {
+      "top" : "紙",
+      "bottom": "종이 지"
+  },
+   "detailGrp"  : [
+      { "detailName" : "用紙（ようし）용지",
+        "detailContJap" : "用紙の大きさを統一する",
+        "detailContKor" : "용지의 크기를 통일하다"
+      },
+      { "detailName" : "紙（かみ）종이",
+        "detailContJap" : "紙の端が折れる",
+        "detailContKor" : "종이 귀퉁이가 접히다"
+      }
+   ]
+},
+{  "subjectName" : "（土、也）チ、ジ",
+   "mainHanja" : {
+      "top" : "地",
+      "bottom": "땅 지"
+  },
+   "detailGrp"  : [
+      { "detailName" : "地下（ちか）지하",
+        "detailContJap" : "地下に潜る",
+        "detailContKor" : "지하에 숨다"
+      },
+      { "detailName" : "地震（じしん）지진",
+        "detailContJap" : "地震で多くの家が壊れた",
+        "detailContKor" : "지진으로 많은 집이 부서졌다"
+      }
+   ]
+},
+{  "subjectName" : "（氵、也）チ、いけ",
+   "mainHanja" : {
+      "top" : "池",
+      "bottom": "못 지"
+  },
+   "detailGrp"  : [
+      { "detailName" : "電池（でんち）전지",
+        "detailContJap" : "ラジオの電池を取り換える",
+        "detailContKor" : "라디오의 전지를 갈아 끼우다"
+      },
+      { "detailName" : "池（いけ）연못",
+        "detailContJap" : "池に水を湛える",
+        "detailContKor" : "연못에 물을 가득 채우다"
+      }
+   ]
+},
+{  "subjectName" : "（失、口）チ、し",
+   "mainHanja" : {
+      "top" : "知",
+      "bottom": "알 지"
+  },
+   "detailGrp"  : [
+      { "detailName" : "知識（ちしき）지식",
+        "detailContJap" : "知識を十分に備えている",
+        "detailContKor" : "지식을 충분히 갖추고 있다"
+      },
+      { "detailName" : "知る（し）알다",
+        "detailContJap" : "昔のことをよく知っている人",
+        "detailContKor" : "옛날 일을 잘 알고 있는 사람"
+      }
+   ]
+}
+
+]
