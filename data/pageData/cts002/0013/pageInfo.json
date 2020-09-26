@@ -31,6 +31,146 @@
         "detailContKor" : "나에게는 언니가 두 명 있다"
       }
    ]
+},
+{  "subjectName" : "ジ、シ、みずか",
+   "mainHanja" : {
+      "top" : "自",
+      "bottom": "스스로 자"
+  },
+   "detailGrp"  : [
+      { "detailName" : "自動（じどう）자동",
+        "detailContJap" : "すっかり行かれた自動車",
+        "detailContKor" : "완전히 망가진 자동차"
+      },
+      { "detailName" : "自然（しぜん）자연",
+        "detailContJap" : "自然を友して遊ぶ",
+        "detailContKor" : "자연을 벗 삼아 놀다"
+      },
+      { "detailName" : "自ら（みずか）스스로, 몸소",
+        "detailContJap" : "自ら反省する",
+        "detailContKor" : "스스로 반성하다"
+      }
+   ]
+},
+{  "subjectName" : "（イ）サク、サ、つく",
+   "mainHanja" : {
+      "top" : "作",
+      "bottom": "지을 작"
+  },
+   "detailGrp"  : [
+      { "detailName" : "作品（さくひん）작품",
+        "detailContJap" : "人の作品を腐す",
+        "detailContKor" : "남의 작품을 헐뜯다"
+      },
+      { "detailName" : "作用（さよう）작용",
+        "detailContJap" : "利尿作用のある食べ物を摂取する",
+        "detailContKor" : "이뇨 작용이 있는 음식물을 섭취하다"
+      },
+      { "detailName" : "作る（つる）만들다",
+        "detailContJap" : "木で机を作る",
+        "detailContKor" : "나무로 책상을 만들다"
+      }
+   ]
+},
+{  "subjectName" : "（土、日）ジョウ、ば",
+   "mainHanja" : {
+      "top" : "場",
+      "bottom": "마당 장"
+  },
+   "detailGrp"  : [
+      { "detailName" : "工場（こうじょう）공장",
+        "detailContJap" : "この工場の設備は不完全だ",
+        "detailContKor" : "이 공장의 설비는 불완전하다"
+      },
+      { "detailName" : "広場（ひろば）광장",
+        "detailContJap" : "多くの人が広場に寄り集まった",
+        "detailContKor" : "많은 사람들이 광장에 모여들었다"
+      }
+   ]
+},
+{  "subjectName" : "チョウ、なが",
+   "mainHanja" : {
+      "top" : "長",
+      "bottom": "길 장/어른 장"
+  },
+   "detailGrp"  : [
+      { "detailName" : "長女（ちょうじょ）장녀",
+        "detailContJap" : "長女が年頃を迎える",
+        "detailContKor" : "맏딸이 혼기를 맞이하다"
+      },
+      { "detailName" : "長い（なが）길다",
+        "detailContJap" : "馬の顔は長い",
+        "detailContKor" : "말의 얼굴이 길다"
+      }
+   ]
+},
+{  "subjectName" : "サイ",
+   "mainHanja" : {
+      "top" : "才",
+      "bottom": "재주 재"
+  },
+   "detailGrp"  : [
+      { "detailName" : "才能（さいのう）재능",
+        "detailContJap" : "人の才能を見抜く力がある",
+        "detailContKor" : "사람의 재능을 알아보는 힘이 있다"
+      },
+      { "detailName" : "天才（てんさい）전재",
+        "detailContJap" : "彼を天才だろうと思っていた",
+        "detailContKor" : "그를 천재이려니 생각하고 있었다"
+      }
+   ]
+},
+{  "subjectName" : "（月、刂）セン、まえ",
+   "mainHanja" : {
+      "top" : "前",
+      "bottom": "앞 전"
+  },
+   "detailGrp"  : [
+      { "detailName" : "前後（ぜんご）",
+        "detailContJap" : "九時前後に電話をください",
+        "detailContKor" : "9시 전후에 전화 주세요"
+      },
+      { "detailName" : "前（まえ）앞",
+        "detailContJap" : "大ぜいの前で広言する",
+        "detailContKor" : "많은 사람 앞에서 큰소리치다"
+      }
+   ]
+},
+{  "subjectName" : "（雨、日）デン",
+   "mainHanja" : {
+      "top" : "電",
+      "bottom": "번개 전"
+  },
+   "detailGrp"  : [
+      { "detailName" : "電話（でんわ）전화",
+        "detailContJap" : "電話をかける",
+        "detailContKor" : "전화를 걸다"
+      },
+      { "detailName" : "充電（じゅうでん）충전",
+        "detailContJap" : "充電させてもらうませんか？",
+        "detailContKor" : "충전시켜주시면 안되겠습니까?"
+      }
+   ]
+},
+{  "subjectName" : "（七、刀）セツ、サイ、き",
+   "mainHanja" : {
+      "top" : "切",
+      "bottom": "끊을 절/모두 체"
+  },
+   "detailGrp"  : [
+      { "detailName" : "切実（せつじつ）절실",
+        "detailContJap" : "外国語の必要を切実に感じる",
+        "detailContKor" : "외국어의 필요성을 절실히 느끼다"
+      },
+      { "detailName" : "一切（いっさい）일체, 전부",
+        "detailContJap" : "酒は一切飲まない",
+        "detailContKor" : "술을 일절 마시지 않는다"
+      },
+      { "detailName" : "切る（き）자르다, 베다",
+        "detailContJap" : "つめを切る",
+        "detailContKor" : "손톱을 깎다"
+      }
+   ]
 }
 
 ]

@@ -1,0 +1,36 @@
+[
+
+{  "subjectName" : "（广、占）テン、みせ",
+   "mainHanja" : {
+      "top" : "店",
+      "bottom": "가게 점"
+  },
+   "detailGrp"  : [
+      { "detailName" : "店員（てんいん）점원",
+        "detailContJap" : "店員が客にブチ切れた動画",
+        "detailContKor" : "점원이 손님에게 폭발한 동영상"
+      },
+      { "detailName" : "店（みせ）가게, 상점",
+        "detailContJap" : "店を締める",
+        "detailContKor" : "가게를 닫다"
+      }
+   ]
+},
+{  "subjectName" : "（占）テン",
+   "mainHanja" : {
+      "top" : "点",
+      "bottom": "점 점"
+  },
+   "detailGrp"  : [
+      { "detailName" : "点数（てんすう）점수",
+        "detailContJap" : "高い点数を取る",
+        "detailContKor" : "높은 점수를 따다"
+      },
+      { "detailName" : "地点",
+        "detailContJap" : "あなたが今いる人生の地点、今はどのあたり？",
+        "detailContKor" : "당신이 지금 있는 인생의 지점, 지금은 어디쯤?"
+      }
+   ]
+}
+
+]
