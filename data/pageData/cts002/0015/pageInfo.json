@@ -63,6 +63,119 @@
         "detailContKor" : "옛날 일을 잘 알고 있는 사람"
       }
    ]
+},
+{  "subjectName" : "（目、十）チョク、ジキ、ただ、なお",
+   "mainHanja" : {
+      "top" : "直",
+      "bottom": "곧을 직"
+  },
+   "detailGrp"  : [
+      { "detailName" : "直後（ちょくご）직후",
+        "detailContJap" : "トラックの直後を走っていたため追突した",
+        "detailContKor" : "트럭 직후를 달리고 있었기 때문에 추돌했다"
+      },
+      { "detailName" : "正直（しょうじき）정직",
+        "detailContJap" : "隠さないで正直に答えなさい",
+        "detailContKor" : "숨기지 말고 정직하게 대답하라"
+      },
+      { "detailName" : "直ちに（ただ）곧, 즉시, 바로",
+        "detailContJap" : "直ちに始める",
+        "detailContKor" : "즉시 시작하다"
+      },
+      { "detailName" : "直す（なお）고치다",
+        "detailContJap" : "誤りを直す",
+        "detailContKor" : "잘못은 고치다"
+      }
+   ]
+},
+{  "subjectName" : "（青、日）セイ、は",
+   "mainHanja" : {
+      "top" : "晴",
+      "bottom": "맑을 청"
+  },
+   "detailGrp"  : [
+      { "detailName" : "快晴（かいせい）쾌청",
+        "detailContJap" : "雲一つなく快晴の天気",
+        "detailContKor" : "구름 한 점 없이 쾌청한 날씨"
+      },
+      { "detailName" : "晴れる（は）개다(날씨가)",
+        "detailContJap" : "霧が晴れる",
+        "detailContKor" : "안개가 걷히다"
+      }
+   ]
+},
+{  "subjectName" : "（本、イ）タイ、テイ、からだ",
+   "mainHanja" : {
+      "top" : "体",
+      "bottom": "몸 체"
+  },
+   "detailGrp"  : [
+      { "detailName" : "体育（たいいく）체육",
+        "detailContJap" : "体育施設を拡充する",
+        "detailContKor" : "체육 시설을 확충하다"
+      },
+      { "detailName" : "体裁（ていさい）외관, 체면",
+        "detailContJap" : "体裁をつくろう",
+        "detailContKor" : "겉모양을 꾸미다"
+      },
+      { "detailName" : "体（からだ）몸, 신체",
+        "detailContJap" : "体が利かない",
+        "detailContKor" : "몸이 말을 듣지 않다"
+      }
+   ]
+},
+{  "subjectName" : "（木、火）シュウ、あき",
+   "mainHanja" : {
+      "top" : "秋",
+      "bottom": "가을 추"
+  },
+   "detailGrp"  : [
+      { "detailName" : "秋分（しゅうぶん）추분",
+        "detailContJap" : "秋分",
+        "detailContKor" : "추분",
+        "soundFlg" : 0
+      },
+      { "detailName" : "秋（あき）가을",
+        "detailContJap" : "秋が忍び寄る",
+        "detailContKor" : "가을이 슬며시 다가오다"
+      }
+   ]
+},
+{  "subjectName" : "（日）シュン、はる",
+   "mainHanja" : {
+      "top" : "春",
+      "bottom": "봄 춘"
+  },
+   "detailGrp"  : [
+      { "detailName" : "青春（せいしゅん）청춘",
+        "detailContJap" : "青春の血を滾らす",
+        "detailContKor" : "청춘의 피를 끓게 하다"
+      },
+      { "detailName" : "春（はる）봄",
+        "detailContJap" : "春のせいか全身がけだるい",
+        "detailContKor" : "봄이라 그런지 온몸이 노곤하다"
+      }
+   ]
+},
+{  "subjectName" : "（立、木、見）シン、した、おや",
+   "mainHanja" : {
+      "top" : "親",
+      "bottom": "친할 친"
+  },
+   "detailGrp"  : [
+      { "detailName" : "親切（しんせつ）친철",
+        "detailContJap" : "何て親切な人だろう",
+        "detailContKor" : "이 얼마나 친절한 사람인가"
+      },
+      { "detailName" : "親しい（した）친하다, 사이좋다",
+        "detailContJap" : "親しく交わる",
+        "detailContKor" : "친하게 사귀다"
+      },
+      { "detailName" : "親（おや）부모",
+        "detailContJap" : "親の顔に泥を塗る",
+        "detailContKor" : "부모의 얼굴에 먹칠을 하다"
+      }
+   ]
 }
 
 ]

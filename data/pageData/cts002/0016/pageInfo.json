@@ -1,0 +1,112 @@
+[
+
+{  "subjectName" : "（大）タイ、タ、ふと",
+   "mainHanja" : {
+      "top" : "太",
+      "bottom": "클 태"
+  },
+   "detailGrp"  : [
+      { "detailName" : "太陽（たいよう）태양",
+        "detailContJap" : "真夏の強烈な太陽",
+        "detailContKor" : "한 여름의 강렬한 태양"
+      },
+      { "detailName" : "太刀（たち）칼",
+        "detailContJap" : "細作りの太刀",
+        "detailContKor" : "가느다란 칼"
+      },
+      { "detailName" : "太い（ふと）",
+        "detailContJap" : "太い足",
+        "detailContKor" : "굵은 다리"
+      },
+      { "detailName" : "太る（ふと）살찌다",
+        "detailContJap" : "まるまると太った人",
+        "detailContKor" : "통통하게 살이 찐 사람"
+      }
+   ]
+},
+{  "subjectName" : "（辶、マ、用）ツウ、ウ、とお、かよ",
+   "mainHanja" : {
+      "top" : "通",
+      "bottom": "통할 통"
+  },
+   "detailGrp"  : [
+      { "detailName" : "通行（つうこう）통행",
+        "detailContJap" : "通行を妨げる",
+        "detailContKor" : "통행을 방해다"
+      },
+      { "detailName" : "通夜（つや）밤새(빈소에서의)",
+        "detailContJap" : "なくなった友人の通夜に行く",
+        "detailContKor" : "죽은 친구 집에 밤샘하러 간다"
+      },
+      { "detailName" : "通る（とお）지나가다, 통과하다",
+        "detailContJap" : "学校の前を通る",
+        "detailContKor" : "학교 앞을 지나가다"
+      },
+      { "detailName" : "通う（かよ）다니다, 왕래하다",
+        "detailContJap" : "息が通っている",
+        "detailContKor" : "숨이 통하고 있다(아직 살아 있다)"
+      }
+   ]
+},
+{  "subjectName" : "（虫）フウ、フ、かぜ、かざ",
+   "mainHanja" : {
+      "top" : "風",
+      "bottom": "바람 풍"
+  },
+   "detailGrp"  : [
+      { "detailName" : "風景（ふうけい）풍경",
+        "detailContJap" : "嘱目の風景",
+        "detailContKor" : "주목되는 풍경"
+      },
+      { "detailName" : "風呂（ふろ）욕조, 목욕",
+        "detailContJap" : "風呂をわかす",
+        "detailContKor" : "목욕물을 데우다"
+      },
+      { "detailName" : "風（かぜ）바람",
+        "detailContJap" : "風の通りが悪い",
+        "detailContKor" : "바람이 잘 안 통하다"
+      }
+   ]
+},
+{  "subjectName" : "（イ、口）カ、なん、なに",
+   "mainHanja" : {
+      "top" : "何",
+      "bottom": "어찌 하"
+  },
+   "detailGrp"  : [
+      { "detailName" : "幾何（きか）",
+        "detailContJap" : "幾何学的な絵のプログラミング",
+        "detailContKor" : "기하학적인 그림의 프로그래밍"
+      },
+      { "detailName" : "何度（なんど）몇 번",
+        "detailContJap" : "何度も読返す",
+        "detailContKor" : "몇 번이고 되풀이하여 읽다"
+      },
+      { "detailName" : "何事（なにごと）무슨 일, 모든 일",
+        "detailContJap" : "何事も健康が元手だ",
+        "detailContKor" : "무슨 일이든 건강이 밑천이다"
+      }
+   ]
+},
+{  "subjectName" : "（自、夂）カ、ゲ、なつ",
+   "mainHanja" : {
+      "top" : "夏",
+      "bottom": "여름 하"
+  },
+   "detailGrp"  : [
+      { "detailName" : "夏季（かき）하계, 여름철",
+        "detailContJap" : "夏季には魚を生で食べるな",
+        "detailContKor" : "여름철에는 생선을 날로 먹지 마라"
+      },
+      { "detailName" : "夏至（げし）하지",
+        "detailContJap" : "夏至は昼が最も長い",
+        "detailContKor" : "하지는 낮이 가장 길다"
+      },
+      { "detailName" : "夏（なつ）여름",
+        "detailContJap" : "この夏は格別暑い",
+        "detailContKor" : "올 여름은 유난히 덥다"
+      }
+   ]
+}
+
+]
