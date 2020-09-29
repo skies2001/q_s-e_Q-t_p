@@ -1,0 +1,120 @@
+[
+
+{  "subjectName" : "（由、八）オウ、コウ、き、こ",
+   "mainHanja" : {
+      "top" : "黄",
+      "bottom": "누를 황"
+  },
+   "detailGrp"  : [
+      { "detailName" : "黄金（おうごん）황금",
+        "detailContJap" : "黄金の日々を過ごす",
+        "detailContKor" : "황금과 같은 나날을 보내다"
+      },
+      { "detailName" : "黄砂（こうさ）황사",
+        "detailContJap" : "黄砂の影響でサージカルマスクが品切れになった",
+        "detailContKor" : "황사의 영향으로 일회용 마스크가 품절되었다"
+      },
+      { "detailName" : "黄色（きいろ）노란색",
+        "detailContJap" : "黄色な蝶",
+        "detailContKor" : "노랑나비"
+      },
+      { "detailName" : "黄金色（こがねいろ）황금색",
+        "detailContJap" : "稲が実って黄金色になる",
+        "detailContKor" : "벽가 익어서 황금빛이 되다"
+      }
+   ]
+},
+{  "subjectName" : "（口）カイ、まわ",
+   "mainHanja" : {
+      "top" : "回",
+      "bottom": "돌 회"
+  },
+   "detailGrp"  : [
+      { "detailName" : "回数（かいすう）회수",
+        "detailContJap" : "試験の回数が多い",
+        "detailContKor" : "시험 횟수가 많다"
+      },
+      { "detailName" : "回る（まわ）돌다",
+        "detailContJap" : "月が地球を回る",
+        "detailContKor" : "달이 지구를 돌다"
+      }
+   ]
+},
+{  "subjectName" : "カイ、エ、あ",
+   "mainHanja" : {
+      "top" : "会",
+      "bottom": "만날 회"
+  },
+   "detailGrp"  : [
+      { "detailName" : "会議（かいぎ）회의",
+        "detailContJap" : "会議を開く",
+        "detailContKor" : "회의를 열다"
+      },
+      { "detailName" : "会釈（えしゃく）목례(가벼운 인사)",
+        "detailContJap" : "会釈をして通る",
+        "detailContKor" : "인사를 하고 지나가다"
+      },
+      { "detailName" : "会う（あ）만나다",
+        "detailContJap" : "雨に合う",
+        "detailContKor" : "비를 만나다"
+      }
+   ]
+},
+{  "subjectName" : "（糸、会）カイ、え",
+   "mainHanja" : {
+      "top" : "絵",
+      "bottom": "그림 회"
+  },
+   "detailGrp"  : [
+      { "detailName" : "絵画（かいが）회화",
+        "detailContJap" : "絵画を学ぶ",
+        "detailContKor" : "그림을 배우다"
+      },
+      { "detailName" : "絵本（えほん）그림책",
+        "detailContJap" : "お母さんといっしょに絵本を見ましょう",
+        "detailContKor" : "엄마랑 같이 그림책을 봅시다"
+      }
+   ]
+},
+{  "subjectName" : "（彳、夂）ゴ、コウ、のち、あと、うし",
+   "mainHanja" : {
+      "top" : "後",
+      "bottom": "뒤 후"
+  },
+   "detailGrp"  : [
+      { "detailName" : "以後（いご）이후",
+        "detailContJap" : "五時以後は家におります",
+        "detailContKor" : "5시 이후는 집에 있습니다"
+      },
+      { "detailName" : "後悔（こうかい）후회",
+        "detailContJap" : "後悔の涙が禁じ得ない",
+        "detailContKor" : "후회의 눈물을 금할 수 없다"
+      },
+      { "detailName" : "後（のち、あと）후, 뒤, 나중",
+        "detailContJap" : "愚かさは先に出て賢さは後に出る",
+        "detailContKor" : "어리석음은 먼저 나오고 현명함은 나중에 나온다"
+      },
+      { "detailName" : "後ろ（うし）뒤쪽",
+        "detailContJap" : "後ろから切りつける",
+        "detailContKor" : "뒤에서 칼로 치다"
+      }
+   ]
+},
+{  "subjectName" : "（里）コク、くろ",
+   "mainHanja" : {
+      "top" : "黒",
+      "bottom": "검을 흑"
+  },
+   "detailGrp"  : [
+      { "detailName" : "黒板（こくばん）칠판, 흑판",
+        "detailContJap" : "黒板の字を指示棒で指す",
+        "detailContKor" : "칠판의 글자를 지시봉으로 가리키다"
+      },
+      { "detailName" : "黒い（くろ）검다, 까맣다",
+        "detailContJap" : "日に焼けた黒い顔",
+        "detailContKor" : "햇볕에 그을린 검은 얼굴"
+      }
+   ]
+}
+
+]

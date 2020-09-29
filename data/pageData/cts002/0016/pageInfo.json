@@ -110,7 +110,7 @@
 },
 {  "subjectName" : "（人）ゴウ、ガッ、カッ、あ",
    "mainHanja" : {
-      "top" : "会",
+      "top" : "合",
       "bottom": "합할 합"
   },
    "detailGrp"  : [
@@ -122,8 +122,8 @@
         "detailContJap" : "先生のオルガン伴奏で合唱する",
         "detailContKor" : "선생님의 오르간 반주로 합창하다"
       },
-      { "detailName" : "会う（あ）맞다, 어울리다",
-        "detailContJap" : "いつもの場所で会う",
+      { "detailName" : "合う（あ）맞다, 어울리다",
+        "detailContJap" : "いつもの場所で合う",
         "detailContKor" : "여느 때와 같은 장소에서 만나다"
       }
    ]
