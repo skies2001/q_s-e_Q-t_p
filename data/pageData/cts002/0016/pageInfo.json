@@ -107,6 +107,26 @@
         "detailContKor" : "올 여름은 유난히 덥다"
       }
    ]
+},
+{  "subjectName" : "（人）ゴウ、ガッ、カッ、あ",
+   "mainHanja" : {
+      "top" : "会",
+      "bottom": "합할 합"
+  },
+   "detailGrp"  : [
+      { "detailName" : "合格（ごうかく）합격",
+        "detailContJap" : "試験に合格する",
+        "detailContKor" : "시험에 합격하다"
+      },
+      { "detailName" : "合唱（がっしょう）합창",
+        "detailContJap" : "先生のオルガン伴奏で合唱する",
+        "detailContKor" : "선생님의 오르간 반주로 합창하다"
+      },
+      { "detailName" : "会う（あ）맞다, 어울리다",
+        "detailContJap" : "いつもの場所で会う",
+        "detailContKor" : "여느 때와 같은 장소에서 만나다"
+      }
+   ]
 }
 
 ]

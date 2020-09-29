@@ -1,0 +1,182 @@
+[
+
+{  "subjectName" : "（毎）カイ、うみ",
+   "mainHanja" : {
+      "top" : "海",
+      "bottom": "바다 해"
+  },
+   "detailGrp"  : [
+      { "detailName" : "海外（かいがい）해외",
+        "detailContJap" : "海外に進出する",
+        "detailContKor" : "해외로 진출하다"
+      },
+      { "detailName" : "海（うみ）바다",
+        "detailContJap" : "海に沈む",
+        "detailContKor" : "바다에 가라앉다(바다에 빠져 죽다)"
+      }
+   ]
+},
+{  "subjectName" : "コウ、ギョウ、い、ゆ、おこな",
+   "mainHanja" : {
+      "top" : "行",
+      "bottom": "갈 행"
+  },
+   "detailGrp"  : [
+      { "detailName" : "行動（こうどう）행동",
+        "detailContJap" : "行動を取る",
+        "detailContKor" : "행동을 취하다"
+      },
+      { "detailName" : "行列（ぎょうれつ）행렬",
+        "detailContJap" : "行列して待つ",
+        "detailContKor" : "줄지어 기다리다"
+      },
+      { "detailName" : "行く（い）가다",
+        "detailContJap" : "買物に行く",
+        "detailContKor" : "장보러 가다(쇼핑)"
+      },
+      { "detailName" : "行き（ゆ）~행, 방향",
+        "detailContJap" : "行きは船、帰りは飛行機だ",
+        "detailContKor" : "갈 때는 배, 올 때는 비행기다"
+      },
+      { "detailName" : "行う（おこな）행하다",
+        "detailContJap" : "テストを行う",
+        "detailContKor" : "테스트를 실시하다"
+      }
+   ]
+},
+{  "subjectName" : "ケイ、ジョウ、あに",
+   "mainHanja" : {
+      "top" : "兄",
+      "bottom": "맏 형"
+  },
+   "detailGrp"  : [
+      { "detailName" : "父兄（ふけい）부형(학부형)",
+        "detailContJap" : "父兄の教えに従う",
+        "detailContKor" : "부형의 가르침에 따르다"
+      },
+      { "detailName" : "兄弟（きょうだい）형제",
+        "detailContJap" : "兄弟",
+        "detailContKor" : "형제",
+        "soundFlg" : 0
+      },
+      { "detailName" : "兄（あに）형",
+        "detailContJap" : "兄のして許せない",
+        "detailContKor" : "형으로서 용서할 수 없다"
+      }
+   ]
+},
+{  "subjectName" : "（彡）ケイ、ギョウ、かた、かたち",
+   "mainHanja" : {
+      "top" : "形",
+      "bottom": "형상 형"
+  },
+   "detailGrp"  : [
+      { "detailName" : "形式（けいしき）형식",
+        "detailContJap" : "形式にとらわれる",
+        "detailContKor" : "형식에 얽매이다"
+      },
+      { "detailName" : "人形（にんぎょう）인형",
+        "detailContJap" : "着せ替え人形",
+        "detailContKor" : "옷을 갈이입힐 수 있는 인형"
+      },
+      { "detailName" : "形（かた、かたち）모양, 형태",
+        "detailContJap" : "形を成していない",
+        "detailContKor" : "형태를 이루지 못하고 있다"
+      }
+   ]
+},
+{  "subjectName" : "ゴ、と",
+   "mainHanja" : {
+      "top" : "戸",
+      "bottom": "지게 호/집 호"
+  },
+   "detailGrp"  : [
+      { "detailName" : "戸籍（こせき）호적",
+        "detailContJap" : "人が死ぬと戸籍から名前が抹消させる",
+        "detailContKor" : "사람이 죽으면 호적에서 이름이 말소된다"
+      },
+      { "detailName" : "戸（と）출입구, 문짝",
+        "detailContJap" : "戸の開きが悪い",
+        "detailContKor" : "문이 잘 열리지 않는다"
+      }
+   ]
+},
+{  "subjectName" : "（言）ワ、はな、はなし",
+   "mainHanja" : {
+      "top" : "話",
+      "bottom": "이야기 화"
+  },
+   "detailGrp"  : [
+      { "detailName" : "会話（かいわ）대화",
+        "detailContJap" : "外国人と英語で会話している",
+        "detailContKor" : "외국인과 영어로 회화하고 있다"
+      },
+      { "detailName" : "話す（はな）말하다, 이야기하다",
+        "detailContJap" : "事件をくわしく話す",
+        "detailContKor" : "사건을 자세히 이야기하다"
+      },
+      { "detailName" : "話（はなし）이야기",
+        "detailContJap" : "話を作る",
+        "detailContKor" : "이야기를 만들다"
+      }
+   ]
+},
+{  "subjectName" : "（田）ガ、カク、えが",
+   "mainHanja" : {
+      "top" : "画",
+      "bottom": "그림 화/그을 획"
+  },
+   "detailGrp"  : [
+      { "detailName" : "映画（えいが）영화",
+        "detailContJap" : "必見の映画",
+        "detailContKor" : "꼭 봐야 할 영화"
+      },
+      { "detailName" : "計画（けいかく）계획",
+        "detailContJap" : "計画を立てる",
+        "detailContKor" : "계획을 세우다"
+      },
+      { "detailName" : "画く（えが）그리다",
+        "detailContJap" : "将来の夢を画く",
+        "detailContKor" : "장래의 꿈을 그려 보다"
+      }
+   ]
+},
+{  "subjectName" : "ガン、まる",
+   "mainHanja" : {
+      "top" : "丸",
+      "bottom": "알 환"
+  },
+   "detailGrp"  : [
+      { "detailName" : "弾丸（だんがん）탄환",
+        "detailContJap" : "体内にとまった弾丸を摘出する",
+        "detailContKor" : "체내에 박힌 총알을 적출하다"
+      },
+      { "detailName" : "丸い（まる）둥글다, 원만하다",
+        "detailContJap" : "角が丸くなる",
+        "detailContKor" : "모서리가 동그래지다"
+      }
+   ]
+},
+{  "subjectName" : "（氵、舌）カツ、い",
+   "mainHanja" : {
+      "top" : "活",
+      "bottom": "살 활"
+  },
+   "detailGrp"  : [
+      { "detailName" : "活動（かつどう）활동",
+        "detailContJap" : "火山活動で新生した島",
+        "detailContKor" : "화산 활동으로 신생한 섬"
+      },
+      { "detailName" : "生活（せいかつ）생활",
+        "detailContJap" : "遊牧の生活を送る",
+        "detailContKor" : "유목 생활을 하며 지내다"
+      },
+      { "detailName" : "活きる（い）고친 부분이 되살다",
+        "detailContJap" : "塩かげん一つで料理が活きる",
+        "detailContKor" : "간 하나로 요리가 살아나다"
+      }
+   ]
+}
+
+
+]
