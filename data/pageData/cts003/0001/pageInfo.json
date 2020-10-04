@@ -91,6 +91,98 @@
         "detailContKor" : "무죄로 결정되다"
       }
    ]
+},
+{  "subjectName" : "（車、又、土）ケイ、かる、かろ ",
+   "mainHanja" : {
+      "top" : "軽",
+      "bottom": "가벼울 경"
+  },
+   "detailGrp"  : [
+      { "detailName" : "軽率（けいそつ）경솔",
+        "detailContJap" : "軽率な考えを悔い改める",
+        "detailContKor" : "경솔한 생각을 뉘우쳐 고치다"
+      },
+      { "detailName" : "軽い（かる）가볍다",
+        "detailContJap" : "口が軽い",
+        "detailContKor" : "입이 가볍다"
+      },
+      { "detailName" : "軽やか（かろ）가뿐함, 거뜬함",
+        "detailContJap" : "軽やかに踊る",
+        "detailContKor" : "경쾌하게 춤추다"
+      }
+   ]
+},
+{  "subjectName" : "（田）カイ",
+   "mainHanja" : {
+      "top" : "界",
+      "bottom": "경계 계"
+  },
+   "detailGrp"  : [
+      { "detailName" : "世界（せかい）세계",
+        "detailContJap" : "広い世界を狭くする",
+        "detailContKor" : "넓은 세상을 좁게 살다"
+      },
+      { "detailName" : "限界（げんかい）한계",
+        "detailContJap" : "ここに明らかな体力の限界がある",
+        "detailContKor" : "여기에 분명한 체력의 한계가 있다"
+      }
+   ]
+},
+{  "subjectName" : "（阝、白）カイ",
+   "mainHanja" : {
+      "top" : "階",
+      "bottom": "계단 계"
+  },
+   "detailGrp"  : [
+      { "detailName" : "階段（かいだん）계단",
+        "detailContJap" : "階段でごろんと転がる",
+        "detailContKor" : "계단에서 데굴데굴 구르다"
+      },
+      { "detailName" : "一階（いっかい）1층",
+        "detailContJap" : "もう一階だけ上がってください",
+        "detailContKor" : "한 층만 더 올라가십시오"
+      }
+   ]
+},
+{  "subjectName" : "（亻、糸）ケイ、かか、かかり",
+   "mainHanja" : {
+      "top" : "係",
+      "bottom": "걸릴 계"
+  },
+   "detailGrp"  : [
+      { "detailName" : "関係（かんけい）관계",
+        "detailContJap" : "関係を改善する",
+        "detailContKor" : "관계를 개선하다"
+      },
+      { "detailName" : "係る（かか）관계되다, 관계하다",
+        "detailContJap" : "そりゃ首に係る問題だ",
+        "detailContKor" : "그건 목이 관련된 문제다"
+      },
+      { "detailName" : "係（かかり）계, 담당",
+        "detailContJap" : "なんのゆかりも係もない",
+        "detailContKor" : "아무 인연도 관계도 없다"
+      }
+   ]
+},
+{  "subjectName" : "（艹、古）ク、くる、にが",
+   "mainHanja" : {
+      "top" : "苦",
+      "bottom": "괴로울 고"
+  },
+   "detailGrp"  : [
+      { "detailName" : "苦労（くろう）고생",
+        "detailContJap" : "苦労知らずな人",
+        "detailContKor" : "고생을 모르는 사람"
+      },
+      { "detailName" : "苦しい（くる）괴롭다",
+        "detailContJap" : "走り続けたので息が苦しい",
+        "detailContKor" : "계속 달렸기 때문에 숨이 가쁘다"
+      },
+      { "detailName" : "苦い（にが）쓰다(맛이)",
+        "detailContJap" : "苦い顔をする",
+        "detailContKor" : "씁쓸한 표정을 짓다, 언짢은 얼굴을 하다"
+      }
+   ]
 }
 
 ]
