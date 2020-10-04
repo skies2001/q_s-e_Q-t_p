@@ -1,28 +1,22 @@
 var cts001 = {
   maxBtnCnt : 11
 };
-
 var cts002 = {
   maxBtnCnt : 18
 };
-
-
-cts001.firstFnc = function(info, pageDictPage){
-  this.cmmInfo = info;
-  this.pageDictPath = pageDictPage + "/";
+var cts003 = {
+  maxBtnCnt : 1
 };
 
-cts001.load = function(){
-  this.firstFnc.apply(this, arguments);
-   ctsCmm001.load(this.cmmInfo, this);
-};
-
-cts002.firstFnc = function(info, pageDictPage){
-  this.cmmInfo = info;
-  this.pageDictPath = pageDictPage + "/";
-};
-
-cts002.load = function(){
-  this.firstFnc.apply(this, arguments);
-   ctsCmm001.load(this.cmmInfo, this);
+{
+    ["cts001","cts002","cts003"].forEach(function(e){
+        window[e].firstFnc = function(info, pageDictPage){
+          this.cmmInfo = info;
+          this.pageDictPath = pageDictPage + "/";
+        };
+        window[e].load = function(){
+          this.firstFnc.apply(this, arguments);
+           ctsCmm001.load(this.cmmInfo, this);
+        };
+    });
 }

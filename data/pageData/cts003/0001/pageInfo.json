@@ -1,0 +1,96 @@
+[
+
+{  "subjectName" : "（心）カン",
+   "mainHanja" : {
+      "top" : "感",
+      "bottom": "느낄 감"
+  },
+   "detailGrp"  : [
+      { "detailName" : "感じ（かん）느낌",
+        "detailContJap" : "寒くて感じが無くなる",
+        "detailContKor" : "추워서 감각이 없어지다"
+      },
+      { "detailName" : "感情（かんじょう）감정",
+        "detailContJap" : "感情を害する",
+        "detailContKor" : "감정을 상하게 하다"
+      },
+      { "detailName" : "共感（きょうかん）공감",
+        "detailContJap" : "共感を覚える",
+        "detailContKor" : "공감을 느끼다"
+      }
+   ]
+},
+{  "subjectName" : "（門）カイ、ひら、あ",
+   "mainHanja" : {
+      "top" : "開",
+      "bottom": "열 개"
+  },
+   "detailGrp"  : [
+      { "detailName" : "開店（かいてん）개점",
+        "detailContJap" : "銀行は午前九時に開店する",
+        "detailContKor" : "은행은 오전 9시에 개점한다"
+      },
+      { "detailName" : "開く（ひら）열다, 열리다",
+        "detailContJap" : "窓が開いて子供が顔を出す",
+        "detailContKor" : "창문이 열리고 아이가 얼굴을 내밀다"
+      },
+      { "detailName" : "開ける（あ）열다",
+        "detailContJap" : "店を開ける",
+        "detailContKor" : "가게를 열다"
+      }
+   ]
+},
+{  "subjectName" : "（宀、夂、口）キャク、カク",
+   "mainHanja" : {
+      "top" : "客",
+      "bottom": "손 객"
+  },
+   "detailGrp"  : [
+      { "detailName" : "客室（きゃくしつ）객실",
+        "detailContJap" : "波音が聞こえる客室",
+        "detailContKor" : "파도 소리가 들리는 객실"
+      },
+      { "detailName" : "旅客船（りょかくせん）여객선",
+        "detailContJap" : "湖を就航する旅客船",
+        "detailContKor" : "호수를 주항하는 여객선"
+      }
+   ]
+},
+{  "subjectName" : "（土）キョ、コ、さ",
+   "mainHanja" : {
+      "top" : "去",
+      "bottom": "갈 거"
+  },
+   "detailGrp"  : [
+      { "detailName" : "去年（きょねん）작년",
+        "detailContJap" : "去年から持越した仕事",
+        "detailContKor" : "작년부터 미루어 온 일"
+      },
+      { "detailName" : "過去（かこ）과거",
+        "detailContJap" : "忌まわしい過去を葬る",
+        "detailContKor" : "혐오스러운 과거를 묻어 부리다"
+      },
+      { "detailName" : "去る（さ）떠나다, 지나가다",
+        "detailContJap" : "その場を去る",
+        "detailContKor" : "그 자리를 떠나다"
+      }
+   ]
+},
+{  "subjectName" : "（氵）ケツ、き",
+   "mainHanja" : {
+      "top" : "決",
+      "bottom": "정할 결"
+  },
+   "detailGrp"  : [
+      { "detailName" : "可決（かけつ）가결",
+        "detailContJap" : "全員一致で可決する",
+        "detailContKor" : "전원 일치로 가결하다"
+      },
+      { "detailName" : "決まる（き）정해지다, 결정되다",
+        "detailContJap" : "無罪に決まる",
+        "detailContKor" : "무죄로 결정되다"
+      }
+   ]
+}
+
+]
