@@ -10,9 +10,9 @@ var cts003 = {
 
 {
     ["cts001","cts002","cts003"].forEach(function(e){
-        window[e].firstFnc = function(info, pageDictPage){
+        window[e].firstFnc = function(info, dictPage){
           this.cmmInfo = info;
-          this.pageDictPath = pageDictPage + "/";
+          this.pageDictPath = dictPage + "/";
         };
         window[e].load = function(){
           this.firstFnc.apply(this, arguments);
