@@ -1,0 +1,164 @@
+[
+
+{  "subjectName" : "（广、車）コ、ク",
+   "mainHanja" : {
+      "top" : "庫",
+      "bottom": "곳집 고"
+  },
+   "detailGrp"  : [
+      { "detailName" : "車庫（しゃこ）차고",
+        "detailContJap" : "自動車を車庫に入れる",
+        "detailContKor" : "자동차를 차고에 넣다"
+      },
+      { "detailName" : "冷蔵庫（れいぞうこ）냉장고",
+        "detailContJap" : "ゼリーを冷蔵庫で冷やして固める",
+        "detailContKor" : "젤리를 냉장고에서 식혀서 굳히다"
+      }
+   ]
+},
+{  "subjectName" : "（日）キョク、ま",
+   "mainHanja" : {
+      "top" : "曲",
+      "bottom": "굽을 곡"
+  },
+   "detailGrp"  : [
+      { "detailName" : "新曲（しんきょく）신곡",
+        "detailContJap" : "新曲を発表する",
+        "detailContKor" : "신곡을 발표하다"
+      },
+      { "detailName" : "曲がる（ま）구부러지다, 돌다",
+        "detailContJap" : "その角を曲がるとタバコ屋がいる",
+        "detailContKor" : "그 모퉁이를 돌면 담배 가게다 있다"
+      }
+   ]
+},
+{  "subjectName" : "（飠）カン",
+   "mainHanja" : {
+      "top" : "館",
+      "bottom": "집 관"
+  },
+   "detailGrp"  : [
+      { "detailName" : "映画館（えいがかん）영화관",
+        "detailContJap" : "学校の帰りに映画館に立寄る",
+        "detailContKor" : "학교에서 돌아오는 길에 영화관에 들르다"
+      },
+      { "detailName" : "旅館（りょかん）여화",
+        "detailContJap" : "駅前の旅館に泊まる",
+        "detailContKor" : "역 앞 여관에 묵다"
+      }
+   ]
+},
+{  "subjectName" : "（木）キョウ、はし",
+   "mainHanja" : {
+      "top" : "橋",
+      "bottom": "다리 교"
+  },
+   "detailGrp"  : [
+      { "detailName" : "鉄橋（てっきょう）철교",
+        "detailContJap" : "鉄橋を渡る",
+        "detailContKor" : "철교를 건너다"
+      },
+      { "detailName" : "橋（はし）다리",
+        "detailContJap" : "大川にまたがる橋",
+        "detailContKor" : "큰 강에 걸쳐 있는 다리"
+      }
+   ]
+},
+{  "subjectName" : "（穴、九）キュウ、きわ",
+   "mainHanja" : {
+      "top" : "究",
+      "bottom": "연구할 연"
+  },
+   "detailGrp"  : [
+      { "detailName" : "研究（けんきゅう）연구",
+        "detailContJap" : "研究に役立つ資料",
+        "detailContKor" : "연구에 도음이 되는 자료"
+      },
+      { "detailName" : "究める（きわ）구명하다, 깊이 연구하다",
+        "detailContJap" : "真理を究める",
+        "detailContKor" : "진리를 탐구하다"
+      }
+   ]
+},
+{  "subjectName" : "（王）キュウ、たま",
+   "mainHanja" : {
+      "top" : "球",
+      "bottom": "공 구"
+  },
+   "detailGrp"  : [
+      { "detailName" : "野球（やきゅう）야구",
+        "detailContJap" : "野球を見に行く",
+        "detailContKor" : "야구를 보러 가다"
+      },
+      { "detailName" : "球（たま）둥근 것, 공",
+        "detailContJap" : "速い球を放る投手",
+        "detailContKor" : "빠른 공을 던지는 투수"
+      }
+   ]
+},
+{  "subjectName" : "（匚 、メ）ク",
+   "mainHanja" : {
+      "top" : "区",
+      "bottom": "구역 구"
+  },
+   "detailGrp"  : [
+      { "detailName" : "区分（くぶん）구분",
+        "detailContJap" : "生徒を年齢によって区分する",
+        "detailContKor" : "학생을 연령에 따라 구분하다"
+      },
+      { "detailName" : "区別（くべつ）구별",
+        "detailContJap" : "歩道と車道の区別のない所",
+        "detailContKor" : "인도와 차도의 구별이 없는 곳"
+      }
+   ]
+},
+{  "subjectName" : "（八、目）グ",
+   "mainHanja" : {
+      "top" : "具",
+      "bottom": "갖출 구"
+  },
+   "detailGrp"  : [
+      { "detailName" : "具合（ぐあい）형편, 상태",
+        "detailContJap" : "具合がよい",
+        "detailContKor" : "형편이 좋다"
+      },
+      { "detailName" : "家具（かぐ）가구",
+        "detailContJap" : "黒光りする家具",
+        "detailContKor" : "검게 윤이 나는 가구"
+      }
+   ]
+},
+{  "subjectName" : "（尸）キョク",
+   "mainHanja" : {
+      "top" : "局",
+      "bottom": "판 국"
+  },
+   "detailGrp"  : [
+      { "detailName" : "局長（きょくちょう）국장",
+        "detailContJap" : "局長ってどんな人？",
+        "detailContKor" : "국장은 어떤 사람분이야?"
+      },
+      { "detailName" : "結局（けっきょく）결국",
+        "detailContJap" : "結局は正しい者が勝つ",
+        "detailContKor" : "결국 옳은 자가 이긴다"
+      }
+   ]
+},
+{  "subjectName" : "（口）クン、きみ",
+   "mainHanja" : {
+      "top" : "君",
+      "bottom": "임금 군"
+  },
+   "detailGrp"  : [
+      { "detailName" : "主君（しゅくん）주군",
+        "detailContJap" : "心から主君に推服する",
+        "detailContKor" : "마음으로부터 주군을 존경하여 복종하다"
+      },
+      { "detailName" : "君（きみ）너, 자네",
+        "detailContJap" : "君の所属部隊はどこだ",
+        "detailContKor" : "네 소속 부대는 어디냐"
+      }
+   ]
+}
+
+]

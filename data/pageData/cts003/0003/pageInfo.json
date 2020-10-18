@@ -1,0 +1,30 @@
+[
+
+{  "subjectName" : "（宀）キュウ、グウ、ク、みや",
+   "mainHanja" : {
+      "top" : "宮",
+      "bottom": "집 궁"
+  },
+   "detailGrp"  : [
+      { "detailName" : "宮中（きゅうちゅう）궁중",
+        "detailContJap" : "宮中の貴族たちがエリザベートに向けた冷たい視線?!",
+        "detailContKor" : "궁중의 귀족들이 엘리자베트를 향한 차가운 시선?!"
+      },
+      { "detailName" : "神宮（じんぐう）신궁",
+        "detailContJap" : "神宮",
+        "detailContKor" : "신궁",
+        "soundFlg" : 0
+      },
+      { "detailName" : "宮内（くない）궁 안",
+        "detailContJap" : "宮内",
+        "detailContKor" : "궁 안",
+        "soundFlg" : 0
+      },
+      { "detailName" : "お宮参り（みやまい）신사참배",
+        "detailContJap" : "みんなでお宮参り行ってきたよ",
+        "detailContKor" : "모두 함께 신사참배를 다녀왔어"
+      }
+   ]
+}
+
+]
