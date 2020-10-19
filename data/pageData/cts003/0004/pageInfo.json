@@ -1,0 +1,32 @@
+[
+
+{  "subjectName" : "（亻）ダイ、タイ、か、よ、しる",
+   "mainHanja" : {
+      "top" : "代",
+      "bottom": "대신할 대"
+  },
+   "detailGrp"  : [
+      { "detailName" : "代理（だいり）대리 ",
+        "detailContJap" : "代理人を受取りにやる",
+        "detailContKor" : "대리인을 보내어 받아오게 하다"
+      },
+      { "detailName" : "交代（こうたい）교대",
+        "detailContJap" : "二時間ごとに交代して張り番をする",
+        "detailContKor" : "두 시간마다 교대로 망을 서다"
+      },
+      { "detailName" : "代わる（か）대신하다",
+        "detailContJap" : "私が代わりましょう",
+        "detailContKor" : "제가 대신하겠습니다"
+      },
+      { "detailName" : "代（よ）시대, 일생",
+        "detailContJap" : "代に逆らう",
+        "detailContKor" : "시대에 역행하다"
+      },
+      { "detailName" : "代物（しろもの）물건, 대금",
+        "detailContJap" : "これはたいした代物だ",
+        "detailContKor" : "이것은 대단한 물건이다"
+      }
+   ]
+}
+
+]

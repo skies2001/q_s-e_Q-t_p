@@ -25,6 +25,168 @@
         "detailContKor" : "모두 함께 신사참배를 다녀왔어"
       }
    ]
+},
+{  "subjectName" : "（木）コン、ね",
+   "mainHanja" : {
+      "top" : "根",
+      "bottom": "뿌리 근"
+  },
+   "detailGrp"  : [
+      { "detailName" : "根性（こんじょう）근성",
+        "detailContJap" : "腐った根性をたたき直す",
+        "detailContKor" : "썩은 근성을 바로 잡다"
+      },
+      { "detailName" : "根（ね）뿌리",
+        "detailContJap" : "歯がくさって根だけ残った",
+        "detailContKor" : "이가 썩어 뿌리만 남았다"
+      }
+   ]
+},
+{  "subjectName" : "（心）キュウ、いそ",
+   "mainHanja" : {
+      "top" : "急",
+      "bottom": "급할 급"
+  },
+   "detailGrp"  : [
+      { "detailName" : "急用（きゅうよう）급한 일",
+        "detailContJap" : "急用でたたき起こす",
+        "detailContKor" : "급한 일로 두드려 깨우다"
+      },
+      { "detailName" : "急ぐ（いそ）서두르다",
+        "detailContJap" : "道を急ぐ",
+        "detailContKor" : "길을 서두르다"
+      }
+   ]
+},
+{  "subjectName" : "（糸）キュウ",
+   "mainHanja" : {
+      "top" : "級",
+      "bottom": "등급 급"
+  },
+   "detailGrp"  : [
+      { "detailName" : "級数（きゅうすう）급수",
+        "detailContJap" : "級数",
+        "detailContKor" : "급수",
+        "soundFlg" : 0
+      },
+      { "detailName" : "高級（こうきゅう）고급",
+        "detailContJap" : "内容の高級な本",
+        "detailContKor" : "내용이 고급인 책"
+      }
+   ]
+},
+{  "subjectName" : "（走）キ、お",
+   "mainHanja" : {
+      "top" : "起",
+      "bottom": "일어날 기"
+  },
+   "detailGrp"  : [
+      { "detailName" : "起立（きりつ）기립",
+        "detailContJap" : "起立して校歌を歌う",
+        "detailContKor" : "기립하여 교가를 부르다"
+      },
+      { "detailName" : "起きる（お）",
+        "detailContJap" : "朝起きるのが辛い",
+        "detailContKor" : "아침에 일어나는게 괴롭다"
+      }
+   ]
+},
+{  "subjectName" : "（月）キ、ゴ",
+   "mainHanja" : {
+      "top" : "期",
+      "bottom": "기약할 기"
+  },
+   "detailGrp"  : [
+      { "detailName" : "期間（きかん）기간",
+        "detailContJap" : "品質保証期間を過ぎた",
+        "detailContKor" : "품질 보증 기간이 지났다"
+      },
+      { "detailName" : "最期（さいご）임종, 최후",
+        "detailContJap" : "あいない最期を遂げる",
+        "detailContKor" : "어이없는 최후를 마치다"
+      }
+   ]
+},
+{  "subjectName" : "（辰、曲）",
+   "mainHanja" : {
+      "top" : "農",
+      "bottom": "농사 농"
+  },
+   "detailGrp"  : [
+      { "detailName" : "農業（のうぎょう）농업",
+        "detailContJap" : "その人は農業高校出身だ",
+        "detailContKor" : "그 사람은 농업 고교 출신이다"
+      },
+      { "detailName" : "農作（のうさく）농작",
+        "detailContJap" : "台風による農作物の被害",
+        "detailContKor" : "태풍으로 인한 농작품 피해"
+      }
+   ]
+},
+{  "subjectName" : "（失）タン、みじか",
+   "mainHanja" : {
+      "top" : "短",
+      "bottom": "짧을 단"
+  },
+   "detailGrp"  : [
+      { "detailName" : "短期（たんき）단기",
+        "detailContJap" : "短期契約",
+        "detailContKor" : "단기 계약"
+      },
+      { "detailName" : "短い（みじか）짧다",
+        "detailContJap" : "幅は十分だが、長さが短い",
+        "detailContKor" : "넓이는 충분하지만 길이가 짧다"
+      }
+   ]
+},
+{  "subjectName" : "（言、火）ダン",
+   "mainHanja" : {
+      "top" : "談",
+      "bottom": "말씀 담"
+  },
+   "detailGrp"  : [
+      { "detailName" : "相談（そうだん）상담",
+        "detailContJap" : "三人で方法を相談する",
+        "detailContKor" : "세 사람이 방법을 의논하다"
+      },
+      { "detailName" : "雑談（ざつだん）잡단",
+        "detailContJap" : "会議中には雑談をするな",
+        "detailContKor" : "회의 중에는 잡담을 하지 마라"
+      }
+   ]
+},
+{  "subjectName" : "（寸）タイ、ツイ",
+   "mainHanja" : {
+      "top" : "対",
+      "bottom": "마주볼 대"
+  },
+   "detailGrp"  : [
+      { "detailName" : "反対（はんたい）반대",
+        "detailContJap" : "当局の処置に反対する",
+        "detailContKor" : "당국의 조치에반대하다"
+      },
+      { "detailName" : "一対（いっつい）한 쌍",
+        "detailContJap" : "花瓶一対",
+        "detailContKor" : "꽃병 한 쌍"
+      }
+   ]
+},
+{  "subjectName" : "（彳、寺）タイ、ま",
+   "mainHanja" : {
+      "top" : "待",
+      "bottom": "기다릴 대"
+  },
+   "detailGrp"  : [
+      { "detailName" : "期待（きたい）기대",
+        "detailContJap" : "過大な期待をかける",
+        "detailContKor" : "과대하게 기대를 걸다"
+      },
+      { "detailName" : "待つ（ま）기다리다",
+        "detailContJap" : "門があくのを待つ",
+        "detailContKor" : "문이 열리기를 기다리다"
+      }
+   ]
 }
+
 
 ]
