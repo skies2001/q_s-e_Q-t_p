@@ -27,6 +27,118 @@
         "detailContKor" : "이것은 대단한 물건이다"
       }
    ]
+},
+{  "subjectName" : "（阝、者）ト、ツ、みやこ",
+   "mainHanja" : {
+      "top" : "都",
+      "bottom": "도읍 도"
+  },
+   "detailGrp"  : [
+      { "detailName" : "都市（とし）도시",
+        "detailContJap" : "都市の中央を流れる河",
+        "detailContKor" : "도시 중앙을 흐르는 강"
+      },
+      { "detailName" : "都合（つごう）형편, 사정",
+          "detailContJap" : "飛行機の都合で出発が遅れる",
+        "detailContKor" : "비행기 사정으로 출발이 늦어지다"
+      },
+      { "detailName" : "都（みやこ）수도",
+        "detailContJap" : "都を去って山里に隠棲する",
+        "detailContKor" : "수도를 떠나 산촌에 은둔하다"
+      }
+   ]
+},
+{  "subjectName" : "（广）ド、ト、タク、たび",
+   "mainHanja" : {
+      "top" : "度",
+      "bottom": "법도 도"
+  },
+   "detailGrp"  : [
+      { "detailName" : "温度（おんど）온도",
+        "detailContJap" : "体感温度はずっと高い",
+        "detailContKor" : "체감 온도는 훨씬 높다"
+      },
+      { "detailName" : "法度（はっと）법도, 법령",
+        "detailContJap" : "法度を犯す",
+        "detailContKor" : "법도를 어기다"
+      },
+      { "detailName" : "支度（したく）준비, 채비",
+        "detailContJap" : "支度に暇どる",
+        "detailContKor" : "채비하는데 시간이 걸리다"
+      },
+      { "detailName" : "度々（たびたび）자주, 종종",
+        "detailContJap" : "メディアで度々紹介されている",
+        "detailContKor" : "미디어에 종종 소개되고 있다"
+      }
+   ]
+},
+{  "subjectName" : "（山、鳥）トウ、しま",
+   "mainHanja" : {
+      "top" : "島",
+      "bottom": "섬 도"
+  },
+   "detailGrp"  : [
+      { "detailName" : "無人島（むじんとう）무인도",
+        "detailContJap" : "一週間以内に無人島から脱出する",
+        "detailContKor" : "일주일 이내에 무인도에서 탈출하다"
+      },
+      { "detailName" : "島（しま）섬",
+        "detailContJap" : "湖心に浮かぶ島",
+        "detailContKor" : "호수 한가운데에 떠 있는 섬"
+      }
+   ]
+},
+{  "subjectName" : "（力、重）ドウ、うご",
+   "mainHanja" : {
+      "top" : "動",
+      "bottom": "움직일 동"
+  },
+   "detailGrp"  : [
+      { "detailName" : "運動（づんどう）운동",
+        "detailContJap" : "体に無理な運動",
+        "detailContKor" : "몸에 무리한 운동"
+      },
+      { "detailName" : "動く（うご）움직이다",
+        "detailContJap" : "当分今の位置を動かないつもりだ",
+        "detailContKor" : "당분간 지금의 자리에서 움직이지 않을 작정이다"
+      }
+   ]
+},
+{  "subjectName" : "（立、里）ドウ、わらべ",
+   "mainHanja" : {
+      "top" : "童",
+      "bottom": "아이 동"
+  },
+   "detailGrp"  : [
+      { "detailName" : "童話（どうわ）동화",
+        "detailContJap" : "低学年向きの童話",
+        "detailContKor" : "저학년을 위한 동화"
+      },
+      { "detailName" : "童（わらべ）아동, 어린이",
+        "detailContJap" : "里の童",
+        "detailContKor" : "시골의 어린이"
+      }
+   ]
+},
+{  "subjectName" : "トウ、ズ、まめ",
+   "mainHanja" : {
+      "top" : "豆",
+      "bottom": "콩 두"
+  },
+   "detailGrp"  : [
+      { "detailName" : "豆腐（とうふ）두부",
+        "detailContJap" : "豆腐を四角にきちんとそろえて切る",
+        "detailContKor" : "두부를 네모 반뜻하게 자르다"
+      },
+      { "detailName" : "大豆（だいず）대두, 콩",
+        "detailContJap" : "大豆からは油が取れる",
+        "detailContKor" : "콩에서는 기름이 난다"
+      },
+      { "detailName" : "豆（まめ）콩",
+        "detailContJap" : "豆を水にふやかす",
+        "detailContKor" : "콩을 물에 불리다"
+      }
+   ]
 }
 
 ]

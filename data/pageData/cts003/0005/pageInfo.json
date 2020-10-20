@@ -1,0 +1,72 @@
+[
+
+{  "subjectName" : "（癶 、豆）トウ、ト、のぼ",
+   "mainHanja" : {
+      "top" : "登",
+      "bottom": "오를 등"
+  },
+   "detailGrp"  : [
+      { "detailName" : "登場（とうじょう）등장",
+        "detailContJap" : "仰々しいいでたちで登場する",
+        "detailContKor" : "요란한 차림으로 등장하다"
+      },
+      { "detailName" : "登山（とざん）등산",
+        "detailContJap" : "登山に多くな危険が伴う",
+        "detailContKor" : "등산에는 많은 위험이 뒤따른다"
+      },
+      { "detailName" : "登る（のぼ）오르다(높은곳으로), 올라가다",
+        "detailContJap" : "丘に登ってあたりをながめる",
+        "detailContKor" : "언덕에 올라 주위를 둘러보다"
+      }
+   ]
+},
+{  "subjectName" : "（竹、寺）トウ、ひと",
+   "mainHanja" : {
+      "top" : "等",
+      "bottom": "무리 등/등급 등"
+  },
+   "detailGrp"  : [
+      { "detailName" : "等分（とうぶん）등분",
+        "detailContJap" : "十等分した物",
+        "detailContKor" : "10등분 한 것"
+      },
+      { "detailName" : "等しい（ひと）똑같다, 흡사하다",
+        "detailContJap" : "どろぼうに等しい行い",
+        "detailContKor" : "도둑놈과 다름없는 행위"
+      }
+   ]
+},
+{  "subjectName" : "（艹、各）ラク、お",
+   "mainHanja" : {
+      "top" : "落",
+      "bottom": "떨어질 락"
+  },
+   "detailGrp"  : [
+      { "detailName" : "下落（げらく）하락",
+        "detailContJap" : "物価は下落の傾きがある",
+        "detailContKor" : "물가는 하락하는 경향이 있다"
+      },
+      { "detailName" : "落ちる（お）떨어지다",
+        "detailContJap" : "木の葉が落ちる",
+        "detailContKor" : "나뭇잎이 떨어지다"
+      }
+   ]
+},
+{  "subjectName" : "（方）リョ、たび",
+   "mainHanja" : {
+      "top" : "旅",
+      "bottom": "나그네 려"
+  },
+   "detailGrp"  : [
+      { "detailName" : "旅行（りょこう）여행",
+        "detailContJap" : "旅行の終わり頃",
+        "detailContKor" : "여행이 끝나 갈 무렵"
+      },
+      { "detailName" : "旅（たび）여행",
+        "detailContJap" : "朝立ちの旅",
+        "detailContKor" : "아침 일찍 떠나는 여행"
+      }
+   ]
+}
+
+]
