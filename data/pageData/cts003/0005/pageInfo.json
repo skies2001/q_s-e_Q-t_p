@@ -67,6 +67,90 @@
         "detailContKor" : "아침 일찍 떠나는 여행"
       }
    ]
+},
+{  "subjectName" : "（糸、東）レン、ね",
+   "mainHanja" : {
+      "top" : "練",
+      "bottom": "익힐 련"
+  },
+   "detailGrp"  : [
+      { "detailName" : "練習（れんしゅう）연습",
+        "detailContJap" : "何事も練習次第だ",
+        "detailContKor" : "무슨 일이든 연습하기 나름이다"
+      },
+      { "detailName" : "練る（ね）개다, 반죽하다",
+        "detailContJap" : "うどん粉を練る",
+        "detailContKor" : "밀가루를 반죽하다"
+      }
+   ]
+},
+{  "subjectName" : "（口、止）ろ、じ",
+   "mainHanja" : {
+      "top" : "路",
+      "bottom": "길 로"
+  },
+   "detailGrp"  : [
+      { "detailName" : "道路（どうろ）도로",
+        "detailContJap" : "道路の穴を埋める",
+        "detailContKor" : "도로에 구멍을 메우다"
+      },
+      { "detailName" : "旅路（たびじ）여행길",
+        "detailContJap" : "長い旅路",
+        "detailContKor" : "긴 여행길"
+      }
+   ]
+},
+{  "subjectName" : "（糸）リョク、ロク、みどり",
+   "mainHanja" : {
+      "top" : "緑",
+      "bottom": "푸를 록"
+  },
+   "detailGrp"  : [
+      { "detailName" : "緑茶（りょくちゃ）녹차",
+        "detailContJap" : "緑茶をよく飲めば健康によい",
+        "detailContKor" : "녹차를 자주 마시면 건강에 좋다"
+      },
+      { "detailName" : "緑（みどり）초록, 녹색",
+        "detailContJap" : "美しい緑の園内を散策する",
+        "detailContKor" : "아름다운 녹색 공원 안을 산책하다"
+      }
+   ]
+},
+{  "subjectName" : "（氵）リュウ、ル、なが",
+   "mainHanja" : {
+      "top" : "流",
+      "bottom": "흐를 류"
+  },
+   "detailGrp"  : [
+      { "detailName" : "一流（いちりゅう）일류",
+        "detailContJap" : "一流大学を出る",
+        "detailContKor" : "일류 대학을 나오다"
+      },
+      { "detailName" : "流浪（るろう）유랑",
+        "detailContJap" : "流浪の身となる",
+        "detailContKor" : "떠돌이 신세가 되다"
+      },
+      { "detailName" : "流れる（なが）흐르다, 흘러가다",
+        "detailContJap" : "氷が溶けて流れる",
+        "detailContKor" : "얼음이 녹아 흐르다"
+      }
+   ]
+},
+{  "subjectName" : "（力）ベン",
+   "mainHanja" : {
+      "top" : "勉",
+      "bottom": "힘쓸 면"
+  },
+   "detailGrp"  : [
+      { "detailName" : "勉強（べんきょう）공부",
+        "detailContJap" : "中中勉強になる",
+        "detailContKor" : "상당히 공부가 된다"
+      },
+      { "detailName" : "勤勉（きんべん）근면",
+        "detailContJap" : "成功は勤勉による",
+        "detailContKor" : "성공은 근면 여하에 달려있다"
+      }
+   ]
 }
 
 ]

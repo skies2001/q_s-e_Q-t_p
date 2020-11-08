@@ -1,0 +1,140 @@
+[
+
+{  "subjectName" : "（辶、反）ヘン、かえ",
+   "mainHanja" : {
+      "top" : "返",
+      "bottom": ""
+  },
+   "detailGrp"  : [
+      { "detailName" : "返事（へんじ）대답, 답장",
+        "detailContJap" : "返事を渋る",
+        "detailContKor" : "대답을 시원하게 하지 않다"
+      },
+      { "detailName" : "返る（かえ）돌려주다, 갚다",
+        "detailContJap" : "童心に返る",
+        "detailContKor" : "동심으로 돌아가다"
+      }
+   ]
+},
+{  "subjectName" : "（癶）ハツ、ホツ",
+   "mainHanja" : {
+      "top" : "発",
+      "bottom": "필 발/쏠 발"
+  },
+   "detailGrp"  : [
+      { "detailName" : "発明（はつめい）발명",
+        "detailContJap" : "新しい機械を発明する",
+        "detailContKor" : "새로운 기계를 발명하다"
+      },
+      { "detailName" : "発作（ほっさ）발작",
+        "detailContJap" : "発作的に痛む",
+        "detailContKor" : "발작적으로 아파 오다"
+      }
+   ]
+},
+{  "subjectName" : "（攵、方）ホウ、はな",
+   "mainHanja" : {
+      "top" : "放",
+      "bottom": "놓을 방"
+  },
+   "detailGrp"  : [
+      { "detailName" : "放送（ほうそう）방송",
+        "detailContJap" : "子供向けの放送",
+        "detailContKor" : "어린이를대상으로 한 방송"
+      },
+      { "detailName" : "放す（はな）나누어 주다, 배부하다",
+        "detailContJap" : "犬を放す",
+        "detailContKor" : "개를 풀어 놓다"
+      }
+   ]
+},
+{  "subjectName" : "（酉 ）ハイ、くば",
+   "mainHanja" : {
+      "top" : "配",
+      "bottom": "짝지을 배"
+  },
+   "detailGrp"  : [
+      { "detailName" : "配達（はいたつ）배달",
+        "detailContJap" : "配達は無料でいたします",
+        "detailContKor" : "배달은 무료로 해 드립니다"
+      },
+      { "detailName" : "配る（くば）나누어 주다, 배부하다",
+        "detailContJap" : "気を配る",
+        "detailContKor" : "배려하다, 주의하다"
+      }
+   ]
+},
+{  "subjectName" : "（亻、立、口）バイ",
+   "mainHanja" : {
+      "top" : "倍",
+      "bottom": "곱 배"
+  },
+   "detailGrp"  : [
+      { "detailName" : "倍数（ばいすう）배수",
+        "detailContJap" : "最小公倍数",
+        "detailContKor" : "최소 공배수"
+      },
+      { "detailName" : "倍率（ばいりつ）배율",
+        "detailContJap" : "倍率を上げる",
+        "detailContKor" : "배율을 높이다"
+      }
+   ]
+},
+{  "subjectName" : "（疒）ビョウ、ヘイ、や、やまい",
+   "mainHanja" : {
+      "top" : "病",
+      "bottom": "병들 병"
+  },
+   "detailGrp"  : [
+      { "detailName" : "病院（びょういん）병원",
+        "detailContJap" : "病院は待ち時間が長い",
+        "detailContKor" : "병원은 대기 시간이 길다"
+      },
+      { "detailName" : "疾病（しっぺい）질병",
+        "detailContJap" : "疾病のため欠勤する",
+        "detailContKor" : "질병 때문에 결근하다"
+      },
+      { "detailName" : "病む（や）앓다, 병들다",
+        "detailContJap" : "気に病む",
+        "detailContKor" : "마음에 두고 끙끙 앓다"
+      },
+      { "detailName" : "病（やまい）병",
+        "detailContJap" : "病は初期の手当が大切だ",
+        "detailContKor" : "병은 초기 지료가 중요하다"
+      }
+   ]
+},
+{  "subjectName" : "（月）フク",
+   "mainHanja" : {
+      "top" : "服",
+      "bottom": "옷 복/마실 복"
+  },
+   "detailGrp"  : [
+      { "detailName" : "服装（ふくそう）복장",
+        "detailContJap" : "目立つ服装",
+        "detailContKor" : "남의 눈에 띄는 복장"
+      },
+      { "detailName" : "洋服（ようふく）양복(서양식 옷)",
+        "detailContJap" : "洋服を着付ける",
+        "detailContKor" : "늘 양복을 입어 버릇하다"
+      }
+   ]
+},
+{  "subjectName" : "（示、口、田）フク",
+   "mainHanja" : {
+      "top" : "福",
+      "bottom": "복 복"
+  },
+   "detailGrp"  : [
+      { "detailName" : "福祉（ふくし）복지",
+        "detailContJap" : "福祉国家を志向する",
+        "detailContKor" : "복지 국가를 지향하다"
+      },
+      { "detailName" : "幸福（こうふく）행복",
+        "detailContJap" : "金持ちが必ずしも幸福といえない",
+        "detailContKor" : "부자라고 반드시 행복한 것은 아니다"
+      }
+   ]
+}
+
+]

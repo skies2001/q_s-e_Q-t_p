@@ -1,0 +1,152 @@
+[
+
+{  "subjectName" : "メン、おも、おもて、つら",
+   "mainHanja" : {
+      "top" : "面",
+      "bottom": "얼굴 면"
+  },
+   "detailGrp"  : [
+      { "detailName" : "面接（めんせつ）면접",
+        "detailContJap" : "試験官との面接を終えて退室した",
+        "detailContKor" : "시험관과 면접을 마치고 퇴실했다"
+      },
+      { "detailName" : "面影（おもかげ）얼굴 모습, 용모",
+        "detailContJap" : "母親の面影がある",
+        "detailContKor" : "모친의 얼굴 모습이 있다"
+      },
+      { "detailName" : "面（おもて、つら）낯, 얼굴, 표면",
+        "detailContJap" : "面に憂いの色を漂わす",
+        "detailContKor" : "얼굴에 근심의 빛을 띠다"
+      }
+   ]
+},
+{  "subjectName" : "さら",
+   "mainHanja" : {
+      "top" : "皿",
+      "bottom": "그릇 명"
+  },
+   "detailGrp"  : [
+      { "detailName" : "皿（さら）접시",
+        "detailContJap" : "猫が皿の飯をしゃぶる",
+        "detailContKor" : "고양이가 접시의 밥을 핥다"
+      }
+   ]
+},
+{  "subjectName" : "（口）アイ、ミョウ、いのち",
+   "mainHanja" : {
+      "top" : "命",
+      "bottom": "목숨 명"
+  },
+   "detailGrp"  : [
+      { "detailName" : "生命（せいめい）생명",
+        "detailContJap" : "時計の生命は正確さにある",
+        "detailContKor" : "시계의 생명은 정확성에 있다"
+      },
+      { "detailName" : "寿命（じゅみょう）수명",
+        "detailContJap" : "この車はもう寿命だ",
+        "detailContKor" : "이 차는 이제 수명이 다 됐다"
+      },
+      { "detailName" : "命（いのち）생명",
+        "detailContJap" : "命に別状はない",
+        "detailContKor" : "생명에 이상은 없다"
+      }
+   ]
+},
+{  "subjectName" : "（門、口）モン、と、とん",
+   "mainHanja" : {
+      "top" : "問",
+      "bottom": "물을 문"
+  },
+   "detailGrp"  : [
+      { "detailName" : "問題（もんだい）문제",
+        "detailContJap" : "問題を拗らせる",
+        "detailContKor" : "문제를 더 복잡하게 만들다"
+      },
+      { "detailName" : "問う（と）묻다, 질문하다",
+        "detailContJap" : "罪に問う",
+        "detailContKor" : "죄를 묻다, 재판에 부치다, 처벌하다"
+      },
+      { "detailName" : "問屋（とんや）도매상",
+        "detailContJap" : "製品を問屋におろす",
+        "detailContKor" : "제품을 도매상에 넘기다"
+      }
+   ]
+},
+{  "subjectName" : "（牛）ブツ、モツ、もの",
+   "mainHanja" : {
+      "top" : "物",
+      "bottom": "물건 물"
+  },
+   "detailGrp"  : [
+      { "detailName" : "物理（ぶつり）물리",
+        "detailContJap" : "物理的に不可能な計画",
+        "detailContKor" : "물리적으로 불가능한 계획"
+      },
+      { "detailName" : "荷物（にもつ）짐",
+        "detailContJap" : "荷物を纏める",
+        "detailContKor" : "짐을 한데 모으다"
+      },
+      { "detailName" : "物（もの）물건, 사물",
+        "detailContJap" : "この物に触るな",
+        "detailContKor" : "이 물건에 손대지 마라"
+      }
+   ]
+},
+{  "subjectName" : "（大）",
+   "mainHanja" : {
+      "top" : "美",
+      "bottom": "아름다울 미"
+  },
+   "detailGrp"  : [
+      { "detailName" : "美人（びじん）미인",
+        "detailContJap" : "見ほれるような美人",
+        "detailContKor" : "홀딱 반할 만한 미인"
+      },
+      { "detailName" : "美しい（うつ）아름답다, 곱다",
+        "detailContJap" : "美しい友情",
+        "detailContKor" : "아름다운 우정"
+      }
+   ]
+},
+{  "subjectName" : "（口、未）ミ、あじ",
+   "mainHanja" : {
+      "top" : "味",
+      "bottom": "맛 미"
+  },
+   "detailGrp"  : [
+      { "detailName" : "味覚（みかく）미각",
+        "detailContJap" : "味覚が発達している",
+        "detailContKor" : "미각이 발달되어 있다"
+      },
+      { "detailName" : "味（あじ）맛",
+        "detailContJap" : "味も肉色も違う",
+        "detailContKor" : "맛도 고기 빛깔도 다르다"
+      },
+      { "detailName" : "味わう（あじ）맛보다",
+        "detailContJap" : "塩加減はどうかと味わう",
+        "detailContKor" : "간이 어떤가 맛을 보다"
+      }
+   ]
+},
+{  "subjectName" : "（又）ハン、ホン、タン、そ",
+   "mainHanja" : {
+      "top" : "反",
+      "bottom": "돌이킬 반"
+  },
+   "detailGrp"  : [
+      { "detailName" : "反応（はんのう）반응",
+        "detailContJap" : "しかっても全然反応がない",
+        "detailContKor" : "야단을 쳐도 전혀 반응이 없다"
+      },
+      { "detailName" : "謀反（むほん）반역",
+        "detailContJap" : "謀反を企む",
+        "detailContKor" : "모반을 꾀하다"
+      },
+      { "detailName" : "反る（そ）휘다, 몸이 뒤로 젖혀지다",
+        "detailContJap" : "体が弓なりに反る",
+        "detailContKor" : "몸이 활처럼 젖혀지다"
+      }
+   ]
+}
+
+]

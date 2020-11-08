@@ -5,7 +5,7 @@ var cts002 = {
   maxBtnCnt : 18
 };
 var cts003 = {
-  maxBtnCnt : 5
+  maxBtnCnt : 7
 };
 
 {
