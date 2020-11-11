@@ -1,0 +1,68 @@
+[
+
+{  "subjectName" : "（又、冖）ジュ、う",
+   "mainHanja" : {
+      "top" : "受",
+      "bottom": "받을 수"
+  },
+   "detailGrp"  : [
+      { "detailName" : "受信（じゅしん）수신",
+        "detailContJap" : "受信状態がよくない",
+        "detailContKor" : "수신 상태가 좋지 않다"
+      },
+      { "detailName" : "受ける（う）받다",
+        "detailContJap" : "敬礼を受ける",
+        "detailContKor" : "경례를 받다"
+      }
+   ]
+},
+{  "subjectName" : "（宀、イ、百）シュク、やど",
+   "mainHanja" : {
+      "top" : "宿",
+      "bottom": "묵을 숙"
+  },
+   "detailGrp"  : [
+      { "detailName" : "宿所（しゅくしょ）숙소",
+        "detailContJap" : "車に乗って宿所に帰っています",
+        "detailContKor" : "차를 타고 숙소로 가고 있습니다"
+      },
+      { "detailName" : "宿（やど）숙소, 여관",
+        "detailContJap" : "飛込みで宿をとる",
+        "detailContKor" : "예약 없이 숙소를 잡다"
+      }
+   ]
+},
+{  "subjectName" : "（扌、合）シュウ、ジュウ、ひろ",
+   "mainHanja" : {
+      "top" : "拾",
+      "bottom": "주울 습"
+  },
+   "detailGrp"  : [
+      { "detailName" : "拾得（しゅうとく）습득",
+        "detailContJap" : "拾得物を保管する",
+        "detailContKor" : "습득물을 보관하다"
+      },
+      { "detailName" : "拾う（ひろ）줍다",
+        "detailContJap" : "子供が食べ散らした御飯つぶを拾う",
+        "detailContKor" : "아이가 먹다가 흘린 밥알을 줍다"
+      }
+   ]
+},
+{  "subjectName" : "（羽、白）シュウ、なら",
+   "mainHanja" : {
+      "top" : "習",
+      "bottom": "익힐 습"
+  },
+   "detailGrp"  : [
+      { "detailName" : "自習（じしゅう）자습",
+        "detailContJap" : "自習時間",
+        "detailContKor" : "자습시간"
+      },
+      { "detailName" : "習う（なら）배우다, 익히다",
+        "detailContJap" : "心身を鍛えるために剣道を習う",
+        "detailContKor" : "심신을 단련하기 위해 검도를 배우다"
+      }
+   ]
+}
+
+]

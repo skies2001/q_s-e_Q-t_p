@@ -135,6 +135,42 @@
         "detailContKor" : "부자라고 반드시 행복한 것은 아니다"
       }
    ]
+},
+{  "subjectName" : "（貝、ク）フ、ま、お",
+   "mainHanja" : {
+      "top" : "負",
+      "bottom": "질 부"
+  },
+   "detailGrp"  : [
+      { "detailName" : "負担（ふたん）부담",
+        "detailContJap" : "余分の負担を課す",
+        "detailContKor" : "필요 이상의 부담을 과하다"
+      },
+      { "detailName" : "負ける（ま）지다, 값을 깎다",
+        "detailContJap" : "本当はいけないのだが、子供だから負けてやる",
+        "detailContKor" : "사실 안되지만, 어린이라 봐준다"
+      },
+      { "detailName" : "負う（お）지다",
+        "detailContJap" : "責任を負う",
+        "detailContKor" : "책임을 지다"
+      }
+   ]
+},
+{  "subjectName" : "（阝）ブ",
+   "mainHanja" : {
+      "top" : "部",
+      "bottom": "거느릴 부"
+  },
+   "detailGrp"  : [
+      { "detailName" : "部分（ぶぶん）부분",
+        "detailContJap" : "日に焼けた部分が露出した部分だ",
+        "detailContKor" : "햇빛에 탄 부분이 노출된 부분이다"
+      },
+      { "detailName" : "内部（ないぶ）내부",
+        "detailContJap" : "内部の事情を知っている",
+        "detailContKor" : "내부 사정을 알고 있다"
+      }
+   ]
 }
 
 ]

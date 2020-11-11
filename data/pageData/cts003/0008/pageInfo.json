@@ -1,0 +1,201 @@
+[
+
+{  "subjectName" : "（心、非）ヒ、かな",
+   "mainHanja" : {
+      "top" : "悲",
+      "bottom": "슬플 비"
+  },
+   "detailGrp"  : [
+      { "detailName" : "悲運（ひうん）비운",
+        "detailContJap" : "短命で終わった悲運のエンジン",
+        "detailContKor" : "단명으로 끝난 비운의 엔진"
+      },
+      { "detailName" : "悲しい（かな）슬프다",
+        "detailContJap" : "泣きたい時悲しい時に聴く歌",
+        "detailContKor" : "울고 싶을 때 슬플 때 듣는 노래"
+      }
+   ]
+},
+{  "subjectName" : "（自、田）ビ、はな",
+   "mainHanja" : {
+      "top" : "鼻",
+      "bottom": "코 비"
+  },
+   "detailGrp"  : [
+      { "detailName" : "鼻炎（びえん）비염",
+        "detailContJap" : "季節性アレルギー性鼻炎",
+        "detailContKor" : "계절성 알레르기 비염"
+      },
+      { "detailName" : "鼻（はな）코",
+        "detailContJap" : "鼻の粘膜に炎症を起こす",
+        "detailContKor" : "코 점막에 염증이 생기다"
+      }
+   ]
+},
+{  "subjectName" : "（水）ヒョウ、こおり、ひ",
+   "mainHanja" : {
+      "top" : "氷",
+      "bottom": "얼음 빙"
+  },
+   "detailGrp"  : [
+      { "detailName" : "氷河（ひょうが）빙하",
+        "detailContJap" : "氷河期に死滅した恐竜の化石",
+        "detailContKor" : "빙하기에 사멸한 공룡의 화석"
+      },
+      { "detailName" : "氷（こおり）얼음",
+        "detailContJap" : "水は凍ると氷になる",
+        "detailContKor" : "물은 얼면 얼음이 된다"
+      },
+      { "detailName" : "氷雨（ひさめ）차가운 비(진눈깨비, 우박 포함)",
+        "detailContJap" : "土曜は氷雨が降るコンディションの為日曜に変更",
+        "detailContKor" : "토요일은 차가운 비가 내리는 컨디션때문에 일요일로 변경"
+      }
+   ]
+},
+{  "subjectName" : "（亻、土）シ、ジ、つか",
+   "mainHanja" : {
+      "top" : "仕",
+      "bottom": "벼슬 사"
+  },
+   "detailGrp"  : [
+      { "detailName" : "仕事（しごと）일",
+        "detailContJap" : "手間のかかる仕事",
+        "detailContKor" : "손이 많이 가는 일"
+      },
+      { "detailName" : "給仕（きゅうず）급사, 시중",
+        "detailContJap" : "食事の給仕をする",
+        "detailContKor" : "식사 시중을 들다"
+      },
+      { "detailName" : "仕える（つか）섬기다, 모시다",
+        "detailContJap" : "神に仕える",
+        "detailContKor" : "신을 섬기다"
+      }
+   ]
+},
+{  "subjectName" : "（歹）シ、し",
+   "mainHanja" : {
+      "top" : "死",
+      "bottom": "죽을 사"
+  },
+   "detailGrp"  : [
+      { "detailName" : "死亡（しぼう）사망",
+        "detailContJap" : "死亡フラグが立つ",
+        "detailContKor" : "사망 플레그가 서다"
+      },
+      { "detailName" : "死ぬ（し）죽다",
+        "detailContJap" : "死ぬ人と生まれる人",
+        "detailContKor" : "죽는 사람과 태어나는 사람"
+      }
+   ]
+},
+{  "subjectName" : "（亻、吏）",
+   "mainHanja" : {
+      "top" : "使",
+      "bottom": "부릴 사/하여금 사"
+  },
+   "detailGrp"  : [
+      { "detailName" : "使用（しよう）사용",
+        "detailContJap" : "当分使用できない",
+        "detailContKor" : "당분간 사용할 수 없다"
+      },
+      { "detailName" : "使う（つか）쓰다, 사용하다, 먹다",
+        "detailContJap" : "弁当を使う",
+        "detailContKor" : "도시락을 먹다"
+      }
+   ]
+},
+{  "subjectName" : "（亅、口、ヨ）ジ、ズ、こと",
+   "mainHanja" : {
+      "top" : "事",
+      "bottom": "일 사"
+  },
+   "detailGrp"  : [
+      { "detailName" : "事故（じこ）사고",
+        "detailContJap" : "一件の事故もない",
+        "detailContKor" : "한 건의 사고도 없다"
+      },
+      { "detailName" : "好事（こうず）호사, 좋은 일",
+        "detailContJap" : "好事",
+        "detailContKor" : "호사",
+        "soundFlg" : 0
+      },
+      { "detailName" : "事（こと）일, 것",
+        "detailContJap" : "私の事かね",
+        "detailContKor" : "나에 관한 일이냐, 나를 두고 하는 말이야"
+      }
+   ]
+},
+{  "subjectName" : "（冖、与）シャ、うつ",
+   "mainHanja" : {
+      "top" : "写",
+      "bottom": "베낄 사"
+  },
+   "detailGrp"  : [
+      { "detailName" : "写真（しゃしん）사진",
+        "detailContJap" : "空気感のある写真",
+        "detailContKor" : "그곳의 분위기가 느껴지는 사진"
+      },
+      { "detailName" : "写す（うつ）베끼다, 모사하다",
+        "detailContJap" : "ノートを写す",
+        "detailContKor" : "노트를 베끼다"
+      }
+   ]
+},
+{  "subjectName" : "（口、冂、儿）ショウ、あきな",
+   "mainHanja" : {
+      "top" : "商",
+      "bottom": "장사 장"
+  },
+   "detailGrp"  : [
+      { "detailName" : "商品（しょうひん）상품",
+        "detailContJap" : "部下の商品アイデアを盗作して発表",
+        "detailContKor" : "부하의 상품 아이디어를 표절하여 발표"
+      },
+      { "detailName" : "商う（あきな）장사하다, 거래하다",
+        "detailContJap" : "刀剣を商う",
+        "detailContKor" : "도검 장사를 하다"
+      }
+   ]
+},
+{  "subjectName" : "（目、木）ソウ、ソ、おも",
+   "mainHanja" : {
+      "top" : "相",
+      "bottom": "서로 상"
+  },
+   "detailGrp"  : [
+      { "detailName" : "相当（そうとう）상당히, 상당함",
+        "detailContJap" : "相当丈夫らしい",
+        "detailContKor" : "꽤 튼튼한 것 같다"
+      },
+      { "detailName" : "首相（しゅしょう）수상",
+        "detailContJap" : "一国の首相たる者",
+        "detailContKor" : "한 나라의 수상인 자"
+      },
+      { "detailName" : "相手（あいて）상대",
+        "detailContJap" : "対戦相手を侮る",
+        "detailContKor" : "대전 상대를 얕잡아 보다"
+      }
+   ]
+},
+{  "subjectName" : "（心、相）ソウ、ソ、おも",
+   "mainHanja" : {
+      "top" : "想",
+      "bottom": "생각할 상"
+  },
+   "detailGrp"  : [
+      { "detailName" : "想像（そうぞう）상상",
+        "detailContJap" : "後は想像に任す",
+        "detailContKor" : "나머지 일은 상상에 맡긴다"
+      },
+      { "detailName" : "愛想（あいそ）애교, 붙임성",
+        "detailContJap" : "愛想尽かしを言う",
+        "detailContKor" : "정나미 떨어지는 말을 하다"
+      },
+      { "detailName" : "想う（おも）생각하다",
+        "detailContJap" : "秘めやかに想う",
+        "detailContKor" : "남몰래 생각하다"
+      }
+   ]
+}
+
+]
