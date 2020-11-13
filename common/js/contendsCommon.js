@@ -134,7 +134,7 @@ ctsCmm001.attachLinkPageFnc = function(){
                     var audioPath = "";
 
                     if(!audioList.hasOwnProperty(itemName)){
-                        audioPath = audioHeadPath + itemName + that.cmmInfo.audio.tailPath;
+                        audioPath = audioHeadPath + itemName + (that.cmmInfo.audio.tailPath).toLowerCase();
                         audioList[itemName] = new Audio(audioPath);
                     }
                     audioList[itemName].play();
