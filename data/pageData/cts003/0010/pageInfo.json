@@ -63,6 +63,138 @@
         "detailContKor" : "심신을 단련하기 위해 검도를 배우다"
       }
    ]
+},
+{  "subjectName" : "（力、月）ショウ、か、きさ",
+   "mainHanja" : {
+      "top" : "勝",
+      "bottom": "이길 승"
+  },
+   "detailGrp"  : [
+      { "detailName" : "勝負（しょうぶ）승부",
+        "detailContJap" : "勝負は水物だ",
+        "detailContKor" : "승부란 예측하기 어렵다"
+      },
+      { "detailName" : "勝つ（か）이기다",
+        "detailContJap" : "戦争に勝つ",
+        "detailContKor" : "전쟁에 이기다"
+      },
+      { "detailName" : "勝る（まさ）낫다, 뛰어나다",
+        "detailContJap" : "健康は富に勝る",
+        "detailContKor" : "건강은 부보다 낫다"
+      }
+   ]
+},
+{  "subjectName" : "（夭、ㅍ）ジョウ、の",
+   "mainHanja" : {
+      "top" : "乗",
+      "bottom": "탈 승"
+  },
+   "detailGrp"  : [
+      { "detailName" : "乗車（じょうしゃ）승차",
+        "detailContJap" : "乗車をうながす案内放送が聞こえてくる",
+        "detailContKor" : "승차를 재촉하는 안내 방송이 들려오다"
+      },
+      { "detailName" : "乗る（の）타다",
+        "detailContJap" : "電波に乗って世界に広まる",
+        "detailContKor" : "전파를 타고 세계에 퍼지다"
+      }
+   ]
+},
+{  "subjectName" : "（女、台）シ、はじ",
+   "mainHanja" : {
+      "top" : "始",
+      "bottom": "처음 시"
+  },
+   "detailGrp"  : [
+      { "detailName" : "始終（しじゅう）시종(처음부터 끝까지)",
+        "detailContJap" : "始終遊んでいる",
+        "detailContKor" : "늘 놀고 있다"
+      },
+      { "detailName" : "始まる（はじ）시작되다",
+        "detailContJap" : "木々の芽吹きが始まる",
+        "detailContKor" : "나무들의 싹이 돋아나기 시작하다"
+      }
+   ]
+},
+{  "subjectName" : "（言、寺）シ",
+   "mainHanja" : {
+      "top" : "詩",
+      "bottom": "시 시"
+  },
+   "detailGrp"  : [
+      { "detailName" : "詩人（しじん）시인",
+        "detailContJap" : "今年再評価された詩人",
+        "detailContKor" : "올해 재평가 받은 시인"
+      },
+      { "detailName" : "詩集（ししゅう）시집",
+        "detailContJap" : "詩集を発刊する",
+        "detailContKor" : "시집을 발간하다"
+      }
+   ]
+},
+{  "subjectName" : "（工、弋）",
+   "mainHanja" : {
+      "top" : "式",
+      "bottom": "법 식"
+  },
+   "detailGrp"  : [
+      { "detailName" : "式場（しきじょう）식장",
+        "detailContJap" : "結婚式場",
+        "detailContKor" : "결혼식장"
+      },
+      { "detailName" : "形式（けいしき）형식",
+        "detailContJap" : "自由詩は形式にとわれない",
+        "detailContKor" : "자유시는 형식에 구애되지 않는다"
+      }
+   ]
+},
+{  "subjectName" : "（木、直）ショク、う",
+   "mainHanja" : {
+      "top" : "植",
+      "bottom": "심을 식"
+  },
+   "detailGrp"  : [
+      { "detailName" : "植物（しょくぶつ）식물",
+        "detailContJap" : "花粉症を引き起こす植物の種類",
+        "detailContKor" : "꽃가루 알레르기를 일으키는 식물의 종류"
+      },
+      { "detailName" : "植える（う）심다",
+        "detailContJap" : "庭に木を植える",
+        "detailContKor" : "뜰에 나무를 심다"
+      }
+   ]
+},
+{  "subjectName" : "（心、自）ソク、いき",
+   "mainHanja" : {
+      "top" : "息",
+      "bottom": "숨쉴 식"
+  },
+   "detailGrp"  : [
+      { "detailName" : "休息（きゅうそく）휴식",
+        "detailContJap" : "十分な休息と睡眠を取った",
+        "detailContKor" : "충분한 휴식과 수면을 취했다"
+      },
+      { "detailName" : "息（いき）숨, 호흡",
+        "detailContJap" : "息がつけない",
+        "detailContKor" : "숨을 쉴 수가 없다"
+      }
+   ]
+},
+{  "subjectName" : "（田）シン、もう",
+   "mainHanja" : {
+      "top" : "申",
+      "bottom": "펼 신/거듭 신"
+  },
+   "detailGrp"  : [
+      { "detailName" : "申告（しんこく）신고",
+        "detailContJap" : "虚偽の申告をする",
+        "detailContKor" : "허위 신고를 하다"
+      },
+      { "detailName" : "申す（もう）말씀드리다, 여쭙다",
+        "detailContJap" : "無礼を申すな",
+        "detailContKor" : "무례한 말을 하지 말게"
+      }
+   ]
 }
 
 ]

@@ -1,0 +1,36 @@
+[
+
+{  "subjectName" : "（艹、楽）ヤク、くすり",
+   "mainHanja" : {
+      "top" : "薬",
+      "bottom": "약 약"
+  },
+   "detailGrp"  : [
+      { "detailName" : "薬品（やくひん）약품",
+        "detailContJap" : "薬品で爛れた皮膚",
+        "detailContKor" : "약품으로 인해 짓무른 피부"
+      },
+      { "detailName" : "薬（くすり）약",
+        "detailContJap" : "毒よけに薬を飲む",
+        "detailContKor" : "해독하기 위해 약을 먹다"
+      }
+   ]
+},
+{  "subjectName" : "（一、冂、山）リョウ",
+   "mainHanja" : {
+      "top" : "両",
+      "bottom": "두 양"
+  },
+   "detailGrp"  : [
+      { "detailName" : "両方（りょうほう）양쪽",
+        "detailContJap" : "両方の意見を聞く",
+        "detailContKor" : "양방의 의견을 듣다"
+      },
+      { "detailName" : "両面（りょうめん）양면",
+        "detailContJap" : "善と悪との両面性を持っている",
+        "detailContKor" : "선과 악이라는 양면성을 갖고 있다"
+      }
+   ]
+}
+
+]

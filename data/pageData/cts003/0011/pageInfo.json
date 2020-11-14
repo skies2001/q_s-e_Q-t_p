@@ -1,0 +1,160 @@
+[
+
+{  "subjectName" : "シン、み",
+   "mainHanja" : {
+      "top" : "身",
+      "bottom": "몸 신"
+  },
+   "detailGrp"  : [
+      { "detailName" : "身長（しんちょう）신장, 키",
+        "detailContJap" : "身長二メートルに近い巨人",
+        "detailContKor" : "신장 2미터에 가까운 거인"
+      },
+      { "detailName" : "身分（みぶん）신분",
+        "detailContJap" : "身分の良い人",
+        "detailContKor" : "신분이 높은 사람"
+      }
+   ]
+},
+{  "subjectName" : "（示、申）シン、ジン、かみ、かん、こう",
+   "mainHanja" : {
+      "top" : "神",
+      "bottom": "귀신 신"
+  },
+   "detailGrp"  : [
+      { "detailName" : "神話（しんわ）신화",
+        "detailContJap" : "ギリシャ神話に登場する神々",
+        "detailContKor" : "그리스 신화에 등장하는 신들"
+      },
+      { "detailName" : "神社（じんじゃ）신사",
+        "detailContJap" : "氏神を祭る神社",
+        "detailContKor" : "수호신을 모신 신사"
+      },
+      { "detailName" : "神（かみ）신",
+        "detailContJap" : "神はお見通しだ",
+        "detailContKor" : "신은 다 알고 계신다"
+      },
+      { "detailName" : "神戸（こうべ）고베(일본 지명)",
+        "detailContJap" : "神戸に行かなければナウくない",
+        "detailContKor" : "고베에 가지 않으면 유행에 뒤쳐진다"
+      }
+   ]
+},
+{  "subjectName" : "（宀、夫）ジツ、み、みの",
+   "mainHanja" : {
+      "top" : "実",
+      "bottom": "열매 실"
+  },
+   "detailGrp"  : [
+      { "detailName" : "果実（かじつ）과실, 열매",
+        "detailContJap" : "自家製の果実酒",
+        "detailContKor" : "집에서 만든 과실주"
+      },
+      { "detailName" : "実（み）열매",
+        "detailContJap" : "木をゆすぶって実を落とす",
+        "detailContKor" : "나무를 쥐어 흔들어 열매를 떨어뜨리다"
+      },
+      { "detailName" : "実る（みの）열매를 맺다, 결실을 맺다",
+        "detailContJap" : "稲が実る",
+        "detailContKor" : "벼가 여물다"
+      }
+   ]
+},
+{  "subjectName" : "（氵、木）シン、ふか",
+   "mainHanja" : {
+      "top" : "深",
+      "bottom": "깊을 심"
+  },
+   "detailGrp"  : [
+      { "detailName" : "深夜（しんや）심야",
+        "detailContJap" : "深夜から雨が降る",
+        "detailContKor" : "심야부터 비가 내리다"
+      },
+      { "detailName" : "深い（ふか）깊다",
+        "detailContJap" : "深い仲",
+        "detailContKor" : "깊은 사이"
+      }
+   ]
+},
+{  "subjectName" : "（心、亜）アク、オ、わる",
+   "mainHanja" : {
+      "top" : "悪",
+      "bottom": "악할 악/미울 오"
+  },
+   "detailGrp"  : [
+      { "detailName" : "悪意（あくい）악의",
+        "detailContJap" : "悪意の剥き出した批評",
+        "detailContKor" : "악의가 드러나는 비평"
+      },
+      { "detailName" : "憎悪（ぞうお）증오",
+        "detailContJap" : "憎悪が胸に巣くっている",
+        "detailContKor" : "증오가 가슴속에 도사리고 있다"
+      },
+      { "detailName" : "悪い（わる）나쁘다",
+        "detailContJap" : "無理を言って悪いね",
+        "detailContKor" : "무리한 말을 해서 미안해요"
+      }
+   ]
+},
+{  "subjectName" : "（宀、女）オン、やす",
+   "mainHanja" : {
+      "top" : "安",
+      "bottom": "편안 안"
+  },
+   "detailGrp"  : [
+      { "detailName" : "安心（あんしん）안심",
+        "detailContJap" : "彼に任せておけば安心だ",
+        "detailContKor" : "그에게 맡겨 두면 안심이다"
+      },
+      { "detailName" : "安い（やす）싸다, 쉽다",
+        "detailContJap" : "値段は安いが味はない",
+        "detailContKor" : "값은 싼데 맛은 없다"
+      }
+   ]
+},
+{  "subjectName" : "（山、千）ガン、きし",
+   "mainHanja" : {
+      "top" : "岸",
+      "bottom": "언덕 안"
+  },
+   "detailGrp"  : [
+      { "detailName" : "海岸（かいがん）해안",
+        "detailContJap" : "知らず知らずのうちに海岸にきてしまった",
+        "detailContKor" : "어느새 바닷가에 와 버렸다"
+      },
+      { "detailName" : "岸（きし）물가, 벼량",
+        "detailContJap" : "波が岸を打つ",
+        "detailContKor" : "파도가 해안을 때리다"
+      }
+   ]
+},
+{  "subjectName" : "（日、音）アン、くら",
+   "mainHanja" : {
+      "top" : "暗",
+      "bottom": "어두울 암"
+  },
+   "detailGrp"  : [
+      { "detailName" : "明暗（めいあん）명암",
+        "detailContJap" : "明暗をはっきりさせ立体感を出す",
+        "detailContKor" : "명암을 뚜렷하게 해서 입체감을 나타내다"
+      },
+      { "detailName" : "暗い（くら）어둡다",
+        "detailContJap" : "いつも暗い顔をしている",
+        "detailContKor" : "늘 어두운 얼굴을 하고 있다"
+      }
+   ]
+},
+{  "subjectName" : "（大）オウ",
+   "mainHanja" : {
+      "top" : "央",
+      "bottom": "가운데 양"
+  },
+   "detailGrp"  : [
+      { "detailName" : "中央（ちゅうおう）중앙",
+        "detailContJap" : "事務室の中央にテーブルを置いた",
+        "detailContKor" : "사무실 중앙에 테이블을 놓았다"
+      }
+   ]
+}
+
+]
