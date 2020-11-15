@@ -1,0 +1,164 @@
+[
+
+{  "subjectName" : "（刂、夕）レツ",
+   "mainHanja" : {
+      "top" : "列",
+      "bottom": "줄 열/벌릴 렬"
+  },
+   "detailGrp"  : [
+      { "detailName" : "一列（いちれつ）일렬",
+        "detailContJap" : "一列にずらりと並ぶ",
+        "detailContKor" : "일렬로 나란히 서다"
+      },
+      { "detailName" : "行列（ぎょうれつ）행렬",
+        "detailContJap" : "行列の間に割込む",
+        "detailContKor" : "행렬 사이에 끼어들다"
+      }
+   ]
+},
+{  "subjectName" : "（艹、世、木）ヨウ、は",
+   "mainHanja" : {
+      "top" : "葉",
+      "bottom": "잎 엽"
+  },
+   "detailGrp"  : [
+      { "detailName" : "紅葉（こうよう）단풍",
+        "detailContJap" : "全山紅葉する",
+        "detailContKor" : "온산에 단풍이 들다"
+      },
+      { "detailName" : "葉（は）잎, 나뭇잎",
+        "detailContJap" : "葉の出る前に花の咲く木",
+        "detailContKor" : "잎이 돋기 전에 꽃이 피는 나무"
+      }
+   ]
+},
+{  "subjectName" : "（氵、永）エイ、およ",
+   "mainHanja" : {
+      "top" : "泳",
+      "bottom": "헤엄칠 영"
+  },
+   "detailGrp"  : [
+      { "detailName" : "水泳（すいえい）수영",
+        "detailContJap" : "水泳中、足が引き攣る",
+        "detailContKor" : "수영중, 발에 쥐가 나다"
+      },
+      { "detailName" : "泳ぐ（およ）헤엄치다, 헤쳐나가다",
+        "detailContJap" : "人ごみの中を泳ぐ",
+        "detailContKor" : "인파를 헤치고 나아가다"
+      }
+   ]
+},
+{  "subjectName" : "（マ、丁）ヨ、あらかじ",
+   "mainHanja" : {
+      "top" : "予",
+      "bottom": "미리 예"
+  },
+   "detailGrp"  : [
+      { "detailName" : "予習（よしゅう）예습",
+        "detailContJap" : "復習と予習をさせる",
+        "detailContKor" : "복습과 예습을 시키다"
+      },
+      { "detailName" : "予定（よてい）예정",
+        "detailContJap" : "来春卒業の予定",
+        "detailContKor" : "내년 봄 졸업할 예정"
+      },
+      { "detailName" : "予め（あらかじ）미리, 사전에",
+        "detailContJap" : "予めご了承ください",
+        "detailContKor" : "미리 양해 부탁드립니다"
+      }
+   ]
+},
+{  "subjectName" : "（礻）レイ、ライ",
+   "mainHanja" : {
+      "top" : "礼",
+      "bottom": "예절 예"
+  },
+   "detailGrp"  : [
+      { "detailName" : "礼儀（れいぎ）예의, 예절",
+        "detailContJap" : "親しき仲にも礼儀あり",
+        "detailContKor" : "친한 사이에도 예의는 지켜야 한다"
+      },
+      { "detailName" : "失礼（しつれい）실례",
+        "detailContJap" : "失礼のないよう心掛ける",
+        "detailContKor" : "실례되는 일이 없도록 항상 주의하다"
+      }
+   ]
+},
+{  "subjectName" : "（尸、至）オク、や",
+   "mainHanja" : {
+      "top" : "屋",
+      "bottom": "집 옥"
+  },
+   "detailGrp"  : [
+      { "detailName" : "屋上（おくじょう）옥상",
+        "detailContJap" : "屋上から町の全景が見える",
+        "detailContKor" : "옥상에서 시내의 전경이 보인다"
+      },
+      { "detailName" : "本屋（ほんや）서점",
+        "detailContJap" : "学校への道すがら本屋に寄る",
+        "detailContKor" : "학교로 가는 도중에 서점에 들르다"
+      }
+   ]
+},
+{  "subjectName" : "（氵、日、皿）オン、あたた",
+   "mainHanja" : {
+      "top" : "温",
+      "bottom": "따뜻할 온"
+  },
+   "detailGrp"  : [
+      { "detailName" : "温泉（おんせん）온천",
+        "detailContJap" : "温泉が噴出す",
+        "detailContKor" : "온천 물이 솟나 나오다"
+      },
+      { "detailName" : "温かい（あたた）따뜻하다",
+        "detailContJap" : "温かい水に足を浸す",
+        "detailContKor" : "따뜻한 물에 발을 담그다"
+      }
+   ]
+},
+{  "subjectName" : "（辶、冖、車）ウン、はこ",
+   "mainHanja" : {
+      "top" : "運",
+      "bottom": "운전할 운"
+  },
+   "detailGrp"  : [
+      { "detailName" : "運転（うんてん）운전",
+        "detailContJap" : "運転が出来る",
+        "detailContKor" : "운전을 할 줄 알다"
+      },
+      { "detailName" : "運ぶ（はこ）나르다, 옮기다",
+        "detailContJap" : "三人掛ってやっと運ぶ",
+        "detailContKor" : "세 사람이 붙어서 겨우 나르다"
+      }
+   ]
+},
+{  "subjectName" : "（口、貝）イン",
+   "mainHanja" : {
+      "top" : "員",
+      "bottom": "수효 원"
+  },
+   "detailGrp"  : [
+      { "detailName" : "会員（かいいん）회원",
+        "detailContJap" : "会員には割引して売る",
+        "detailContKor" : "회원에겐 할인해서 판다"
+      },
+      { "detailName" : "満員（まんいん）만원",
+        "detailContJap" : "満員電車に客を押し込む",
+        "detailContKor" : "만원 전차에 손님을 밀어 넣다"
+      }
+   ]
+},
+{  "subjectName" : "（阝）",
+   "mainHanja" : {
+      "top" : "院",
+      "bottom": "집 원"
+  },
+   "detailGrp"  : [
+      { "detailName" : "",
+        "detailContJap" : "",
+        "detailContKor" : ""
+      }
+   ]
+}
+
+]
