@@ -148,15 +148,35 @@
       }
    ]
 },
-{  "subjectName" : "（阝）",
+{  "subjectName" : "（阝、完）イン",
    "mainHanja" : {
       "top" : "院",
       "bottom": "집 원"
   },
    "detailGrp"  : [
-      { "detailName" : "",
-        "detailContJap" : "",
-        "detailContKor" : ""
+      { "detailName" : "院内（いんない）원내",
+        "detailContJap" : "各地で院内感染相次ぐ",
+        "detailContKor" : "각지에서 원내 감염이 잇따르다"
+      },
+      { "detailName" : "美容院（びよういん）미용실",
+        "detailContJap" : "美容院でヘア・スプレーおかける",
+        "detailContKor" : "미장원에서 헤어스프레이를 뿌리다"
+      }
+   ]
+},
+{  "subjectName" : "（女、天）イ",
+   "mainHanja" : {
+      "top" : "委",
+      "bottom": "맡길 위"
+  },
+   "detailGrp"  : [
+      { "detailName" : "委員（いいん）위원",
+        "detailContJap" : "委員たちの間に不協和音が生じる",
+        "detailContKor" : "위원들 사이에 불협화음이 생기다"
+      },
+      { "detailName" : "委託（いたく）위탁",
+        "detailContJap" : "販売を業者に委託する",
+        "detailContKor" : "판매를 업자에게 위탁하다"
       }
    ]
 }

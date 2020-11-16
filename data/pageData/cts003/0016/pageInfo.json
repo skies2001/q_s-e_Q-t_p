@@ -1,0 +1,20 @@
+[
+
+{  "subjectName" : "（广、王、廴）テイ、にわ",
+   "mainHanja" : {
+      "top" : "庭",
+      "bottom": "뜰 정"
+  },
+   "detailGrp"  : [
+      { "detailName" : "庭園（ていえん）정원",
+        "detailContJap" : "立派な日本庭園のある平屋物件を100万円で買った結果...",
+        "detailContKor" : "훌륭한 일본 정원이 있는 단층집을 100만엔에 산 결과..."
+      },
+      { "detailName" : "庭（にわ）정원",
+        "detailContJap" : "父が丹精をこめた庭",
+        "detailContKor" : "아버지가 정성 들인 정원"
+      }
+   ]
+}
+
+]

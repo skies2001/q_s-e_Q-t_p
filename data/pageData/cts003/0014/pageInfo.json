@@ -1,0 +1,152 @@
+[
+
+{  "subjectName" : "（田）ユ、ユウ、ユイ、よし",
+   "mainHanja" : {
+      "top" : "由",
+      "bottom": "말미암아 유"
+  },
+   "detailGrp"  : [
+      { "detailName" : "由来（ゆらい）유래",
+        "detailContJap" : "ギリシャに由来する建築様式",
+        "detailContKor" : "그리스로부터 유래하는 건축 양식"
+      },
+      { "detailName" : "理由（りゆう）이유",
+        "detailContJap" : "理由もなく気が滅入る",
+        "detailContKor" : "이유 없이 마음이 우울해진다"
+      },
+      { "detailName" : "由緒（ゆいしょ）유서, 유래",
+        "detailContJap" : "由緒ある家柄",
+        "detailContKor" : "유서 깊은 집안"
+      },
+      { "detailName" : "由（よし）까닭, 원인, 유래",
+        "detailContJap" : "行方は知る由もない",
+        "detailContKor" : "행방을 알 길이 없다"
+      }
+   ]
+},
+{  "subjectName" : "（氵、油）ユ、あぶら",
+   "mainHanja" : {
+      "top" : "油",
+      "bottom": "기름 유"
+  },
+   "detailGrp"  : [
+      { "detailName" : "油断（ゆだん）방심, 부주의",
+        "detailContJap" : "油断ならない相手",
+        "detailContKor" : "방심할 수 없는 상대"
+      },
+      { "detailName" : "油（あぶら）기름",
+        "detailContJap" : "油を絞る",
+        "detailContKor" : "기름을 짜다, 기름을 채취하다, 호되게 야단시키다"
+      }
+   ]
+},
+{  "subjectName" : "（月）ユウ、ウ、あ",
+   "mainHanja" : {
+      "top" : "有",
+      "bottom": "있을 유"
+  },
+   "detailGrp"  : [
+      { "detailName" : "有利（ゆうり）유리",
+        "detailContJap" : "有利な位置を占める",
+        "detailContKor" : "유리한 위치를 차지하다"
+      },
+      { "detailName" : "有無（うみ）유뮤",
+        "detailContJap" : "異常の有無を検査する",
+        "detailContKor" : "이상 유무를 검사하다"
+      },
+      { "detailName" : "有る（あ）있다",
+        "detailContJap" : "生徒の間に人気が有る",
+        "detailContKor" : "학생들 간에 인기가 있다"
+      }
+   ]
+},
+{  "subjectName" : "（辶、方、子）ユウ、ユ、あそ",
+   "mainHanja" : {
+      "top" : "遊",
+      "bottom": "놀 유"
+  },
+   "detailGrp"  : [
+      { "detailName" : "遊園地（ゆうえんち）유원지, 놀이공원",
+        "detailContJap" : "親子で思いっきり楽しめるVR遊園地",
+        "detailContKor" : "부모와 아이들이 함께 마음껏 즐길 수 있는 VR 체험 시설"
+      },
+      { "detailName" : "遊山（ゆさん）구경 다님(들, 산으로)",
+        "detailContJap" : "遊山に出かける",
+        "detailContKor" : "들이나 산으로 놀러 나가다"
+      },
+      { "detailName" : "遊ぶ（あそ）놀다",
+        "detailContJap" : "木登りして遊ぶ",
+        "detailContKor" : "나무 타기 하며 놀다"
+      }
+   ]
+},
+{  "subjectName" : "（月、ム）イク、そだ、はぐく",
+   "mainHanja" : {
+      "top" : "育",
+      "bottom": "기를 육"
+  },
+   "detailGrp"  : [
+      { "detailName" : "教育（きょういく）교육",
+        "detailContJap" : "教育問題を話題に上せる",
+        "detailContKor" : "교육문제를 화제에 올리다"
+      },
+      { "detailName" : "育つ（そだ）자라다",
+        "detailContJap" : "健康に育つ",
+        "detailContKor" : "건강하게 자라다"
+      },
+      { "detailName" : "育む（はぐく）키우다",
+        "detailContJap" : "両親の愛に育まれる",
+        "detailContKor" : "부모의 사랑속에서 자라나다"
+      }
+   ]
+},
+{  "subjectName" : "（金、艮）ギン、しろがね",
+   "mainHanja" : {
+      "top" : "銀",
+      "bottom": "은 은"
+  },
+   "detailGrp"  : [
+      { "detailName" : "銀行（ぎんこう）은행",
+        "detailContJap" : "駅の真ん前に銀行がある",
+        "detailContKor" : "역 바로 앞에 은행이 있다"
+      },
+      { "detailName" : "銀河（ぎんが）은하",
+        "detailContJap" : "地球は銀河系宇宙の中にある",
+        "detailContKor" : "지구는 은하계 우주 속에 있다"
+      }
+   ]
+},
+{  "subjectName" : "（飠、欠）イン、の",
+   "mainHanja" : {
+      "top" : "飲",
+      "bottom": "마실 음"
+  },
+   "detailGrp"  : [
+      { "detailName" : "飲酒（いんしゅ）음주",
+        "detailContJap" : "飲酒運転で交通事故を起こす",
+        "detailContKor" : "음주 운전으로 교통사고를 내다"
+      },
+      { "detailName" : "飲む（の）마시다",
+        "detailContJap" : "おれはOJ飲むよ",
+        "detailContKor" : "나는 오렌지 주스 마실게"
+      }
+   ]
+},
+{  "subjectName" : "（匚、矢）イ",
+   "mainHanja" : {
+      "top" : "医",
+      "bottom": "의원 의"
+  },
+   "detailGrp"  : [
+      { "detailName" : "医者（いしゃ）의사",
+        "detailContJap" : "医者に掛ける",
+        "detailContKor" : "의사의 진찰을 받다, 의사에게 보이다"
+      },
+      { "detailName" : "医学（いがく）의학",
+        "detailContJap" : "医学が進歩する",
+        "detailContKor" : "의학이 진보하다"
+      }
+   ]
+}
+
+]

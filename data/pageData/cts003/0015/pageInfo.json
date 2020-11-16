@@ -1,0 +1,180 @@
+[
+
+{  "subjectName" : "（心、音）イ",
+   "mainHanja" : {
+      "top" : "意",
+      "bottom": "뜻 의"
+  },
+   "detailGrp"  : [
+      { "detailName" : "意味（いみ）의미",
+        "detailContJap" : "その意味は通じない",
+        "detailContKor" : "그 의미는 통하지 않는다"
+      },
+      { "detailName" : "意外（いがい）의외",
+        "detailContJap" : "彼は意外に年を食っている",
+        "detailContKor" : "그는 의외로 나이가 많다"
+      }
+   ]
+},
+{  "subjectName" : "（耂、日）シャ、もの",
+   "mainHanja" : {
+      "top" : "者",
+      "bottom": "사람 자"
+  },
+   "detailGrp"  : [
+      { "detailName" : "学者（がくしゃ）학자",
+        "detailContJap" : "学者に貧乏は付き物だ",
+        "detailContKor" : "학자에게 가난은 따라다니게 마련이다"
+      },
+      { "detailName" : "者（もの）사람",
+        "detailContJap" : "誰知らぬ者はない",
+        "detailContKor" : "모르는 사람은 아무도 없다"
+      }
+   ]
+},
+{  "subjectName" : "（立、早）ショウ",
+   "mainHanja" : {
+      "top" : "章",
+      "bottom": "글 장"
+  },
+   "detailGrp"  : [
+      { "detailName" : "章（しょう）장(글의 단락)",
+        "detailContJap" : "三つの章から成っている",
+        "detailContKor" : "세 장으로 되어 있다"
+      },
+      { "detailName" : "文章（ぶんしょう）문장",
+        "detailContJap" : "砕けた文章",
+        "detailContKor" : "알기 쉽게 풀어쓴 문장"
+      }
+   ]
+},
+{  "subjectName" : "（巾、長）チョウ",
+   "mainHanja" : {
+      "top" : "帳",
+      "bottom": "휘장 장"
+  },
+   "detailGrp"  : [
+      { "detailName" : "帳簿（ちょうぼ）장부",
+        "detailContJap" : "帳簿に掛けを付ける",
+        "detailContKor" : "장부에 외상을 달다"
+      },
+      { "detailName" : "通帳（つうちょう）통장",
+        "detailContJap" : "貯金通帳",
+        "detailContKor" : "저금통장"
+      }
+   ]
+},
+{  "subjectName" : "（竹、由）テキ、ふえ",
+   "mainHanja" : {
+      "top" : "笛",
+      "bottom": "피리 적"
+  },
+   "detailGrp"  : [
+      { "detailName" : "警笛（けいてき）경적",
+        "detailContJap" : "ぴいっと警笛を鳴らす",
+        "detailContKor" : "삑 하고 경적을 울리다"
+      },
+      { "detailName" : "笛（ふえ）피리",
+        "detailContJap" : "笛に合わせて踊る",
+        "detailContKor" : "피리 소리에 맞추어 춤추다"
+      }
+   ]
+},
+{  "subjectName" : "（王）ゼン、まった",
+   "mainHanja" : {
+      "top" : "全",
+      "bottom": "온전할 전"
+  },
+   "detailGrp"  : [
+      { "detailName" : "全部（ぜんぶ）전부, 모두",
+        "detailContJap" : "ぜんぶそろう",
+        "detailContKor" : "전부 갖추어지다, 모두 모이다"
+      },
+      { "detailName" : "全く（まった）전혀, 완전히, 아주",
+        "detailContJap" : "全く堪らない",
+        "detailContKor" : "정말 참을 수 없다"
+      }
+   ]
+},
+{  "subjectName" : "（火、田）はたけ、はた",
+   "mainHanja" : {
+      "top" : "畑",
+      "bottom": "화전 전"
+  },
+   "detailGrp"  : [
+      { "detailName" : "畑（はたけ、はた）밭, 분야, 영역",
+        "detailContJap" : "畑に種まきに行く",
+        "detailContKor" : "밭에 씨 뿌리러 가다"
+      }
+   ]
+},
+{  "subjectName" : "（攵、束、正）セイ、ととの",
+   "mainHanja" : {
+      "top" : "整",
+      "bottom": "가지런할 정"
+  },
+   "detailGrp"  : [
+      { "detailName" : "整理（せいり）정리",
+        "detailContJap" : "衣類を整理する",
+        "detailContKor" : "의류를 정리하다"
+      },
+      { "detailName" : "整える（ととの）가지런하게 하다, 가다듬다, 조절하다",
+        "detailContJap" : "コンディションを整える",
+        "detailContKor" : "컨디션을 조절하다"
+      }
+   ]
+},
+{  "subjectName" : "テイ、チョウ",
+   "mainHanja" : {
+      "top" : "丁",
+      "bottom": "장정 정"
+  },
+   "detailGrp"  : [
+      { "detailName" : "丁寧（ていねい）정중함",
+        "detailContJap" : "丁寧に髪を梳かす",
+        "detailContKor" : "정성스레 머리를 빗다"
+      },
+      { "detailName" : "丁度（ちょうど）꼭, 정확히",
+        "detailContJap" : "丁度電話しようと思っていたところだ",
+        "detailContKor" : "막 전화하려던 참이다"
+      }
+   ]
+},
+{  "subjectName" : "（宀、下、人）テイ、ジョウ、さだ",
+   "mainHanja" : {
+      "top" : "定",
+      "bottom": "정할 정"
+  },
+   "detailGrp"  : [
+      { "detailName" : "定期（ていき）정기",
+        "detailContJap" : "定期が切れる",
+        "detailContKor" : "정기 승차권의 유효 기간이 끝나다"
+      },
+      { "detailName" : "定規（じょうぎ）자",
+        "detailContJap" : "定規で線を引く",
+        "detailContKor" : "자로 선을 긋다"
+      },
+      { "detailName" : "定める（さだ）정하다, 결정하다",
+        "detailContJap" : "卒業後の進路を定める",
+        "detailContKor" : "졸업 후의 진로를 정하다"
+      }
+   ]
+},
+{  "subjectName" : "（車、云）テン、ころ",
+   "mainHanja" : {
+      "top" : "転",
+      "bottom": "구를 전"
+  },
+   "detailGrp"  : [
+      { "detailName" : "回転（かいてん）회전",
+        "detailContJap" : "頭の回転が速い人",
+        "detailContKor" : "머리 회전이 빠른 사람"
+      },
+      { "detailName" : "転ぶ（ころ）구르다, 넘어지다",
+        "detailContJap" : "石につまずいて転ぶ",
+        "detailContKor" : "돌에 걸려 넘어지다"
+      }
+   ]
+}
+
+]
