@@ -15,6 +15,159 @@
         "detailContKor" : "아버지가 정성 들인 정원"
       }
    ]
+},
+{  "subjectName" : "（示、夕、又）サイ、まつ",
+   "mainHanja" : {
+      "top" : "祭",
+      "bottom": "제사 제"
+  },
+   "detailGrp"  : [
+      { "detailName" : "祭日（さいじつ）제삿날",
+        "detailContJap" : "祭日は休業します",
+        "detailContKor" : "국경일은 휴업합니다"
+      },
+      { "detailName" : "祭る（まつ）제사를 지내다",
+        "detailContJap" : "神を祭る",
+        "detailContKor" : "신을 모시다"
+      },
+      { "detailName" : "祭り（まつ）축제",
+        "detailContJap" : "お祭り気分に浮かれている",
+        "detailContKor" : "축제 기분으로 들떠 있다"
+      }
+   ]
+},
+{  "subjectName" : "（竹、弟）ダイ",
+   "mainHanja" : {
+      "top" : "第",
+      "bottom": "차례 제"
+  },
+   "detailGrp"  : [
+      { "detailName" : "第一（だいいち）제일, 맨처음",
+        "detailContJap" : "世界で第一番といわれる音楽家",
+        "detailContKor" : "세계에 가장 손에 꼽는 음악가"
+      },
+      { "detailName" : "落第（らくだい）낙제",
+        "detailContJap" : "怠けた報いで落第す",
+        "detailContKor" : "게으름을 피운 탓으로 낙제하다"
+      }
+   ]
+},
+{  "subjectName" : "（頁、是）ダイ",
+   "mainHanja" : {
+      "top" : "題",
+      "bottom": "제목 제"
+  },
+   "detailGrp"  : [
+      { "detailName" : "題名（だいめい）제목",
+        "detailContJap" : "よく聞くけれど題名のわからない曲を集めてみました",
+        "detailContKor" : "자주 듣지만 제목을 알 수 없는 곡을 모아봤어요"
+      },
+      { "detailName" : "主題（しゅだい）주제",
+        "detailContJap" : "アニメーション作品の主題歌や挿入歌",
+        "detailContKor" : "애니메이션 작품의 주제가와 삽입곡"
+      }
+   ]
+},
+{  "subjectName" : "（力、且）ジョ、たす、すけ",
+   "mainHanja" : {
+      "top" : "助",
+      "bottom": "도울 조"
+  },
+   "detailGrp"  : [
+      { "detailName" : "助手（じょしゅ）조수",
+        "detailContJap" : "助手を使う",
+        "detailContKor" : "조수를 쓰다"
+      },
+      { "detailName" : "助ける（たす）구하다, 돕다",
+        "detailContJap" : "おぼれた人を助ける",
+        "detailContKor" : "물에 빠진 사람을 구조하다"
+      },
+      { "detailName" : "助平（すけべえ）호색가, 음란하고 상스러움",
+        "detailContJap" : "何て助平なやつだろう",
+        "detailContKor" : "정말이지 음란한 녀석이야"
+      }
+   ]
+},
+{  "subjectName" : "（言、周）チョウ、しら、ととの",
+   "mainHanja" : {
+      "top" : "調",
+      "bottom": "고를 조"
+  },
+   "detailGrp"  : [
+      { "detailName" : "調査（ちょうさ）조사",
+        "detailContJap" : "事件の調査はうやむやに終わった",
+        "detailContKor" : "사건 조사는 흐지부지 끝났다"
+      },
+      { "detailName" : "調べる（しら）찾아보다, 조사하다",
+        "detailContJap" : "辞書で調べる",
+        "detailContKor" : "사전으로 찾다"
+      },
+      { "detailName" : "調える（ととの）자리런하게 하다, 가다듬다, 조절하다",
+        "detailContJap" : "話を調える",
+        "detailContKor" : "이야기를 마무리 짓다"
+      }
+   ]
+},
+{  "subjectName" : "（方、矢）ゾク、やから",
+   "mainHanja" : {
+      "top" : "族",
+      "bottom": "겨레 족"
+  },
+   "detailGrp"  : [
+      { "detailName" : "家族（かぞく）가족",
+        "detailContJap" : "家族を連れて村を去る",
+        "detailContKor" : "가족을 데리고 마을을 떠나다"
+      },
+      { "detailName" : "民族（みんぞく）민족",
+        "detailContJap" : "アフリカの有名な民族村で馴染もうとしたらカオスなことになった",
+        "detailContKor" : "아프리카의 유명한 민속촌에서 친숙해지려다 카오스가 됐다"
+      },
+      { "detailName" : "族（やから）일족, 혈족",
+        "detailContJap" : "族",
+        "detailContKor" : "일족, 혈족",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（糸、冬）シュウ、お、おわ、つい",
+   "mainHanja" : {
+      "top" : "終",
+      "bottom": "마칠 종"
+  },
+   "detailGrp"  : [
+      { "detailName" : "終了（しゅうりょう）종료",
+        "detailContJap" : "6時に投票が終了した",
+        "detailContKor" : "6시에 투표가 종료 되었다"
+      },
+      { "detailName" : "終わる（お）끝나다",
+        "detailContJap" : "まもなく夏休みが終わる",
+        "detailContKor" : "곧 여름방학이 끝난다"
+      }
+   ]
+},
+{  "subjectName" : "（王）シュ、ス、ぬし、おも",
+   "mainHanja" : {
+      "top" : "主",
+      "bottom": "주인 주"
+  },
+   "detailGrp"  : [
+      { "detailName" : "主張（しゅちょう）주장",
+        "detailContJap" : "彼の主張にも一理ある",
+        "detailContKor" : "그의 주장에도 일리가 있다"
+      },
+      { "detailName" : "坊主（ぼうず）중, 중처럼 민머리(까까머리)",
+        "detailContJap" : "坊主になる",
+        "detailContKor" : "민머리가 되다, 중이 되다"
+      },
+      { "detailName" : "主（ぬし）주인",
+        "detailContJap" : "手紙の主",
+        "detailContKor" : "편지를 쓴 사람"
+      },
+      { "detailName" : "主に（おも）주로",
+        "detailContJap" : "夏は主にいなかで暮らす",
+        "detailContKor" : "여름을 주로 시골에서 지낸다"
+      }
+   ]
 }
 
 ]

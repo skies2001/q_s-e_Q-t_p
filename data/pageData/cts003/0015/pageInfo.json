@@ -87,7 +87,7 @@
   },
    "detailGrp"  : [
       { "detailName" : "全部（ぜんぶ）전부, 모두",
-        "detailContJap" : "ぜんぶそろう",
+        "detailContJap" : "全部そろう",
         "detailContKor" : "전부 갖추어지다, 모두 모이다"
       },
       { "detailName" : "全く（まった）전혀, 완전히, 아주",

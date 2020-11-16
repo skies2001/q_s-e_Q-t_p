@@ -1,0 +1,157 @@
+[
+
+{  "subjectName" : "（酉、氵）ユ、さけ、さか",
+   "mainHanja" : {
+      "top" : "酒",
+      "bottom": "술 주"
+  },
+   "detailGrp"  : [
+      { "detailName" : "酒量（しゅりょう）주량",
+        "detailContJap" : "酒量がふえる",
+        "detailContKor" : " 주량이 늘다"
+      },
+      { "detailName" : "酒（さけ）술",
+        "detailContJap" : "酒が回る",
+        "detailContKor" : "술기운이 돌다"
+      },
+      { "detailName" : "酒屋（さやか）술집, 소매점",
+        "detailContJap" : "酒屋からコンビニに転業する",
+        "detailContKor" : "술 가게에서 편의점으로 전업하다"
+      }
+   ]
+},
+{  "subjectName" : "（川）シュウ、ス、す、しま",
+   "mainHanja" : {
+      "top" : "州",
+      "bottom": "고을 주"
+  },
+   "detailGrp"  : [
+      { "detailName" : "州立（しゅうりつ）주립",
+        "detailContJap" : "州立大学",
+        "detailContKor" : "주립대학"
+      },
+      { "detailName" : "中州（なかす）강 가운데의 모래섬",
+        "detailContJap" : "中州",
+        "detailContKor" : "강 가운데의 모래섬",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（亻、主）ジュウ、す",
+   "mainHanja" : {
+      "top" : "住",
+      "bottom": "살 주"
+  },
+   "detailGrp"  : [
+      { "detailName" : "住所（じゅうしょ）주소",
+        "detailContJap" : "住所を突止める",
+        "detailContKor" : "주소를 알아내다"
+      },
+      { "detailName" : "住む（す）살다",
+        "detailContJap" : "森に住むきつね",
+        "detailContKor" : "숲에 사는 여우"
+      },
+      { "detailName" : "住まい（す）거주지",
+        "detailContJap" : "田舎住まい",
+        "detailContKor" : "시골살이"
+      }
+   ]
+},
+{  "subjectName" : "（氵、主）チュウ、そそ",
+   "mainHanja" : {
+      "top" : "注",
+      "bottom": "물댈 주"
+  },
+   "detailGrp"  : [
+      { "detailName" : "注文（ちゅうもん）주문",
+        "detailContJap" : "注文した料理を完食した",
+        "detailContKor" : "주문한 요리를 전부 먹었다"
+      },
+      { "detailName" : "注ぐ（そそ）붓다, 따르다",
+        "detailContJap" : "川の水が海に注ぐ",
+        "detailContKor" : "강물이 바다로 흘러 들어가다"
+      }
+   ]
+},
+{  "subjectName" : "（木、主）チュウ、はしら",
+   "mainHanja" : {
+      "top" : "柱",
+      "bottom": "기둥 주"
+  },
+   "detailGrp"  : [
+      { "detailName" : "電柱（でんちゅう）전신주",
+        "detailContJap" : "電柱に新たな電線の設置作業",
+        "detailContKor" : "전봇대에 새로운 전선 설치 작업"
+      },
+      { "detailName" : "柱（はしら）기둥",
+        "detailContJap" : "柱が倒れそうで危なっかしい",
+        "detailContKor" : "기둥이 넘어 질 것 같아서 위험스럽다"
+      }
+   ]
+},
+{  "subjectName" : "（里）シュウ、チョウ、え、おも、かさ",
+   "mainHanja" : {
+      "top" : "重",
+      "bottom": "무거울 중"
+  },
+   "detailGrp"  : [
+      { "detailName" : "重要（じゅうよう）중요",
+        "detailContJap" : "安全運転の重要性を訴える",
+        "detailContKor" : "안전 운전의 중요성을 호소하다"
+      },
+      { "detailName" : "貴重（きちょう）귀중",
+        "detailContJap" : "貴重な時間を潰す",
+        "detailContKor" : "귀중한 시간을 허비하다"
+      },
+      { "detailName" : "一重（ひとえ）한 겹",
+        "detailContJap" : "紙一重の差",
+        "detailContKor" : "종이 한장 차이"
+      },
+      { "detailName" : "重い（おも）무겁다",
+        "detailContJap" : "寝不足で頭が重い",
+        "detailContKor" : "수면 부족으로 머리가 무겁다"
+      },
+      { "detailName" : "重ねる（かさ）겹치다",
+        "detailContJap" : "同じ失敗を重ねる",
+        "detailContKor" : "같은 실패를 거듭하다"
+      }
+   ]
+},
+{  "subjectName" : "（扌、ヒ、日）シ、ゆび、さ",
+   "mainHanja" : {
+      "top" : "指",
+      "bottom": "손가락 지"
+  },
+   "detailGrp"  : [
+      { "detailName" : "指示（しじ）지시",
+        "detailContJap" : "食後に薬を飲めとの医者からの指示があった",
+        "detailContKor" : "식후에 약을 먹으라는 의사의 지시가 있었다"
+      },
+      { "detailName" : "指（ゆび）손가락",
+        "detailContJap" : "指にまったく感覚がない",
+        "detailContKor" : "손가락에 전혀 감각이 없다"
+      },
+      { "detailName" : "指す（さ）가리키다(위치를)",
+        "detailContJap" : "一体何を指すのかな？",
+        "detailContKor" : "도대체 뭘 지칭하는 걸까?"
+      }
+   ]
+},
+{  "subjectName" : "（扌、寺）ぞ、も",
+   "mainHanja" : {
+      "top" : "持",
+      "bottom": "가질 지"
+  },
+   "detailGrp"  : [
+      { "detailName" : "維持（いじ）유지",
+        "detailContJap" : "維持費がかさむ",
+        "detailContKor" : "유지비가 많이 들다"
+      },
+      { "detailName" : "持つ（も）가지다, 들다",
+        "detailContJap" : "家を持つ",
+        "detailContKor" : "집을 갖다"
+      }
+   ]
+}
+
+]

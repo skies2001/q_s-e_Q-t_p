@@ -1,0 +1,81 @@
+[
+
+{  "subjectName" : "（貝）シン、ま、まこと",
+   "mainHanja" : {
+      "top" : "真",
+      "bottom": "참 진"
+  },
+   "detailGrp"  : [
+      { "detailName" : "真実（しんじつ）진실",
+        "detailContJap" : "真実を伝える",
+        "detailContKor" : "진실을 전달하다"
+      },
+      { "detailName" : "真（ま）정말, 진실, 바른, 순수한",
+        "detailContJap" : "真夜中に切り裂くような悲鳴が聞こえるてきた",
+        "detailContKor" : "한밤중에 날카로운 비명 소리가 들려 왔다"
+      }
+   ]
+},
+{  "subjectName" : "（辶、隹）シン、すす",
+   "mainHanja" : {
+      "top" : "進",
+      "bottom": "나아갈 진"
+  },
+   "detailGrp"  : [
+      { "detailName" : "進行（しんこう）진행",
+        "detailContJap" : "早いテンポで進行する",
+        "detailContKor" : "빠른 템포로 진행하다"
+      },
+      { "detailName" : "進む（すす）나아가다, 진행하다",
+        "detailContJap" : "工事が思ったより早く進む",
+        "detailContKor" : "공사가 생각보다 빨리 나아간다"
+      }
+   ]
+},
+{  "subjectName" : "（隹、木）シュウ、あつ、つど",
+   "mainHanja" : {
+      "top" : "集",
+      "bottom": "모을 집"
+  },
+   "detailGrp"  : [
+      { "detailName" : "集合（しゅうごう）집합",
+        "detailContJap" : "生徒を集合して注意を与える",
+        "detailContKor" : "학생을 집합시켜 주의를 주다"
+      },
+      { "detailName" : "集まる（あつ）모이다",
+        "detailContJap" : "無数の人が集まる",
+        "detailContKor" : "무수한 사람이 모이다"
+      },
+      { "detailName" : "集う（つど）모이다",
+        "detailContJap" : "全国から集って来る",
+        "detailContKor" : "전국에서 모여들다"
+      }
+   ]
+},
+{  "subjectName" : "（欠）ジ、シ、つ、つぎ",
+   "mainHanja" : {
+      "top" : "次",
+      "bottom": "버금 차"
+  },
+   "detailGrp"  : [
+      { "detailName" : "次回（じかい）차회, 다음 번",
+        "detailContJap" : "当選者が出ない場合は、賞金が次回に持ち越される",
+        "detailContKor" : "당첨자가 나오지 않을 경우는 상금이 다음 회로 이월된다"
+      },
+      { "detailName" : "次第（しだい）순서, 차례, 차츰(점점)",
+        "detailContJap" : "次第に明るくなる",
+        "detailContKor" : "차츰 밝아 오다"
+      },
+      { "detailName" : "次ぐ（つ）잇따르다, 버금가다",
+        "detailContJap" : "昨年に次ぐ豊作",
+        "detailContKor" : "작년에 이은 풍작"
+      },
+      { "detailName" : "次（つぎ）다음 번",
+        "detailContJap" : "作業を次の段階に移す",
+        "detailContKor" : "작업을 다음 단계로 옮기다"
+      }
+   ]
+}
+
+
+]
