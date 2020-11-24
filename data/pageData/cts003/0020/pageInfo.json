@@ -1,0 +1,28 @@
+[
+
+{  "subjectName" : "（干）ヘイ、ヒョウ、ビョウ、たいら、ひら",
+   "mainHanja" : {
+      "top" : "平",
+      "bottom": "평평할 평"
+  },
+   "detailGrp"  : [
+      { "detailName" : "平均（へいきん）평균",
+        "detailContJap" : "片足で体の平均を保つ",
+        "detailContKor" : "한  발로 몸의 평형을 유지하다"
+      },
+      { "detailName" : "平等（びょうどう）평등",
+        "detailContJap" : "法の前には万人が平等である",
+        "detailContKor" : "법 앞에서는 만인이 평등하다"
+      },
+      { "detailName" : "平ら（たい）평평함",
+        "detailContJap" : "昔は地球が平らだと言ってたんだよ",
+        "detailContKor" : "옛날에는 지구가 평평했다고 하더라"
+      },
+      { "detailName" : "平たい（ひら）납작하다",
+        "detailContJap" : "平たい鼻がかわいい子犬",
+        "detailContKor" : "납작한 코가 귀여운 강아지"
+      }
+   ]
+}
+
+]

@@ -1,0 +1,169 @@
+[
+
+{  "subjectName" : "（耳、又）シュ、と",
+   "mainHanja" : {
+      "top" : "取",
+      "bottom": "취할 취"
+  },
+   "detailGrp"  : [
+      { "detailName" : "取得（しゅとく）취득",
+        "detailContJap" : "運転免許を取得する",
+        "detailContKor" : "운전면혀를 취득하다"
+      },
+      { "detailName" : "取る（と）집다, 잡다",
+        "detailContJap" : "手に取って見る",
+        "detailContKor" : "손에 들고 보다"
+      }
+   ]
+},
+{  "subjectName" : "（止、米）シ、は",
+   "mainHanja" : {
+      "top" : "歯",
+      "bottom": "이 치"
+  },
+   "detailGrp"  : [
+      { "detailName" : "歯科（しか）치과",
+        "detailContJap" : "歯科に向かっています",
+        "detailContKor" : "치과에 다니고 있습니다"
+      },
+      { "detailName" : "歯（は）이, 치아",
+        "detailContJap" : "寝る前に歯を磨く",
+        "detailContKor" : "자기 전에 이를 닦다"
+      }
+   ]
+},
+{  "subjectName" : "（亻、也）タ、ほか",
+   "mainHanja" : {
+      "top" : "他",
+      "bottom": "다를 타"
+  },
+   "detailGrp"  : [
+      { "detailName" : "他人（たにん）타인, 남",
+        "detailContJap" : "他人の話に耳を欹てる",
+        "detailContKor" : "남의 이야기에 귀를 기울이다"
+      },
+      { "detailName" : "その他（た）그 외, 기타",
+        "detailContJap" : "その他もろもろ",
+        "detailContKor" : "그 밖의 여러 가지"
+      },
+      { "detailName" : "他（ほか）그 밖, 이외",
+        "detailContJap" : "他に効用がない",
+        "detailContKor" : "다른 용도가 없다"
+      }
+   ]
+},
+{  "subjectName" : "（扌、丁）ダ、う",
+   "mainHanja" : {
+      "top" : "打",
+      "bottom": "칠 타"
+  },
+   "detailGrp"  : [
+      { "detailName" : "打者（だしゃ）타자",
+        "detailContJap" : "三番打者の穴を埋める",
+        "detailContKor" : "3번 타자의 빈자리를 메우다"
+      },
+      { "detailName" : "打つ（う）치다, 때리다",
+        "detailContJap" : "倒れて頭を打つ",
+        "detailContKor" : "넘어져서 머리를 부딪치다"
+      }
+   ]
+},
+{  "subjectName" : "（火、山）タン、すみ",
+   "mainHanja" : {
+      "top" : "炭",
+      "bottom": "숯 탄"
+  },
+   "detailGrp"  : [
+      { "detailName" : "炭酸（たんさん）탄산",
+        "detailContJap" : "いろんな飲み物を炭酸飲料にしてみましょう！",
+        "detailContKor" : "여러가지 마실 것을 탄산음료로 만들어 봅시다!"
+      },
+      { "detailName" : "炭（すみ）숯",
+        "detailContJap" : "この炭は火持ちが悪い",
+        "detailContKor" : "이 숯은 불이 오래가지 않는다"
+      }
+   ]
+},
+{  "subjectName" : "（氵 、易）トウ、ゆ",
+   "mainHanja" : {
+      "top" : "湯",
+      "bottom": "끓일 탕"
+  },
+   "detailGrp"  : [
+      { "detailName" : "熱湯（ねっとう）열탕",
+        "detailContJap" : "熱湯で殺菌する",
+        "detailContKor" : "끓는 물로 살균하다"
+      },
+      { "detailName" : "お湯（ゆ）뜨거운 물",
+        "detailContJap" : "ガウン姿でお湯を沸かし、コーヒーを入れる",
+        "detailContKor" : "가운 차림으로 물을 데워 커피를 탄다"
+      }
+   ]
+},
+{  "subjectName" : "（扌、几、又）トウ、さか",
+   "mainHanja" : {
+      "top" : "投",
+      "bottom": "던질 투"
+  },
+   "detailGrp"  : [
+      { "detailName" : "投手（とうしゅ）투수",
+        "detailContJap" : "投手が急に乱調になる",
+        "detailContKor" : "투수가 갑자기 난조에 빠지다"
+      },
+      { "detailName" : "投げる（な）던지다",
+        "detailContJap" : "腕をつかんで投げる",
+        "detailContKor" : "팔을 잡고 던지다(메치다)"
+      }
+   ]
+},
+{  "subjectName" : "（氵、皮）ハ、なみ",
+   "mainHanja" : {
+      "top" : "波",
+      "bottom": "물결 파"
+  },
+   "detailGrp"  : [
+      { "detailName" : "波乱（はらん）파란, 풍파, 소동",
+        "detailContJap" : "私が生きた来た半世紀はまさに波乱万丈であった",
+        "detailContKor" : "내가 살아 온 반세기는 그야말로 파란만장했다"
+      },
+      { "detailName" : "波（なみ）파도",
+        "detailContJap" : "波に揉まれる小舟",
+        "detailContKor" : "파도에 이리저리 밀리는 작은 배"
+      }
+   ]
+},
+{  "subjectName" : "（土、又）ハン、さか",
+   "mainHanja" : {
+      "top" : "坂",
+      "bottom": "비탈 판"
+  },
+   "detailGrp"  : [
+      { "detailName" : "登坂（とうはん）고갯길을 올라감",
+        "detailContJap" : "登坂",
+        "detailContKor" : "등판"
+        ,"soundFlg" : 0
+      },
+      { "detailName" : "坂（さか）비탈길, 고갯길",
+        "detailContJap" : "乃木坂フォーティーシックス",
+        "detailContKor" : "노기자카46"
+      }
+   ]
+},
+{  "subjectName" : "（木、又）ハン、バン、いた",
+   "mainHanja" : {
+      "top" : "板",
+      "bottom": "널빤지 판"
+  },
+   "detailGrp"  : [
+      { "detailName" : "看板（かんばん）간판",
+        "detailContJap" : "見やすい所に看板を出す",
+        "detailContKor" : "보기 쉬운 곳에 간판을 내놓다"
+      },
+      { "detailName" : "板（いた）판자, 널빤지",
+        "detailContJap" : "板の下に名前が書いてあるんですか？",
+        "detailContKor" : "판 밑에 이름이 적혀 있다고요?"
+      }
+   ]
+}
+
+]

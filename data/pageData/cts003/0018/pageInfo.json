@@ -75,6 +75,74 @@
         "detailContKor" : "작업을 다음 단계로 옮기다"
       }
    ]
+},
+{  "subjectName" : "（目、王）チャク、ジャク、き、つ",
+   "mainHanja" : {
+      "top" : "着",
+      "bottom": "붙을 착"
+  },
+   "detailGrp"  : [
+      { "detailName" : "試着（しちゃく）입어 봄, 시착",
+        "detailContJap" : "試着室はどこですか？",
+        "detailContKor" : "탈의실이 어디죠?"
+      },
+      { "detailName" : "着る（き）입다(옷을)",
+        "detailContJap" : "薄物を着る",
+        "detailContKor" : "얇은 옷을 입다"
+      },
+      { "detailName" : "着く（つ）닿다, 도착하다",
+        "detailContJap" : "頭が天井に着く",
+        "detailContKor" : "머리가 천장에 닿다"
+      }
+   ]
+},
+{  "subjectName" : "（金、失）テツ、くるがね",
+   "mainHanja" : {
+      "top" : "鉄",
+      "bottom": "쇠 철"
+  },
+   "detailGrp"  : [
+      { "detailName" : "鉄棒（てつぼう）철봉",
+        "detailContJap" : "鉄棒にぶら下がる",
+        "detailContKor" : "철봉에 매달리다"
+      },
+      { "detailName" : "鉄板（てっぱん）철판",
+        "detailContJap" : "鉄板の上で肉がじいじい焼けている",
+        "detailContKor" : "철판 위에서 고기가 지글지글 구워지고 있다"
+      }
+   ]
+},
+{  "subjectName" : "（禾、少）ビョウ",
+   "mainHanja" : {
+      "top" : "秒",
+      "bottom": "초 초"
+  },
+   "detailGrp"  : [
+      { "detailName" : "秒速（びょうそく）초속",
+        "detailContJap" : "秒速二十メートルの風",
+        "detailContKor" : "초속 20m의 바람"
+      },
+      { "detailName" : "秒針（びょうしん）초침",
+        "detailContJap" : "時計の秒針のチクタク音",
+        "detailContKor" : "시계 초침이 똑딱거리는 소리"
+      }
+   ]
+},
+{  "subjectName" : "（辶）ツイ、お",
+   "mainHanja" : {
+      "top" : "追",
+      "bottom": "쫓을 추"
+  },
+   "detailGrp"  : [
+      { "detailName" : "追加（ついか）추가",
+        "detailContJap" : "グラフィックカードを追加して性能を強化する",
+        "detailContKor" : "그래픽 카드를 추가하여 성능을 강화하다"
+      },
+      { "detailName" : "追う（お）따르다, 뒤쫓아가다",
+        "detailContJap" : "声を掛けて牛を追う",
+        "detailContKor" : "소리를 질러 소를 몰다"
+      }
+   ]
 }
 
 
