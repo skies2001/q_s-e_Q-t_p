@@ -23,6 +23,135 @@
         "detailContKor" : "납작한 코가 귀여운 강아지"
       }
    ]
+},
+{  "subjectName" : "（衣）ヒョウ、おもて、あらわ",
+   "mainHanja" : {
+      "top" : "表",
+      "bottom": "겉 표"
+  },
+   "detailGrp"  : [
+      { "detailName" : "表情（ひょうじょう）표정",
+        "detailContJap" : "驚きの色が表情に現れる",
+        "detailContKor" : "놀란 기색이 표정에 드러나다"
+      },
+      { "detailName" : "表（おもて）겉, 표면",
+        "detailContJap" : "表は白いが裏は黒い",
+        "detailContKor" : "겉은 희지만 속은 검다"
+      },
+      { "detailName" : "表す（あらわ）나타내다",
+        "detailContJap" : "言葉で表す",
+        "detailContKor" : "말로 나타내다"
+      }
+   ]
+},
+{  "subjectName" : "（口）ヒン、ホン、しな",
+   "mainHanja" : {
+      "top" : "品",
+      "bottom": "물건 품"
+  },
+   "detailGrp"  : [
+      { "detailName" : "品質（ひんしつ）품질",
+        "detailContJap" : "品質の知れない品物",
+        "detailContKor" : "품질을 알 수 없는 물품"
+      },
+      { "detailName" : "品物（しなもの）물건",
+        "detailContJap" : "品物を店先に並べる",
+        "detailContKor" : "물품을 가게 앞에 벌여 놓다"
+      }
+   ]
+},
+{  "subjectName" : "（又）ヒ、かわ",
+   "mainHanja" : {
+      "top" : "皮",
+      "bottom": "가죽 피"
+  },
+   "detailGrp"  : [
+      { "detailName" : "皮革（ひかく）피혁, 가죽",
+        "detailContJap" : "合成皮革",
+        "detailContKor" : "합성피역"
+      },
+      { "detailName" : "皮膚（ひふ）피부",
+        "detailContJap" : "太陽で焦げた皮膚",
+        "detailContKor" : "태양에 그을린 피부"
+      },
+      { "detailName" : "皮（かわ）가죽, 껍질",
+        "detailContJap" : "バナナの皮をさっと剝く",
+        "detailContKor" : "바나나 껍질을 쭉 벗기다"
+      }
+   ]
+},
+{  "subjectName" : "（竹、聿）ヒツ、ふで",
+   "mainHanja" : {
+      "top" : "筆",
+      "bottom": "붓 필"
+  },
+   "detailGrp"  : [
+      { "detailName" : "自筆（じひつ）자필",
+        "detailContJap" : "自筆",
+        "detailContKor" : "자필",
+        "soundFlg" : 0
+      },
+      { "detailName" : "筆記（ひっき）필기",
+        "detailContJap" : "筆記用具必携のこと",
+        "detailContKor" : "필기 도구를 반드시 휴대할 것"
+      },
+      { "detailName" : "筆（ふで）붓",
+        "detailContJap" : "筆が渋る",
+        "detailContKor" : "붓이 술술 나가지 않는다(글이 잘 안써지다)"
+      },
+      { "detailName" : "筆箱（ふでばこ）필통",
+        "detailContJap" : "筆箱の中身にこれ入れる人いるの?",
+        "detailContKor" : "필통 안에 이거 넣는 사람 있어?"
+      }
+   ]
+},
+{  "subjectName" : "（艹、何）カ、に",
+   "mainHanja" : {
+      "top" : "荷",
+      "bottom": "멜 하"
+  },
+   "detailGrp"  : [
+      { "detailName" : "入荷（にゅうか）입하",
+        "detailContJap" : "秋物が続々と入荷する",
+        "detailContKor" : "가을 옷이 속속 입하하다"
+      },
+      { "detailName" : "荷物（にもつ）짐",
+        "detailContJap" : "重い荷物を持ち歩く",
+        "detailContKor" : "무거은 짐을 들고 다니다"
+      }
+   ]
+},
+{  "subjectName" : "（宀、井）カン、さむ",
+   "mainHanja" : {
+      "top" : "寒",
+      "bottom": "찰 한"
+  },
+   "detailGrp"  : [
+      { "detailName" : "悪寒（おかん）오한",
+        "detailContJap" : "悪寒で風邪までかさなってふらふらする。",
+        "detailContKor" : "오한에 감기까지 겹쳐서 빌빌거리다"
+      },
+      { "detailName" : "寒い（さむ）춥다",
+        "detailContJap" : "今朝はめっぽう寒い",
+        "detailContKor" : "오늘 아침은 굉장히 춥다"
+      }
+   ]
+},
+{  "subjectName" : "（氵、艹、口、夫）カン",
+   "mainHanja" : {
+      "top" : "漢",
+      "bottom": "한수 한"
+  },
+   "detailGrp"  : [
+      { "detailName" : "漢字（かんじ）한자",
+        "detailContJap" : "漢字を猛勉強する",
+        "detailContKor" : "한자 공부를 열심히 하다"
+      },
+      { "detailName" : "漢方（かんぽう）한방",
+        "detailContJap" : "漢方でアレルギー体質を改善する",
+        "detailContKor" : "한방으로 알레르기 체질을 개선하다"
+      }
+   ]
 }
 
 ]

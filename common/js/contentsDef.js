@@ -5,11 +5,14 @@ var cts002 = {
   maxBtnCnt : 18
 };
 var cts003 = {
-  maxBtnCnt : 20
+  maxBtnCnt : 21
+};
+var cts004 = {
+  maxBtnCnt : 1
 };
 
 {
-    ["cts001","cts002","cts003"].forEach(function(e){
+    ["cts001","cts002","cts003","cts004"].forEach(function(e){
         window[e].firstFnc = function(info, dictPage){
           this.cmmInfo = info;
           this.pageDictPath = dictPage + "/";

@@ -1,0 +1,104 @@
+[
+
+{  "subjectName" : "（力、口）カ、くわ",
+   "mainHanja" : {
+      "top" : "加",
+      "bottom": "더할 가"
+  },
+   "detailGrp"  : [
+      { "detailName" : "加入（かにゅう）가입",
+        "detailContJap" : "新規に加入する",
+        "detailContKor" : "신규로 가입하다"
+      },
+      { "detailName" : "加える（くわ）더하다, 늘리다",
+        "detailContJap" : "汁に塩を加える",
+        "detailContKor" : "국에 소금을 치다"
+      }
+   ]
+},
+{  "subjectName" : "（行、土）ガイ、カイ、まち",
+   "mainHanja" : {
+      "top" : "街",
+      "bottom": "거리 가"
+  },
+   "detailGrp"  : [
+      { "detailName" : "街頭（がいとう）길거리",
+        "detailContJap" : "街頭でフリーハグを行う",
+        "detailContKor" : "길거리에서 프리 허그를 하다"
+      },
+      { "detailName" : "市街地（しがいち）시가지",
+        "detailContJap" : "市街地でお好み焼き店を営む",
+        "detailContKor" : "시가지에서 오코노미야키 가게를 운영하다"
+      },
+      { "detailName" : "街（まち）거리",
+        "detailContJap" : "街は年末で雑踏していた",
+        "detailContKor" : "거리는 연말이라 붐비고 있었다"
+      }
+   ]
+},
+{  "subjectName" : "（口、夂）カク、おのおの",
+   "mainHanja" : {
+      "top" : "各",
+      "bottom": "각각 각"
+  },
+   "detailGrp"  : [
+      { "detailName" : "各自（かくじ）각자",
+        "detailContJap" : "昼食は各自持参の事",
+        "detailContKor" : "점심은 각자 지참할 것"
+      },
+      { "detailName" : "各々（おのおの）각자, 각각, 여러분",
+        "detailContJap" : "各々くじで引いた場所で2019年を迎えます！！",
+        "detailContKor" : "각각 제비뽑기 장소에서 2019년을 맞이합니다!!"
+      }
+   ]
+},
+{  "subjectName" : "（見）カク、おぼ、さ",
+   "mainHanja" : {
+      "top" : "覚",
+      "bottom": "깨달을 각"
+  },
+   "detailGrp"  : [
+      { "detailName" : "覚悟（かくご）각오",
+        "detailContJap" : "退学処分は元より覚悟の上だ",
+        "detailContKor" : "퇴학 처분은 처음부터 각오한 바다"
+      },
+      { "detailName" : "覚える（おぼ）기억하다",
+        "detailContJap" : "同じセリフを反復して覚える",
+        "detailContKor" : "같은 대사를 반복해서 외우다"
+      },
+      { "detailName" : "覚める（さ）잠이 깨다",
+        "detailContJap" : "目が覚める",
+        "detailContKor" : "잠이 깨다, 정신이 들다"
+      }
+   ]
+},
+{  "subjectName" : "（广、肀）コウ",
+   "mainHanja" : {
+      "top" : "康",
+      "bottom": "편안할 강"
+  },
+   "detailGrp"  : [
+      { "detailName" : "健康（けんこう）건강",
+        "detailContJap" : "何事も健康が元手だ",
+        "detailContKor" : "무슨 일을 하든 건강이 밑천이다"
+      }
+   ]
+},
+{  "subjectName" : "",
+   "mainHanja" : {
+      "top" : "",
+      "bottom": ""
+  },
+   "detailGrp"  : [
+      { "detailName" : "",
+        "detailContJap" : "",
+        "detailContKor" : ""
+      },
+      { "detailName" : "",
+        "detailContJap" : "",
+        "detailContKor" : ""
+      }
+   ]
+}
+
+]

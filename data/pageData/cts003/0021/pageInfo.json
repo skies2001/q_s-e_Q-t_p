@@ -1,0 +1,188 @@
+[
+
+{  "subjectName" : "（氵、己、共）コウ、みなと",
+   "mainHanja" : {
+      "top" : "港",
+      "bottom": "항구 항"
+  },
+   "detailGrp"  : [
+      { "detailName" : "空港（くうこう）공항",
+        "detailContJap" : "空港からホテルへの移動は空港リムジンが便利である",
+        "detailContKor" : "공항에서 호텔로의 이동은 공항 리무진 버스가 편리하다"
+      },
+      { "detailName" : "港（みなと）항구",
+        "detailContJap" : "雨に煙る港",
+        "detailContKor" : "비로 흐리게 보이는 항구"
+      }
+   ]
+},
+{  "subjectName" : "（干、土）コウ、さいわ、さち、しあわ",
+   "mainHanja" : {
+      "top" : "幸",
+      "bottom": "다행 행"
+  },
+   "detailGrp"  : [
+      { "detailName" : "幸運（こううん）",
+        "detailContJap" : "幸運の女神がほほえむ",
+        "detailContKor" : "행운의 여신이 모시 짓다"
+      },
+      { "detailName" : "幸い（さいわ）행복, 다행, 다행히",
+        "detailContJap" : "幸いにいい職場を得た",
+        "detailContKor" : "다행이 좋은 일자리를 얻었다"
+      },
+      { "detailName" : "幸（さち）행복, 행운, 복",
+        "detailContJap" : "忍ぶ者に幸があるのだ",
+        "detailContKor" : "참는 자에게 복이 있다"
+      },
+      { "detailName" : "幸せ（しあわ）행복함, 운 좋음",
+        "detailContJap" : "親は子の幸せを望み願う",
+        "detailContKor" : "부모는 자식이 행복을 소망한다"
+      }
+   ]
+},
+{  "subjectName" : "（口）コウ、む、むか",
+   "mainHanja" : {
+      "top" : "向",
+      "bottom": "향할 향"
+  },
+   "detailGrp"  : [
+      { "detailName" : "向上（こうじょう）향상",
+        "detailContJap" : "学力水準が全判的に向上した",
+        "detailContKor" : "학력 수준이 전반적으로 향상되었다"
+      },
+      { "detailName" : "向く（む）향하다, 기다리다",
+        "detailContJap" : "真横を向く",
+        "detailContKor" : "바로 옆을 향하다"
+      },
+      { "detailName" : "向かう（む）향하다, 마주 보다, 대하다",
+        "detailContJap" : "本を読もうとして机に向かう",
+        "detailContKor" : "책을 읽으려고 책상 앞에 앉다"
+      }
+   ]
+},
+{  "subjectName" : "（目）ケン、あがた",
+   "mainHanja" : {
+      "top" : "県",
+      "bottom": "고을 현"
+  },
+   "detailGrp"  : [
+      { "detailName" : "県（けん）현(일본 지방 행정 구역)",
+        "detailContJap" : "県下の全校",
+        "detailContKor" : "현 내의 모든 학교"
+      }
+   ]
+},
+{  "subjectName" : "（皿）ケツ、ち",
+   "mainHanja" : {
+      "top" : "血",
+      "bottom": "피 혈"
+  },
+   "detailGrp"  : [
+      { "detailName" : "血液（けつえき）혈액",
+        "detailContJap" : "肺は血液を浄化する",
+        "detailContKor" : "폐는 혈액을 정화한다"
+      },
+      { "detailName" : "血（ち）피",
+        "detailContJap" : "血が繋がる",
+        "detailContKor" : "혈연 관계가 있다"
+      }
+   ]
+},
+{  "subjectName" : "（氵、古、月）コ、むずうみ",
+   "mainHanja" : {
+      "top" : "湖",
+      "bottom": "호수 호"
+  },
+   "detailGrp"  : [
+      { "detailName" : "湖水（こすい）호수",
+        "detailContJap" : "湖水に映る山の影",
+        "detailContKor" : "호수에 비치는 산 그림자"
+      },
+      { "detailName" : "湖（みずうみ）호수",
+        "detailContJap" : "湖の上を照らす月",
+        "detailContKor" : "호수 위를 비추는 달"
+      }
+   ]
+},
+{  "subjectName" : "（口）ゴウ",
+   "mainHanja" : {
+      "top" : "号",
+      "bottom": "부르짖을 호"
+  },
+   "detailGrp"  : [
+      { "detailName" : "信号（しんごう）신호",
+        "detailContJap" : "赤信号で行進が止まる",
+        "detailContKor" : "빨간 신호로 행진이 멈추다"
+      },
+      { "detailName" : "記号（きごう）기호",
+        "detailContJap" : "この記号は何を表しているのでしょうか？",
+        "detailContKor" : "이 기호는 무엇을 나타내고 있는 건가요?"
+      }
+   ]
+},
+{  "subjectName" : "カ、ケ、ば",
+   "mainHanja" : {
+      "top" : "化",
+      "bottom": "될 화"
+  },
+   "detailGrp"  : [
+      { "detailName" : "化石（かせき）화석",
+        "detailContJap" : "石化復活液をアンモナイト化石にかけてみた結果が凄い！",
+        "detailContKor" : "석화부활액을 암모나이트 화석에 뿌려본 결과가 굉장하다!"
+      },
+      { "detailName" : "化粧（けしょう）화장",
+        "detailContJap" : "化粧がよくのる肌",
+        "detailContKor" : "화장이 잘 받는 피부"
+      },
+      { "detailName" : "化ける（ば）둔갑하다, 변신하다, 가장하다",
+        "detailContJap" : "きつねが女に化ける",
+        "detailContKor" : "여우가 여자로 둔갑하다"
+      }
+   ]
+},
+{  "subjectName" : "（口、禾）ワ、オ、やわ、なご",
+   "mainHanja" : {
+      "top" : "和",
+      "bottom": "화몰할 화"
+  },
+   "detailGrp"  : [
+      { "detailName" : "和平（わへい）화평, 평화",
+        "detailContJap" : "長年の間和平が続く",
+        "detailContKor" : "오랜 세월 동안 평화가 계속되다"
+      },
+      { "detailName" : "和菓子（わがし）화과자(일본 전통 과자)",
+        "detailContJap" : "甘い和菓子には緑茶が合います",
+        "detailContKor" : "달콤한 화과자에는 녹차가 어울립니다"
+      },
+      { "detailName" : "和らげる（やわ）누그러뜨리다, 완화하다",
+        "detailContJap" : "声を和らげる",
+        "detailContKor" : "소리를 부드럽게 하다"
+      },
+      { "detailName" : "和やか（なご）온화함, 부드러움",
+        "detailContJap" : "和やかな雰囲気",
+        "detailContKor" : "훈훈한 분위기"
+      },
+      { "detailName" : "和む（なご）누그러지다, 온화해지다",
+        "detailContJap" : "この音楽を聞くと心が和む",
+        "detailContKor" : "이 음악을 들으면 마음이 차분해진다"
+      }
+   ]
+},
+{  "subjectName" : "（木、黄）オウ、よこ",
+   "mainHanja" : {
+      "top" : "横",
+      "bottom": "가로 횡"
+  },
+   "detailGrp"  : [
+      { "detailName" : "横断（おうだん）횡단, 가로지름",
+        "detailContJap" : "右左をよく見て横断する",
+        "detailContKor" : "좌우를 잘 보고 횡단하다"
+      },
+      { "detailName" : "横（よこ）옆, 가로",
+        "detailContJap" : "机の横にある椅子",
+        "detailContKor" : "책상 옆에 있는 의자"
+      }
+   ]
+}
+
+]
