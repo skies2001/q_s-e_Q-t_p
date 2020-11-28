@@ -1,0 +1,36 @@
+[
+
+{  "subjectName" : "（口、土）コク、つ",
+   "mainHanja" : {
+      "top" : "告",
+      "bottom": "알릴 고"
+  },
+   "detailGrp"  : [
+      { "detailName" : "告白（こくはく）고백",
+        "detailContJap" : "ありのままを告白する",
+        "detailContKor" : "사실대로 고백하다"
+      },
+      { "detailName" : "告げる（つ）알리다",
+        "detailContJap" : "授業の始まりを告げる鐘の音",
+        "detailContKor" : "수업 시작을 알리는 종소리"
+      }
+   ]
+},
+{  "subjectName" : "（八）キョウ、とも",
+   "mainHanja" : {
+      "top" : "共",
+      "bottom": "함께 공"
+  },
+   "detailGrp"  : [
+      { "detailName" : "共通（きょうつう）공통",
+        "detailContJap" : "英語は世界の共通語だ",
+        "detailContKor" : "영어는 세계의 공통어다"
+      },
+      { "detailName" : "共に（とも）함께, 같이",
+        "detailContJap" : "雨が降りだすと、共に雷がなりだした",
+        "detailContKor" : "비가 내림과 동시에 천둥이 울렸다"
+      }
+   ]
+}
+
+]

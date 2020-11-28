@@ -1,0 +1,161 @@
+[
+
+{  "subjectName" : "（人）ケツ、か",
+   "mainHanja" : {
+      "top" : "欠",
+      "bottom": "이지러질 결"
+  },
+   "detailGrp"  : [
+      { "detailName" : "欠如（けつじょ）결여",
+        "detailContJap" : "倫理的判断の欠如",
+        "detailContKor" : "윤리적 판단의 결여"
+      },
+      { "detailName" : "欠席（けっせき）결석",
+        "detailContJap" : "病気を出しにして欠席する",
+        "detailContKor" : "병을 핑계 삼아 결석하다"
+      },
+      { "detailName" : "欠ける（か）부족하다, 모자라다",
+        "detailContJap" : "将来の展望やビジョンに欠ける",
+        "detailContKor" : "장래에 대한 전망이나 비전이 없다"
+      }
+   ]
+},
+{  "subjectName" : "（糸、吉）ケツ、むす、ゆ",
+   "mainHanja" : {
+      "top" : "結",
+      "bottom": "맺을 결"
+  },
+   "detailGrp"  : [
+      { "detailName" : "結晶（けっしょう）결정(crystal)",
+        "detailContJap" : "血と汗の結晶",
+        "detailContKor" : "피와 땀의 결정"
+      },
+      { "detailName" : "結ぶ（むす）묶다, 잇다,",
+        "detailContJap" : "帯を結ぶ",
+        "detailContKor" : "허리띠를 매다"
+      },
+      { "detailName" : "結う（ゆ）매다, 묶다",
+        "detailContJap" : "髪を結う",
+        "detailContKor" : "머리를 땋다"
+      }
+   ]
+},
+{  "subjectName" : "（金、音）キョウ、かがみ",
+   "mainHanja" : {
+      "top" : "鏡",
+      "bottom": "거울 경"
+  },
+   "detailGrp"  : [
+      { "detailName" : "顕微鏡（けんびきょう）현미경",
+        "detailContJap" : "顕微鏡をのぞく",
+        "detailContKor" : "현미경을 들여다보다"
+      },
+      { "detailName" : "鏡（かがみ）거울",
+        "detailContJap" : "湯気で鏡がかすむ",
+        "detailContKor" : "김이 서려 거울이 뿌예지다"
+      }
+   ]
+},
+{  "subjectName" : "（立、口）キョウ、ケイ、きそ、せ",
+   "mainHanja" : {
+      "top" : "競",
+      "bottom": "다툴 경"
+  },
+   "detailGrp"  : [
+      { "detailName" : "競争（きょうそう）경쟁",
+        "detailContJap" : "企業間の競争に生き残る",
+        "detailContKor" : "기업 간의 경쟁에서 살아남다"
+      },
+      { "detailName" : "競馬（けいば）경마",
+        "detailContJap" : "競馬に入れ揚げる",
+        "detailContKor" : "경마에 많은 돈을 쏫아 붓다"
+      },
+      { "detailName" : "競う（きそ）다투다, 겨루다",
+        "detailContJap" : "コンテストで受賞した花が美しさ競う",
+        "detailContKor" : "콘테스트에서 수상한 꽃들이 아름다움을 겨루다"
+      },
+      { "detailName" : "競り（せ）경쟁, 경매",
+        "detailContJap" : "競りに出す",
+        "detailContKor" : "경매에 내놓다"
+      }
+   ]
+},
+{  "subjectName" : "（彳、又、土）ケイ、みち",
+   "mainHanja" : {
+      "top" : "径",
+      "bottom": "지름길 경"
+  },
+   "detailGrp"  : [
+      { "detailName" : "直径（ちょっけい）직경, 지름",
+        "detailContJap" : "直径三センチの円",
+        "detailContKor" : "지름 3센티의 원"
+      },
+      { "detailName" : "半径（はんけい）반경",
+        "detailContJap" : "彼の行動半径は大きい",
+        "detailContKor" : "그의 행동반경은 넓다"
+      }
+   ]
+},
+{  "subjectName" : "（日、京）ケイ",
+   "mainHanja" : {
+      "top" : "景",
+      "bottom": "볕 경"
+  },
+   "detailGrp"  : [
+      { "detailName" : "景気（けいき）경기",
+        "detailContJap" : "不動産景気が活気を帯びる",
+        "detailContKor" : "부동산 경기가 활기를 띠다"
+      },
+      { "detailName" : "夜景（やけい）야경",
+        "detailContJap" : "夜景",
+        "detailContKor" : "야경",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（木、廾）",
+   "mainHanja" : {
+      "top" : "械",
+      "bottom": "기계 계"
+  },
+   "detailGrp"  : [
+      { "detailName" : "機械（きかい）기계",
+        "detailContJap" : "新型の機械を作り出す",
+        "detailContKor" : "신형 기계를 만들어 내다"
+      }
+   ]
+},
+{  "subjectName" : "（子、禾）キ、すえ",
+   "mainHanja" : {
+      "top" : "季",
+      "bottom": "계절 계/끝 내"
+  },
+   "detailGrp"  : [
+      { "detailName" : "季節（きせつ）계절",
+        "detailContJap" : "これからの乾燥する季節の必需品！",
+        "detailContKor" : "앞으로 건조해지는 계절의 필수품!"
+      },
+      { "detailName" : "冬季（とうき）동계",
+        "detailContJap" : "冬季オリンピック",
+        "detailContKor" : "동계 올림픽"
+      }
+   ]
+},
+{  "subjectName" : "（口、古）コ、かた",
+   "mainHanja" : {
+      "top" : "固",
+      "bottom": "굳을 고"
+  },
+   "detailGrp"  : [
+      { "detailName" : "固定（こてい）고정",
+        "detailContJap" : "固定観念が強い",
+        "detailContKor" : "고정 관념이 강하다"
+      },
+      { "detailName" : "固い（かた）단단하다, 딱딱하다",
+        "detailContJap" : "土が固いので掘りにくい",
+        "detailContKor" : "땅이 단단해서 파기 힘들다"
+      }
+   ]
+}
+
+]

@@ -84,19 +84,71 @@
       }
    ]
 },
-{  "subjectName" : "",
+{  "subjectName" : "（攵、己）カイ、あらた",
    "mainHanja" : {
-      "top" : "",
-      "bottom": ""
+      "top" : "改",
+      "bottom": "고칠 개"
   },
    "detailGrp"  : [
-      { "detailName" : "",
-        "detailContJap" : "",
-        "detailContKor" : ""
+      { "detailName" : "改正（かいせい）개정",
+        "detailContJap" : "古い規約を改正する",
+        "detailContKor" : "낡은 규악을 개정하다"
       },
-      { "detailName" : "",
-        "detailContJap" : "",
-        "detailContKor" : ""
+      { "detailName" : "改める（あらた）고치다, 바꾸다",
+        "detailContJap" : "心を改める",
+        "detailContKor" : "마음을 고쳐 먹다"
+      }
+   ]
+},
+{  "subjectName" : "（手、兴）キョ、あ",
+   "mainHanja" : {
+      "top" : "挙",
+      "bottom": "들 거"
+  },
+   "detailGrp"  : [
+      { "detailName" : "選挙（せんきょ）선거",
+        "detailContJap" : "選挙は水物だ",
+        "detailContKor" : "선거는 그 결과를 예측할 수 없다"
+      },
+      { "detailName" : "挙げる（あ）올리다, 들다",
+        "detailContJap" : "式を挙げる",
+        "detailContKor" : "식을 올리다"
+      }
+   ]
+},
+{  "subjectName" : "（廴、聿）ケン、コン、た",
+   "mainHanja" : {
+      "top" : "建",
+      "bottom": "세울 건"
+  },
+   "detailGrp"  : [
+      { "detailName" : "建設（けんせつ）건설",
+        "detailContJap" : "建設現場ではヘルメットを着用なこと",
+        "detailContKor" : "건설 현장에서는 헬멧을 착용할 것"
+      },
+      { "detailName" : "建立（こんりゅう）건립",
+        "detailContJap" : "焼けた寺を新たに建立する",
+        "detailContKor" : "불타버린 절을 새로 건립하다"
+      },
+      { "detailName" : "建てる（た）짓다(건물을), 세우다",
+        "detailContJap" : "古い家を取り壊して新しい家を建てる",
+        "detailContKor" : "낡은 집을 헐고서 새집을 짓다"
+      }
+   ]
+},
+{  "subjectName" : "（亻、建）ケン、すこ",
+   "mainHanja" : {
+      "top" : "健",
+      "bottom": "건장할 건"
+  },
+   "detailGrp"  : [
+      { "detailName" : "健在（けんざい）건재",
+        "detailContJap" : "彼の会社はまだ健在だ",
+        "detailContKor" : "그의 회사는 아직 건재하다"
+      },
+      { "detailName" : "健やか（すこ）튼튼함, 건정, 건강함",
+        "detailContJap" : "子供は健やかによく育つかどうか気遣わしい",
+        "detailContKor" : "아이는 건강하게 잘 자랄지 걱정 스럽다"
       }
    ]
 }
