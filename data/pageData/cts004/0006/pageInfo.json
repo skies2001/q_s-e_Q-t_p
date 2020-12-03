@@ -1,0 +1,166 @@
+[
+
+{  "subjectName" : "（冫 、令）レイ、つめ、ひ、さ",
+   "mainHanja" : {
+      "top" : "冷",
+      "bottom": "찰 랭"
+  },
+   "detailGrp"  : [
+      { "detailName" : "冷気（れいき）냉기",
+        "detailContJap" : "身に染む冷気",
+        "detailContKor" : "몸에 스며드는 냉기"
+      },
+      { "detailName" : "冷たい（つめ）차갑다",
+        "detailContJap" : "冬の乾いた風が冷たい",
+        "detailContKor" : "겨울의 건조한 바람이 차갑다"
+      },
+      { "detailName" : "冷やす（ひやす）식히다",
+        "detailContJap" : "すいかをよく冷やして食べる",
+        "detailContKor" : "수박을 차게 해서 먹다"
+      },
+      { "detailName" : "冷める（さ）식다",
+        "detailContJap" : "愛情が冷める",
+        "detailContKor" : "사랑이 식다"
+      }
+   ]
+},
+{  "subjectName" : "リョウ、よ",
+   "mainHanja" : {
+      "top" : "良",
+      "bottom": "어질 량"
+  },
+   "detailGrp"  : [
+      { "detailName" : "良好（りょうこう）양호",
+        "detailContJap" : "手術後の経過は良好だ",
+        "detailContKor" : "수술 후의 경과는 양호하다"
+      },
+      { "detailName" : "良い（よ）좋다",
+        "detailContJap" : "仲が良い",
+        "detailContKor" : "사이가 좋다"
+      }
+   ]
+},
+{  "subjectName" : "（里、日）リョウ、はか",
+   "mainHanja" : {
+      "top" : "量",
+      "bottom": "헤아릴 량"
+  },
+   "detailGrp"  : [
+      { "detailName" : "大量（たいりょう）대량",
+        "detailContJap" : "紙を大量に買い入れる",
+        "detailContKor" : "종이를 대량으로 사들이다"
+      },
+      { "detailName" : "量る（はか）달다(무게를), 짐작하다",
+        "detailContJap" : "体重を量る",
+        "detailContKor" : "체중을 재다"
+      }
+   ]
+},
+{  "subjectName" : "（止、木）レキ",
+   "mainHanja" : {
+      "top" : "歴",
+      "bottom": "겪을 력"
+  },
+   "detailGrp"  : [
+      { "detailName" : "歴史（れきし）역사",
+        "detailContJap" : "歴史に残る名勝負を演じる",
+        "detailContKor" : "역사에 남을 명승부를 연출하다"
+      },
+      { "detailName" : "学歴（がくれき）학력",
+        "detailContJap" : "高学歴ワーキングプアーが急増する",
+        "detailContKor" : "고학력 워킹 푸어가 급증하다"
+      }
+   ]
+},
+{  "subjectName" : "（人）レイ",
+   "mainHanja" : {
+      "top" : "令",
+      "bottom": "명령할 령"
+  },
+   "detailGrp"  : [
+      { "detailName" : "命令（めいれい）명령",
+        "detailContJap" : "只命令に従うのみ",
+        "detailContKor" : "그져 명령에 따를 뿐"
+      },
+      { "detailName" : "指令（しれい）지령",
+        "detailContJap" : "本部の指令どおりにせよ",
+        "detailContKor" : "본부의 지령대로 해라"
+      }
+   ]
+},
+{  "subjectName" : "（亻 、夕、刂）レイ、たと",
+   "mainHanja" : {
+      "top" : "例",
+      "bottom": "법식 례"
+  },
+   "detailGrp"  : [
+      { "detailName" : "例文（れいぶん）예문",
+        "detailContJap" : "例文を挙げる",
+        "detailContKor" : "예문을 들다"
+      },
+      { "detailName" : "例えば（たと）예를 들면",
+        "detailContJap" : "体に害のあるものは、例えばタバコなど",
+        "detailContKor" : "몸에 해로운 것은, 예를 들면 담배 따위"
+      }
+   ]
+},
+{  "subjectName" : "（耂、ヒ）ロウ、お、ふ",
+   "mainHanja" : {
+      "top" : "老",
+      "bottom": "늙을 로"
+  },
+   "detailGrp"  : [
+      { "detailName" : "老後（ろうご）노후",
+        "detailContJap" : "老後のことを思い巡らす",
+        "detailContKor" : "노후의 일을 여러모로 생각하다"
+      },
+      { "detailName" : "老いる（お）、老ける（ふ）늘다, 나이를 먹다",
+        "detailContJap" : "身は老いたりといえど心は若い",
+        "detailContKor" : "몸을 늙었다지만 마음은 젋다"
+    }
+   ]
+},
+{  "subjectName" : "（力）ロウ、いたわ、ねぎら",
+   "mainHanja" : {
+      "top" : "労",
+      "bottom": "일할 로"
+  },
+   "detailGrp"  : [
+      { "detailName" : "労使（ろうし）노사(근로자)",
+        "detailContJap" : "労使の対立",
+        "detailContKor" : "노사대립"
+      },
+      { "detailName" : "過労（かろう）과로",
+        "detailContJap" : "過労のせいか体がだるい",
+        "detailContKor" : "과로한 탓인지 몸이 찌뿌듯하다 "
+      },
+      { "detailName" : "労わる（いた）친절히 대하다, 노고를 위로하다",
+        "detailContJap" : "メンバーを労わるフリしてドッキリをしかけたら．．．",
+        "detailContKor" : "멤버를 위로하는 척하면서 몰래카메라를 걸면..."
+      },
+      { "detailName" : "労う（ねぎら）노고를 치하하고 위로하다",
+        "detailContJap" : "労を労う",
+        "detailContKor" : "노고를 위로하다"
+      }
+   ]
+},
+{  "subjectName" : "（金、ヨ、氺）ロク",
+   "mainHanja" : {
+      "top" : "録",
+      "bottom": "기록할 록"
+  },
+   "detailGrp"  : [
+      { "detailName" : "録音（ろくおん）녹음",
+        "detailContJap" : "録音された歌を聞く",
+        "detailContKor" : "녹음된 노래를 듣다"
+      },
+      { "detailName" : "記録（きろく）기록",
+        "detailContJap" : "去年のマラソン記録とタイ記録",
+        "detailContKor" : "작년의 마라톤 기록과 타이 기록"
+      }
+   ]
+}
+
+
+
+]

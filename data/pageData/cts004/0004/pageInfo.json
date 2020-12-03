@@ -1,0 +1,204 @@
+[
+
+{  "subjectName" : "（氺）キュウ、もと",
+   "mainHanja" : {
+      "top" : "求",
+      "bottom": "구할 구"
+  },
+   "detailGrp"  : [
+      { "detailName" : "求職（きゅうしょく）구직",
+        "detailContJap" : "求職広告を出す",
+        "detailContKor" : "구직 광고를 내다"
+      },
+      { "detailName" : "求める（もと）요규하다, 요청하다",
+        "detailContJap" : "xを求める式を書け",
+        "detailContKor" : "x를 구하는 식을 써라"
+      }
+   ]
+},
+{  "subjectName" : "（求、攵）キュウ、すく",
+   "mainHanja" : {
+      "top" : "救",
+      "bottom": "구원할 구"
+  },
+   "detailGrp"  : [
+      { "detailName" : "救出（きゅうしゅつ）구출",
+        "detailContJap" : "炎の中から子供を救出する",
+        "detailContKor" : "불길 속에서 아이를 구출하다"
+      },
+      { "detailName" : "救う（すく）구하다, 돕다",
+        "detailContJap" : "溺れている子を救う",
+        "detailContKor" : "물에 빠진 아이를 구하다"
+      }
+   ]
+},
+{  "subjectName" : "（車）グン",
+   "mainHanja" : {
+      "top" : "軍",
+      "bottom": "군사 군"
+  },
+   "detailGrp"  : [
+      { "detailName" : "軍隊（ぐんたい）군대",
+        "detailContJap" : "息子を軍隊に入らせる",
+        "detailContKor" : "아들을 군대에 떠나보내다"
+      },
+      { "detailName" : "海軍（かいぐん）해군",
+        "detailContJap" : "海軍",
+        "detailContKor" : "해군",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（阝、君）グン、こおり",
+   "mainHanja" : {
+      "top" : "郡",
+      "bottom": "고을 군"
+  },
+   "detailGrp"  : [
+      { "detailName" : "郡部（ぐんぶ）군부",
+        "detailContJap" : "郡部",
+        "detailContKor" : "군부",
+        "soundFlg" : 0
+
+      },
+      { "detailName" : "郡（こおり）군(행정 구역)",
+        "detailContJap" : "郡",
+        "detailContKor" : "군",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（木、口、丂、又）キョク、ゴク、きわ",
+   "mainHanja" : {
+      "top" : "極",
+      "bottom": "지극할 극"
+  },
+   "detailGrp"  : [
+      { "detailName" : "南極（なんきょく）남극",
+        "detailContJap" : "南極の氷が溶け落ちる",
+        "detailContKor" : "남극의 얼음이 녹아내리다"
+      },
+      { "detailName" : "極秘（ごくひ）극비",
+        "detailContJap" : "極秘に捜査する",
+        "detailContKor" : "극비리에 수사하다"
+      },
+      { "detailName" : "極める（きわ）끝까지 가다, 극한에 이르다",
+        "detailContJap" : "山の絶頂を極める",
+        "detailContKor" : "산의 정상을 정복하다"
+      }
+   ]
+},
+{  "subjectName" : "（糸、合）キュウ、たま",
+   "mainHanja" : {
+      "top" : "給",
+      "bottom": "줄 급"
+  },
+   "detailGrp"  : [
+      { "detailName" : "給料（きゅうりょう）급료",
+        "detailContJap" : "安い給料をぼやく",
+        "detailContKor" : "급료가 싼 것을 불평하다"
+      },
+      { "detailName" : "配給（はいきゅう）배급",
+        "detailContJap" : "農家に農薬を配給する",
+        "detailContKor" : "농가에 농약을 배급하다"
+      }
+   ]
+},
+{  "subjectName" : "（糸、己）キ、のり",
+   "mainHanja" : {
+      "top" : "紀",
+      "bottom": "벼리 기"
+  },
+   "detailGrp"  : [
+      { "detailName" : "紀元前（きげんぜん）기원전",
+        "detailContJap" : "紀元前1万年の古代生物",
+        "detailContKor" : "기원전 1만년 고대 생물"
+      },
+      { "detailName" : "世紀（せいき）세기",
+        "detailContJap" : "新しい世紀を迎える",
+        "detailContKor" : "새로운 세기를 맞이하다"
+      }
+   ]
+},
+{  "subjectName" : "（方、其）キ、はた",
+   "mainHanja" : {
+      "top" : "旗",
+      "bottom": "깃발 기"
+  },
+   "detailGrp"  : [
+      { "detailName" : "国旗（こっき）국기",
+        "detailContJap" : "国旗を門に掲げる",
+        "detailContKor" : "국기를 문에 내걸다"
+      },
+      { "detailName" : "旗（はた）기, 깃발",
+        "detailContJap" : "旗を先頭に押し立てて行進する",
+        "detailContKor" : "깃발을 앞에 내세우고 행진하다"
+      }
+   ]
+},
+{  "subjectName" : "（口、大）キ、うつわ",
+   "mainHanja" : {
+      "top" : "器",
+      "bottom": "그릇 기"
+  },
+   "detailGrp"  : [
+      { "detailName" : "容器（ようき）용기",
+        "detailContJap" : "容器に入れて保管する",
+        "detailContKor" : "용기에 담아 보관하다"
+      },
+      { "detailName" : "器（うつわ）그릇",
+        "detailContJap" : "器に果物をいっぱい盛る",
+        "detailContKor" : "그릇에 과일을 가득 담다"
+      }
+   ]
+},
+{  "subjectName" : "（木、幺、人、戈）キ、はた",
+   "mainHanja" : {
+      "top" : "機",
+      "bottom": "틀 기"
+  },
+   "detailGrp"  : [
+      { "detailName" : "機会（きかい）기회",
+        "detailContJap" : "にどとない機会",
+        "detailContKor" : "두 번 다시 없는 기회"
+      },
+      { "detailName" : "機（はた）기계, 장치, 베틀",
+        "detailContJap" : "機を織る",
+        "detailContKor" : "베를 짜다"
+      }
+   ]
+},
+{  "subjectName" : "（心、今）ネン、おもう",
+   "mainHanja" : {
+      "top" : "念",
+      "bottom": "생각 념"
+  },
+   "detailGrp"  : [
+      { "detailName" : "念願（ねんがん）염원",
+        "detailContJap" : "念願を達する",
+        "detailContKor" : "염원을 이루다"
+      },
+      { "detailName" : "信念（しんねん）신념",
+        "detailContJap" : "ブレない信念を持っている",
+        "detailContKor" : "확고한 신념을 가지고 있다"
+      }
+   ]
+},
+{  "subjectName" : "（女、又、力） ド、つと",
+   "mainHanja" : {
+      "top" : "努",
+      "bottom": "노력"
+  },
+   "detailGrp"  : [
+      { "detailName" : "努力（どりょく）노력",
+        "detailContJap" : "成功や失敗は努力次第だ",
+        "detailContKor" : "성공과 실패는 노력하기 나름이다"
+      },
+      { "detailName" : "努める（つと）노력하다, 힘쓰다",
+        "detailContJap" : "食欲がないが食べようと努める",
+        "detailContKor" : "식욕이 없지만 먹으려고 애쓰다"
+      }
+   ]
+}
+
+]

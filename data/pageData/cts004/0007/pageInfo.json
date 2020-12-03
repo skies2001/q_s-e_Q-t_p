@@ -1,0 +1,40 @@
+[
+
+{  "subjectName" : "（斗、米）リョウ",
+   "mainHanja" : {
+      "top" : "料",
+      "bottom": "헤아릴 료"
+  },
+   "detailGrp"  : [
+      { "detailName" : "料理（りょうり）요리",
+        "detailContJap" : "料理の腕がいい妻",
+        "detailContKor" : "음식 솜씨가 좋은 아내"
+      },
+      { "detailName" : "材料（ざいりょう）재료",
+        "detailContJap" : "家にある材料でジャージャン麺を作る",
+        "detailContKor" : "집에 있는 재료로 짜장면을 만들다"
+      }
+   ]
+},
+{  "subjectName" : "",
+   "mainHanja" : {
+      "top" : "",
+      "bottom": ""
+  },
+   "detailGrp"  : [
+      { "detailName" : "",
+        "detailContJap" : "",
+        "detailContKor" : ""
+      },
+      { "detailName" : "",
+        "detailContJap" : "",
+        "detailContKor" : ""
+      },
+      { "detailName" : "",
+        "detailContJap" : "",
+        "detailContKor" : ""
+      }
+   ]
+}
+
+]

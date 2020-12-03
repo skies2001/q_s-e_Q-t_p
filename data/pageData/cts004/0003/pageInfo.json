@@ -31,6 +31,131 @@
         "detailContKor" : "비가 내림과 동시에 천둥이 울렸다"
       }
    ]
+},
+{  "subjectName" : "（力、工）",
+   "mainHanja" : {
+      "top" : "功",
+      "bottom": "공 공"
+  },
+   "detailGrp"  : [
+      { "detailName" : "成功（せいこう）성공",
+        "detailContJap" : "只君の成功を祈る",
+        "detailContKor" : "그저 자네의 성공을 비네"
+      },
+      { "detailName" : "功徳（くどく）공덕, 선행",
+        "detailContJap" : "功徳を施す",
+        "detailContKor" : "공덕을 베풀다"
+      },
+      { "detailName" : "功（いさお）공훈, 공적",
+        "detailContJap" : "功",
+        "detailContKor" : "공",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（木、田）カ、は",
+   "mainHanja" : {
+      "top" : "果",
+      "bottom": "열매 과"
+  },
+   "detailGrp"  : [
+      { "detailName" : "果実（かじつ）과실, 열매",
+        "detailContJap" : "果実のような香り",
+        "detailContKor" : "과실 같은 향기"
+      },
+      { "detailName" : "果たす（は）해내다, 완수하다",
+        "detailContJap" : "責任を果たす",
+        "detailContKor" : "책임을 완수하다"
+      },
+      { "detailName" : "果て（は）끝",
+        "detailContJap" : "果てなき戦いが続く",
+        "detailContKor" : "끝없는 전쟁이 계속되다"
+      }
+   ]
+},
+{  "subjectName" : "（言、果）カ",
+   "mainHanja" : {
+      "top" : "課",
+      "bottom": "부과할 과"
+  },
+   "detailGrp"  : [
+      { "detailName" : "課題（かだい）과제",
+        "detailContJap" : "課題を与える",
+        "detailContKor" : "과제를 주다"
+      },
+      { "detailName" : "日課（にっか）일과",
+        "detailContJap" : "一日の日課を始める",
+        "detailContKor" : "하루 일과를 시작하다"
+      }
+   ]
+},
+{  "subjectName" : "（宀）カン",
+   "mainHanja" : {
+      "top" : "官",
+      "bottom": "벼슬 관"
+  },
+   "detailGrp"  : [
+      { "detailName" : "官職（かんしょく）관직",
+        "detailContJap" : "官職を去る",
+        "detailContKor" : "관직을 물러나다"
+      },
+      { "detailName" : "長官（ちょうかん）장관",
+        "detailContJap" : "長官が替わる",
+        "detailContKor" : "장관이 바뀌다"
+      }
+   ]
+},
+{  "subjectName" : "（竹、官）カン、くだ",
+   "mainHanja" : {
+      "top" : "管",
+      "bottom": "대롱 관"
+  },
+   "detailGrp"  : [
+      { "detailName" : "管理（かんり）관리",
+        "detailContJap" : "健康管理に気をつけましょう！",
+        "detailContKor" : "건강 관리에 신경 씁시다!"
+      },
+      { "detailName" : "管（くだ）관, 대롱, 파이프",
+        "detailContJap" : "泥で管が塞がる",
+        "detailContKor" : "진흙으로 관이 막히다"
+      }
+   ]
+},
+{  "subjectName" : "（門、天）カン、せき、かか",
+   "mainHanja" : {
+      "top" : "関",
+      "bottom": "빗장 관"
+  },
+   "detailGrp"  : [
+      { "detailName" : "関心（かんしん）관심",
+        "detailContJap" : "私はスポーツに関心がありません",
+        "detailContKor" : "저는 스포츠에 관심이 없어요"
+      },
+      { "detailName" : "関（せき）빗장, 관문",
+        "detailContJap" : "心の関",
+        "detailContKor" : "마음의 장벽"
+      },
+      { "detailName" : "関わる（かか）관계되다",
+        "detailContJap" : "生命に関わる傷",
+        "detailContKor" : "생명에 관계되는 상처"
+      }
+   ]
+},
+{  "subjectName" : "（見、主）カン、み",
+   "mainHanja" : {
+      "top" : "観",
+      "bottom": "볼 관"
+  },
+   "detailGrp"  : [
+      { "detailName" : "観光（かんこう）관광",
+        "detailContJap" : "今はシーズンオフで観光客が多くない",
+        "detailContKor" : "지금은 비수기라 관광객이 많지 않다"
+      },
+      { "detailName" : "観る（み）보다, 관찰하다",
+        "detailContJap" : "一日平均何時間観ますか？",
+        "detailContKor" : "하루에 평균 몇 시간이나 보는데요?"
+      }
+   ]
 }
 
 ]

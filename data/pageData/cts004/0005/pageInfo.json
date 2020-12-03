@@ -1,0 +1,173 @@
+[
+
+{  "subjectName" : "（甲）タン、ひとえ",
+   "mainHanja" : {
+      "top" : "単",
+      "bottom": "홑 단"
+  },
+   "detailGrp"  : [
+      { "detailName" : "単一（たんいち）단일",
+        "detailContJap" : "単一行動をとる",
+        "detailContKor" : "단일 행동을 취하다"
+      },
+      { "detailName" : "単語（たんご）단어",
+        "detailContJap" : "辞書で単語の意味を探した",
+        "detailContKor" : "사전에서 단어의 의미를 찾았다"
+      },
+      { "detailName" : "単（ひとえ）홑겹",
+        "detailContJap" : "単",
+        "detailContKor" : "홑겹",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（辶、幸）タツ、ダチ",
+   "mainHanja" : {
+      "top" : "達",
+      "bottom": "통당할 달"
+  },
+   "detailGrp"  : [
+      { "detailName" : "達人（たつじん）달인",
+        "detailContJap" : "剣術の達人",
+        "detailContKor" : "검술의 달인"
+      },
+      { "detailName" : "友達（ともだち）친구",
+        "detailContJap" : "友達に不義理をする",
+        "detailContKor" : "친구에게 빛을 갚지 않다"
+      }
+   ]
+},
+{  "subjectName" : "（土、口）ドウ",
+   "mainHanja" : {
+      "top" : "堂",
+      "bottom": "집 당"
+  },
+   "detailGrp"  : [
+      { "detailName" : "堂々（どうどう）당당함",
+        "detailContJap" : "正々堂々と闘え",
+        "detailContKor" : "정정당당하게 해라"
+      },
+      { "detailName" : "食堂（しょくどう）식당",
+        "detailContJap" : "近くの食堂で食べます",
+        "detailContKor" : "근처 식당에서 먹어요"
+      }
+   ]
+},
+{  "subjectName" : "（巾、山）タイ、お、おび",
+   "mainHanja" : {
+      "top" : "帯",
+      "bottom": "띠 대"
+  },
+   "detailGrp"  : [
+      { "detailName" : "地帯（ちたい）지대",
+        "detailContJap" : "このあたりの工場地帯",
+        "detailContKor" : "이 근방의 공장 지대"
+      },
+      { "detailName" : "帯びる（お）달다, 띠다(성질 등을)",
+        "detailContJap" : "黒みを帯びる",
+        "detailContKor" : "검은 빛을 띠다"
+      },
+      { "detailName" : "帯（おび）띠",
+        "detailContJap" : "虹は七つの単色の美しい帯だ",
+        "detailContKor" : "무지개는 일곱 가지 단색의 아름다운 띠이다"
+      }
+   ]
+},
+{  "subjectName" : "（阝、勿）タイ",
+   "mainHanja" : {
+      "top" : "隊",
+      "bottom": "대 대"
+  },
+   "detailGrp"  : [
+      { "detailName" : "隊員（たいいん）대원",
+        "detailContJap" : "南極探検隊員",
+        "detailContKor" : "남극 탐험대원"
+      },
+      { "detailName" : "部隊（ぶたい）부대",
+        "detailContJap" : "増援部隊が到着した",
+        "detailContKor" : "증원 부대가 도착했다"
+      }
+   ]
+},
+{  "subjectName" : "（彳、走）ト",
+   "mainHanja" : {
+      "top" : "徒",
+      "bottom": "무리 도"
+  },
+   "detailGrp"  : [
+      { "detailName" : "徒歩（とほ）도보",
+        "detailContJap" : "徒歩で十分かかる",
+        "detailContKor" : "도보로 10분 걸리다"
+      },
+      { "detailName" : "生徒（せいと）학생(초, 중, 고)",
+        "detailContJap" : "生徒を二組に分かつ",
+        "detailContKor" : "학생을 두 반으로 나누다"
+      }
+   ]
+},
+{  "subjectName" : "（毋、土）ドク",
+   "mainHanja" : {
+      "top" : "毒",
+      "bottom": "독할 독"
+  },
+   "detailGrp"  : [
+      { "detailName" : "毒薬（どくやく）독약",
+        "detailContJap" : "毒薬を飲んで自殺する",
+        "detailContKor" : "독약을 마시고 자살하다"
+      },
+      { "detailName" : "中毒（ちゅうどく）중독",
+        "detailContJap" : "ネットゲーム中毒は今や世界中で問題となっている",
+        "detailContKor" : "인터넷 게임 중독은 이미 세계적인 문제가 되고 있다"
+      }
+   ]
+},
+{  "subjectName" : "（亻、動）ドウ、はたら",
+   "mainHanja" : {
+      "top" : "働",
+      "bottom": "일할 동"
+  },
+   "detailGrp"  : [
+      { "detailName" : "労働（ろうどう）노동",
+        "detailContJap" : "労働に対して賃金は安すぎる",
+        "detailContKor" : "노동에 비해 임금은 너무 적다"
+      },
+      { "detailName" : "働く（はたら）일하다, 작용하다",
+        "detailContJap" : "人より余計働く",
+        "detailContKor" : "남보다 더 많이 일하다"
+      }
+   ]
+},
+{  "subjectName" : "（彳、日、寸）トク、え、う",
+   "mainHanja" : {
+      "top" : "得",
+      "bottom": "얻을 득"
+  },
+   "detailGrp"  : [
+      { "detailName" : "得意（とくい）잘함, 능숨함",
+        "detailContJap" : "得意のわざ",
+        "detailContKor" : "가장 자신 있는 기술"
+      },
+      { "detailName" : "得る（え、う）얻다, 손에 넣다",
+        "detailContJap" : "権利を得る",
+        "detailContKor" : "권리를 얻다"
+      }
+   ]
+},
+{  "subjectName" : "（火、丁）トウ、ひ",
+   "mainHanja" : {
+      "top" : "灯",
+      "bottom": "등잔 등"
+  },
+   "detailGrp"  : [
+      { "detailName" : "灯台（とうだい）등대",
+        "detailContJap" : "海に突出した丘の上に灯台がある",
+        "detailContKor" : "바다로 돌출한 언덕 위에 등대가 있다"
+      },
+      { "detailName" : "灯（ひ）불빛, 조명",
+        "detailContJap" : "昔に変わらぬ街の灯",
+        "detailContKor" : "옛날과 변함없는 거리의 등불"
+      }
+   ]
+}
+
+]
