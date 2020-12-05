@@ -1,26 +1,26 @@
 [
 
-{  "subjectName" : "（口）そく(음)、あし、た",
+{  "subjectName" : "（口）ソク、あし、た",
    "mainHanja" : {
      "top" : "足",
      "bottom": "발 족"
    },
    "detailGrp"  : [
       { "detailName" : "不足（ぶそく）부족",
-        "detailContJap" : "運動不足で体力(たいりょく)が弱い",
+        "detailContJap" : "運動不足で体力が弱い",
         "detailContKor" : "운동 부족으로 체력이 약하다"
       },
       { "detailName" : "足（あし）발, 다리",
-        "detailContJap" : "足が痺(しび)れて立てない",
+        "detailContJap" : "足が痺れて立てない",
         "detailContKor" : "다리가 저려서 설 수가 없다"
       },
       { "detailName" : "足(た)りる 충분",
-        "detailContJap" : "わざわざ行かなくても電話で用(よう)が足りる",
+        "detailContJap" : "わざわざ行かなくても電話で用が足りる",
         "detailContKor" : "일부러 가지 않아도 전화로 용무가 충분하다"
       }
    ]
 },
-{  "subjectName" : "（工）さ、ひだり",
+{  "subjectName" : "（工）サ、ひだり",
    "mainHanja" : {
      "top" : "左",
      "bottom": "왼 좌"
@@ -36,7 +36,7 @@
       }
    ]
 },
-{  "subjectName" : "ちく、たけ",
+{  "subjectName" : "チク、たけ",
    "mainHanja" : {
       "top" : "竹",
       "bottom": "대 죽"
@@ -52,7 +52,7 @@
       }
    ]
 },
-{  "subjectName" : "ちゅう、なか",
+{  "subjectName" : "チュウ、なか",
    "mainHanja" : {
       "top" : "中",
       "bottom": "가운데 중"
@@ -68,7 +68,7 @@
       }
    ]
 },
-{  "subjectName" : "しゃ、くるま",
+{  "subjectName" : "シャ、くるま",
    "mainHanja" : {
       "top" : "車",
       "bottom": "수레 차"
@@ -79,28 +79,28 @@
         "detailContKor" : "텅텅 빈 전차"
       },
       { "detailName" : "車（くるま）차, 자동차",
-        "detailContJap" : "道端(みちばた)に車が止まっている",
+        "detailContJap" : "道端に車が止まっている",
         "detailContKor" : "길가에 차가 서 있다"
       }
    ]
 },
-{  "subjectName" : "（十）せん、ち",
+{  "subjectName" : "（十）セン、ち",
    "mainHanja" : {
       "top" : "千",
       "bottom": "일천 천"
   },
    "detailGrp"  : [
       { "detailName" : "千円（せんえん）1000엔",
-        "detailContJap" : "千円の損(そん)をする",
+        "detailContJap" : "千円の損をする",
         "detailContKor" : "천엔 손해보다"
       },
       { "detailName" : "千葉（ちば）치바(일본지명)",
-        "detailContJap" : "千葉にあるおすすめの旅館(りょかん)",
+        "detailContJap" : "千葉にあるおすすめの旅館",
         "detailContKor" : "치바에 있는 추천 여관"
       }
    ]
 },
-{  "subjectName" : "（大）てん(음)、あめ、あま",
+{  "subjectName" : "（大）テン、あめ、あま",
    "mainHanja" : {
       "top" : "天",
       "bottom": "하늘 천"
@@ -116,28 +116,28 @@
         "soundFlg" : 0
       },
       { "detailName" : "天の川（あまのがわ）은하수",
-        "detailContJap" : "天の川銀河(ぎんが)の形はどのようにしてわっかたのか",
+        "detailContJap" : "天の川銀河の形はどのようにしてわっかたのか",
         "detailContKor" : "은하수 은하의 모양은 어떻게 알았을까?"
       }
    ]
 },
-{  "subjectName" : "せん、かわ",
+{  "subjectName" : "セン、かわ",
    "mainHanja" : {
       "top" : "川",
       "bottom": "내 천"
   },
    "detailGrp"  : [
       { "detailName" : "河川（かせん）하천",
-        "detailContJap" : "大雨で河川が氾濫(はんらん)する",
+        "detailContJap" : "大雨で河川が氾濫する",
         "detailContKor" : "큰비로 하천이 범람하다"
       },
       { "detailName" : "川（かわ）강",
-        "detailContJap" : "雨のため川が濁(にご)った",
+        "detailContJap" : "雨のため川が濁った",
         "detailContKor" : "비 때문에 강이 흐려졌다"
       }
    ]
 },
-{  "subjectName" : "（月）せい、しょう、あお(훈)",
+{  "subjectName" : "（月）セイ、ショウ、あお",
    "mainHanja" : {
       "top" : "青",
       "bottom": "푸를 청"
@@ -148,7 +148,7 @@
         "detailContKor" : "청년 시절은 인생의 꽃이다"
       },
       { "detailName" : "緑青（ろくしょう）녹청(청록)",
-        "detailContJap" : "緑青は無毒(むどく)といわれる",
+        "detailContJap" : "緑青は無毒といわれる",
         "detailContKor" : "녹청은 무독이라고 한다"
       },
       { "detailName" : "青(あお)い 푸르다, 파랗다",
@@ -157,7 +157,7 @@
       }
    ]
 },
-{  "subjectName" : "（艹、早）そう、くさ",
+{  "subjectName" : "（艹、早）ソウ、くさ",
    "mainHanja" : {
       "top" : "草",
       "bottom": "풀 초"
@@ -168,7 +168,7 @@
         "detailContKor" : "잡초가 빽빽이 우거져 있다"
       },
       { "detailName" : "草（くさ）풀",
-        "detailContJap" : "草を枕(まくら)に寝る",
+        "detailContJap" : "草を枕に寝る",
         "detailContKor" : "풀밭을 베개로 삼고 자다"
       }
    ]

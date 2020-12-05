@@ -1,6 +1,6 @@
 [
 
-{  "subjectName" : "こう、たか",
+{  "subjectName" : "コウ、たか",
    "mainHanja" : {
       "top" : "高",
       "bottom": "높을 고"
@@ -16,7 +16,7 @@
       }
    ]
 },
-{  "subjectName" : "こう、かんが",
+{  "subjectName" : "コウ、かんが",
    "mainHanja" : {
       "top" : "考",
       "bottom": "생각할 고"
@@ -32,7 +32,7 @@
       }
    ]
 },
-{  "subjectName" : "こく、たに",
+{  "subjectName" : "コク、たに",
    "mainHanja" : {
       "top" : "谷",
       "bottom": "굴 곡"
@@ -48,7 +48,7 @@
       }
    ]
 },
-{  "subjectName" : "こう、く、たくみ(훈)",
+{  "subjectName" : "コウ、ク、たくみ",
    "mainHanja" : {
       "top" : "工",
       "bottom": "장인 공"
@@ -69,7 +69,7 @@
       }
    ]
 },
-{  "subjectName" : "こう、おおやけ",
+{  "subjectName" : "コウ、おおやけ",
    "mainHanja" : {
       "top" : "公",
       "bottom": "공변될 공"
@@ -80,28 +80,28 @@
         "detailContKor" : "공평한 눈으로 보다"
       },
       { "detailName" : "公（おおやけ）국가, 정부, 공공",
-        "detailContJap" : "公の場所(ばしょ)",
+        "detailContJap" : "公の場所",
         "detailContKor" : "공공장소"
       }
    ]
 },
-{  "subjectName" : "か(음)",
+{  "subjectName" : "カ",
    "mainHanja" : {
       "top" : "科",
       "bottom": "과목 과"
   },
    "detailGrp"  : [
       { "detailName" : "科目（かもく）과목",
-        "detailContJap" : "好きな科目か得意(とくい)なかもく",
+        "detailContJap" : "好きな科目か得意なかもく",
         "detailContKor" : "좋아하는 과목이나 잘하는 과목"
       },
       { "detailName" : "教科（きょうか）교과",
-        "detailContJap" : "得意な教科で人生(じんせい)変わります",
+        "detailContJap" : "得意な教科で人生変わります",
         "detailContKor" : "잘하는 교과에 따라 인생이 바뀝니다"
       }
    ]
 },
-{  "subjectName" : "こう、ひろ",
+{  "subjectName" : "コウ、ひろ",
    "mainHanja" : {
       "top" : "広",
       "bottom": "넓을 광"
@@ -117,14 +117,14 @@
       }
    ]
 },
-{  "subjectName" : "こう(음)、はか、ひかり",
+{  "subjectName" : "コウ、はか、ひかり",
    "mainHanja" : {
       "top" : "光",
       "bottom": "빛 광"
   },
    "detailGrp"  : [
       { "detailName" : "光線（こうせん）광선",
-        "detailContJap" : "太陽(たいよう)光線が強い",
+        "detailContJap" : "太陽光線が強い",
         "detailContKor" : "태양광선이 강하다"
       },
       { "detailName" : "光(ひか)る 빛나다, 반짝이다",
@@ -137,7 +137,7 @@
       }
    ]
 },
-{  "subjectName" : "きょう(음)、おし、おそ",
+{  "subjectName" : "キョウ、おし、おそ",
    "mainHanja" : {
       "top" : "教",
       "bottom": "가르칠 교"
@@ -157,7 +157,7 @@
       }
    ]
 },
-{  "subjectName" : "こう(음)、まじ、ま、か",
+{  "subjectName" : "コウ、まじ、ま、か",
    "mainHanja" : {
       "top" : "交",
       "bottom": "사귈 교/엇갈릴 교"
@@ -168,7 +168,7 @@
         "detailContKor" : "소통 조금 더 할까요?"
       },
       { "detailName" : "交(まじ)える 교차시키다",
-        "detailContJap" : "銃火(じゅうか)を交える",
+        "detailContJap" : "銃火を交える",
         "detailContKor" : "총격을 주고받다"
       },
       { "detailName" : "交(ま)ぜる 뒤섞다",
@@ -176,7 +176,7 @@
         "detailContKor" : "술에 물을 섞다"
       },
       { "detailName" : "交(か)わす 주고받다",
-        "detailContJap" : "握手(あくしゅ)を交わす",
+        "detailContJap" : "握手を交わす",
         "detailContKor" : "악수를 나누다"
       }
    ]

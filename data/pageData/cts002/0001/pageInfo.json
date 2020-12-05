@@ -1,13 +1,13 @@
 [
 
-{  "subjectName" : "か、け、いえ、や",
+{  "subjectName" : "カ、ケ、いえ、や",
    "mainHanja" : {
       "top" : "家",
       "bottom": "집 가"
   },
    "detailGrp"  : [
       { "detailName" : "家内（かない）아내, 집사람",
-        "detailContJap" : "家内と同道(どうどう)する",
+        "detailContJap" : "家内と同道する",
         "detailContKor" : "아내와 동행하다"
       },
       { "detailName" : "家来（けらい）가신, 부하",
@@ -24,23 +24,23 @@
       }
    ]
 },
-{  "subjectName" : "か、うた",
+{  "subjectName" : "カ、うた",
    "mainHanja" : {
       "top" : "歌",
       "bottom": "노래 가"
   },
    "detailGrp"  : [
       { "detailName" : "歌手（かしゅ）가수",
-        "detailContJap" : "人気歌手を追い回(まわ)す",
+        "detailContJap" : "人気歌手を追い回す",
         "detailContKor" : "인기 가수를 따라다니다"
       },
       { "detailName" : "歌(うた)う 노래하다",
-        "detailContJap" : "流行歌(りゅうこうか)一曲(いっきょく)を歌う",
+        "detailContJap" : "流行歌一曲を歌う",
         "detailContKor" : "유행가 한 곡을 부르다"
       }
    ]
 },
-{  "subjectName" : "かく(음)、かど、つの",
+{  "subjectName" : "カク、かど、つの",
    "mainHanja" : {
       "top" : "角",
       "bottom": "뿔 각"
@@ -51,7 +51,7 @@
         "detailContKor" : "각도를 재다"
       },
       { "detailName" : "角（かど）모퉁이, 귀퉁이",
-        "detailContJap" : "角を曲がれば大通(おおどお)りに出る",
+        "detailContJap" : "角を曲がれば大通りに出る",
         "detailContKor" : "모퉁이를 돌면 큰길이 나온다"
       },
       { "detailName" : "角（つの）뿔, 각",
@@ -60,14 +60,14 @@
       }
    ]
 },
-{  "subjectName" : "かん、けん、あいだ、ま",
+{  "subjectName" : "カン、ケン、あいだ、ま",
    "mainHanja" : {
       "top" : "間",
       "bottom": "사이 간"
   },
    "detailGrp"  : [
       { "detailName" : "中間（ちゅうかん）중간",
-        "detailContJap" : "駅と銀行(ぎんこう)の中間",
+        "detailContJap" : "駅と銀行の中間",
         "detailContKor" : "역과 은행의 사이"
       },
       { "detailName" : "世間（せけん）세상, 사회, 세간",
@@ -75,27 +75,27 @@
         "detailContKor" : "흔히 세상에 있는 일이다"
       },
       { "detailName" : "間（あいだ）거리, 동안, 사이, 관계",
-        "detailContJap" : "生徒(せいと)の間に人気がある",
+        "detailContJap" : "生徒の間に人気がある",
         "detailContKor" : "학생들 사이에 인기가 있다"
       },
       { "detailName" : "間(ま)もなく 곧",
-        "detailContJap" : "間もなく花見時(どき)が来る",
+        "detailContJap" : "間もなく花見時が来る",
         "detailContKor" : "곧 꽃구경 철이 온다"
       }
    ]
 },
-{  "subjectName" : "きょう、ごう、つよ、し",
+{  "subjectName" : "キョウ、ゴウ、つよ、し",
    "mainHanja" : {
       "top" : "強",
       "bottom": "굳셀 강"
   },
    "detailGrp"  : [
       { "detailName" : "強力（きょうりょく）강력",
-        "detailContJap" : "強力に反論(はんろん)を提起(ていき)する",
+        "detailContJap" : "強力に反論を提起する",
         "detailContKor" : "강력하게 반론을 제기하다"
       },
       { "detailName" : "強盗（ごうとう）강도",
-        "detailContJap" : "乗客(じょうきゃく)が強盗に開き直る",
+        "detailContJap" : "乗客が強盗に開き直る",
         "detailContKor" : "승객이 강도로 돌변하다"
       },
       { "detailName" : "強(つよ)い 세다, 강하다",
@@ -104,11 +104,11 @@
       },
       { "detailName" : "強(し)いる 억지로 시키다",
         "detailContJap" : "自分の考えを人に強いる",
-        "detailContKor" : "자신의 생각을 나에게 강요하다"
+        "detailContKor" : "자신의 생각을 남에게 강요하다"
       }
    ]
 },
-{  "subjectName" : "きょう(음)、けい(음)",
+{  "subjectName" : "キョウ、ケイ",
    "mainHanja" : {
       "top" : "京",
       "bottom": "서울 경"
@@ -120,7 +120,7 @@
       }
    ]
 },
-{  "subjectName" : "けい、はか",
+{  "subjectName" : "ケイ、はか",
    "mainHanja" : {
       "top" : "計",
       "bottom": "셈할 셈"
@@ -131,12 +131,12 @@
         "detailContKor" : "계산이 딱 맞지 않는다"
       },
       { "detailName" : "計(はか)る 달다, 재다",
-        "detailContJap" : "体長(たいちょう)を計る",
+        "detailContJap" : "体長を計る",
         "detailContKor" : "몸길이를 재다"
       }
    ]
 },
-{  "subjectName" : "こ、ふる",
+{  "subjectName" : "コ、ふる",
    "mainHanja" : {
       "top" : "古",
       "bottom": "옛 고"

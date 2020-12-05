@@ -11,7 +11,7 @@
         "detailContKor" : "홍차를 홀짝홀짝 마시다"
       },
       { "detailName" : "茶道（さどう）다도",
-        "detailContJap" : "茶道の所作(しょさ)に学ぶ",
+        "detailContJap" : "茶道の所作に学ぶ",
         "detailContKor" : "다도 동작에서 배우다"
       }
    ]
@@ -23,7 +23,7 @@
   },
    "detailGrp"  : [
       { "detailName" : "回答（かいとう）회답",
-        "detailContJap" : "回答は文書(ぶんしょ)でお願いします",
+        "detailContJap" : "回答は文書でお願いします",
         "detailContKor" : "회답은 문서로 부탁합니다"
       },
       { "detailName" : "答える（こた）대답하다",
@@ -43,11 +43,11 @@
         "detailContKor" : "진실로 사랑해 주는 사람"
       },
       { "detailName" : "当日（とうじつ）당일",
-        "detailContJap" : "事件当日の行動(こうどう)を調べ上げる",
+        "detailContJap" : "事件当日の行動を調べ上げる",
         "detailContKor" : "사건 당일의 행동을 철저히 조사하다"
       },
       { "detailName" : "当たる（あ）맞다, 부딪히다, 적중하다",
-        "detailContJap" : "予報(よほう)が当たる",
+        "detailContJap" : "予報が当たる",
         "detailContKor" : "예보가 들어맞다"
       }
    ]
@@ -83,7 +83,7 @@
         "detailContKor" : "이 책을 보서관에 가져가시오"
       },
       { "detailName" : "図る（はか）꾀하다, 예측하다",
-        "detailContJap" : "自分の利益(りえき)ばかり図る",
+        "detailContJap" : "自分の利益ばかり図る",
         "detailContKor" : "자신의 이익만 도모하다"
       }
    ]
@@ -157,7 +157,7 @@
   },
    "detailGrp"  : [
       { "detailName" : "冬眠（とうみん）동면(겨울잠)",
-        "detailContJap" : "クマは冬眠する習性(しゅうせい)がある",
+        "detailContJap" : "クマは冬眠する習性がある",
         "detailContKor" : "곰은 동면하는 습성이 있다"
       },
       { "detailName" : "冬（ふゆ）겨울",

@@ -1,6 +1,6 @@
 [
 
-{  "subjectName" : "すい、みず",
+{  "subjectName" : "スイ、みず",
   "mainHanja" : {
        "top" : "水",
        "bottom": "물 수"
@@ -16,7 +16,7 @@
       }
    ]
 },
-{  "subjectName" : "じゅう、じっ、とお、と",
+{  "subjectName" : "ジュウ、ジッ、とお、と",
   "mainHanja" : {
        "top" : "十",
        "bottom": "열 십"
@@ -37,7 +37,7 @@
       }
    ]
 },
-{  "subjectName" : "（二）ご、いつ",
+{  "subjectName" : "（二）ゴ、いつ",
   "mainHanja" : {
        "top" : "五",
        "bottom": "다섯 오"
@@ -57,14 +57,14 @@
       }
    ]
 },
-{  "subjectName" : "ぎょく、たま",
+{  "subjectName" : "ギョク、たま",
   "mainHanja" : {
        "top" : "玉",
        "bottom": "구을 옥"
  },
    "detailGrp"  : [
       { "detailName" : "玉座（ぎょくざ）옥좌",
-        "detailContJap" : "王(おう)の玉座に近(ちか)づく",
+        "detailContJap" : "王の玉座に近(ちか)づく",
         "detailContKor" : "왕의 옥좌에 다가가다"
       },
       { "detailName" : "玉（たま）구슬",
@@ -73,7 +73,7 @@
       }
    ]
 },
-{  "subjectName" : "おう(음)",
+{  "subjectName" : "オウ",
   "mainHanja" : {
        "top" : "王",
        "bottom": "임금 왕"
@@ -89,14 +89,14 @@
       }
    ]
 },
-{  "subjectName" : "（口）う、ゆう、みぎ(훈)",
+{  "subjectName" : "（口）ウ、ユウ、みぎ",
   "mainHanja" : {
        "top" : "右",
        "bottom": "오른 우"
  },
    "detailGrp"  : [
       { "detailName" : "右折（うせつ）우회전",
-        "detailContJap" : "次の交差点(こうさてん)で右折してください",
+        "detailContJap" : "次の交差点で右折してください",
         "detailContKor" : "다음 네거리에서 우회전해 주세요"
       },
       { "detailName" : "左右（さゆう）좌우",
@@ -109,14 +109,14 @@
       }
    ]
 },
-{  "subjectName" : "う(음)、あめ、あま",
+{  "subjectName" : "ウ、あめ、あま",
   "mainHanja" : {
        "top" : "雨",
        "bottom": "비 우"
  },
    "detailGrp"  : [
       { "detailName" : "雨天（うてん）우천",
-        "detailContJap" : "当日(とうじつ)雨天の際は中止(ちゅうし)する",
+        "detailContJap" : "当日雨天の際は中止する",
         "detailContKor" : "당일 우천 시에는 중지한다"
       },
       { "detailName" : "雨（あめ）비",
@@ -129,7 +129,7 @@
       }
    ]
 },
-{  "subjectName" : "（冂）えん、まる",
+{  "subjectName" : "（冂）エン、まる",
   "mainHanja" : {
        "top" : "円",
        "bottom": "둥근 원"
@@ -145,7 +145,7 @@
       }
    ]
 },
-{  "subjectName" : "げつ、がつ、つき(훈)",
+{  "subjectName" : "ゲツ、ガツ、つき",
   "mainHanja" : {
        "top" : "月",
        "bottom": "달 월"
@@ -156,11 +156,11 @@
         "detailContKor" : "이번달 안으로 갚겠습니다"
       },
       { "detailName" : "正月（しょうがつ）정월",
-        "detailContJap" : "お正月が待ち遠(どお)しい",
+        "detailContJap" : "お正月が待ち遠しい",
         "detailContKor" : "설이 몹시 기다려진다"
       },
       { "detailName" : "月（つき）달",
-        "detailContJap" : "木陰(こかげ)から月の光が漏る",
+        "detailContJap" : "木陰から月の光が漏る",
         "detailContKor" : "나무 그늘 사이로 달빛이 새어 나오다"
       }
    ]

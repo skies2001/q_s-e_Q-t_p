@@ -1,13 +1,13 @@
 [
 
-{  "subjectName" : "（子）がく、まな",
+{  "subjectName" : "（子）ガク、まな",
    "mainHanja" : {
       "top" : "学",
       "bottom": "배울 학"
   },
    "detailGrp"  : [
       { "detailName" : "学生（がくせい）학생",
-        "detailContJap" : "教室(きょうしつ)で眠っている学生",
+        "detailContJap" : "教室で眠っている学生",
         "detailContKor" : "교실에서 자고 있는 학생"
       },
       { "detailName" : "学(まな)ぶ 배우다",
@@ -16,14 +16,14 @@
       }
    ]
 },
-{  "subjectName" : "か(음)、ひ、ほ",
+{  "subjectName" : "カ、ひ、ほ",
    "mainHanja" : {
       "top" : "火",
       "bottom": "불 화"
   },
    "detailGrp"  : [
       { "detailName" : "火事（かじ）홰재, 불",
-        "detailContJap" : "火事が一日に五件(ごけん)あった",
+        "detailContJap" : "火事が一日に五件あった",
         "detailContKor" : "화재가 하루에 다섯 건 있었다"
       },
       { "detailName" : "火（ひ）불",
@@ -32,7 +32,7 @@
       }
    ]
 },
-{  "subjectName" : "（艹、亻）か、はな",
+{  "subjectName" : "（艹、亻）カ、はな",
    "mainHanja" : {
       "top" : "花",
       "bottom": "꽃 화"
@@ -48,7 +48,7 @@
       }
    ]
 },
-{  "subjectName" : "（亻、木）きゅう、やす",
+{  "subjectName" : "（亻、木）キュウ、やす",
    "mainHanja" : {
       "top" : "休",
       "bottom": "쉴 휴"
@@ -59,7 +59,7 @@
         "detailContKor" : "모처럼의 휴일도 비로 허비되었다"
       },
       { "detailName" : "休(やす)む 쉬다, 휴식하다",
-        "detailContJap" : "夏の日盛(ざか)りには作業(さぎょう)を休む",
+        "detailContJap" : "夏の日盛りには作業を休む",
         "detailContKor" : "여름 한낮에는 작업을 쉰다"
       }
    ]

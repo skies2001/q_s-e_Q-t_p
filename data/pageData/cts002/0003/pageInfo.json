@@ -1,6 +1,6 @@
 [
 
-{  "subjectName" : "こく、くに",
+{  "subjectName" : "コク、くに",
    "mainHanja" : {
       "top" : "国",
       "bottom": "나라 국"
@@ -11,12 +11,12 @@
         "detailContKor" : "전 군민으로부터 미움을 받다"
       },
       { "detailName" : "国（くに）나라, 고향",
-        "detailContJap" : "どの国に訪問(ほうもん)したいですか？",
+        "detailContJap" : "どの国に訪問したいですか？",
         "detailContKor" : "어느 나라를 방문하고 싶습니까?"
       }
    ]
 },
-{  "subjectName" : "きゅう、ゆみ",
+{  "subjectName" : "キュウ、ゆみ",
    "mainHanja" : {
       "top" : "弓",
       "bottom": "활 궁"
@@ -32,7 +32,7 @@
       }
    ]
 },
-{  "subjectName" : "き、かえ",
+{  "subjectName" : "キ、かえ",
    "mainHanja" : {
       "top" : "帰",
       "bottom": "돌아올 귀"
@@ -48,7 +48,7 @@
       }
    ]
 },
-{  "subjectName" : "きん、ちか",
+{  "subjectName" : "キン、ちか",
    "mainHanja" : {
       "top" : "近",
       "bottom": "가까울 근"
@@ -59,12 +59,12 @@
         "detailContKor" : "학교 근처에 살고 있다"
       },
       { "detailName" : "近(ちか)い 가깝다",
-        "detailContJap" : "別れが近い男女の特徴(とくちょう)5選",
+        "detailContJap" : "別れが近い男女の特徴5選",
         "detailContKor" : "이별이 가까운 남여의 특징 5선"
       }
    ]
 },
-{  "subjectName" : "こん、きん、いま(훈)",
+{  "subjectName" : "コン、キン、いま",
    "mainHanja" : {
       "top" : "今",
       "bottom": "이제 금"
@@ -75,7 +75,7 @@
         "detailContKor" : "이번 휴가는 바다로 가기로 했다"
       },
       { "detailName" : "古今（こきん）고금",
-        "detailContJap" : "古今の名作(めいさく)",
+        "detailContJap" : "古今の名作",
         "detailContKor" : "고금의 명작"
       },
       { "detailName" : "今（いま）지금",
@@ -84,7 +84,7 @@
       }
    ]
 },
-{  "subjectName" : "き(음)",
+{  "subjectName" : "キ",
    "mainHanja" : {
       "top" : "汽",
       "bottom": "김 기"
@@ -96,7 +96,7 @@
       }
    ]
 },
-{  "subjectName" : "き、しる",
+{  "subjectName" : "キ、しる",
    "mainHanja" : {
       "top" : "記",
       "bottom": "기록할 기"
@@ -107,19 +107,19 @@
         "detailContKor" : "공백에 답을 기입하시오"
       },
       { "detailName" : "記(しる)す 적다, 기억해 두다",
-        "detailContJap" : "書類(しょるい)に番号(ばんごう)を記す",
+        "detailContJap" : "書類に番号を記す",
         "detailContKor" : "서류에 번호를 적다"
       }
    ]
 },
-{  "subjectName" : "なん、な、みなみ(훈)",
+{  "subjectName" : "ナン、ナ、みなみ",
    "mainHanja" : {
       "top" : "南",
       "bottom": "남녘 남"
   },
    "detailGrp"  : [
       { "detailName" : "南北（なんぼく）남북",
-        "detailContJap" : "南北の地域差(ちいきさ)",
+        "detailContJap" : "南北の地域差",
         "detailContKor" : "남북의 지역차"
       },
       { "detailName" : "南（みなみ）남쪽",
@@ -135,11 +135,11 @@
   },
    "detailGrp"  : [
       { "detailName" : "内容（ないよう）내용",
-        "detailContJap" : "あの本は内容が貧弱(ひんじゃく)だ",
+        "detailContJap" : "あの本は内容が貧弱だ",
         "detailContKor" : "저 책은 내용이 빈약하다"
       },
       { "detailName" : "境内（けいだい）경내(신사 안)",
-        "detailContJap" : "神社(じんじゃ)の境内",
+        "detailContJap" : "神社の境内",
         "detailContKor" : "신사의 경내"
       },
       { "detailName" : "内（うち）안, 속, 동안",
@@ -155,7 +155,7 @@
   },
    "detailGrp"  : [
       { "detailName" : "多数（たすう）다수",
-        "detailContJap" : "この事故で多数の死亡者(しぼうしゃ)を出した",
+        "detailContJap" : "この事故で多数の死亡者を出した",
         "detailContKor" : "이 사고로 다수의 사망자를 냈다"
       },
       { "detailName" : "多い（おお）많다",

@@ -1,6 +1,6 @@
 [
 
-{  "subjectName" : "にゅう(음)、はい、い",
+{  "subjectName" : "ニュウ、はい、い",
   "mainHanja" : {
        "top" : "入",
        "bottom": "들 입"
@@ -11,7 +11,7 @@
         "detailContKor" : "대학에 턱걸이로 입학했다"
       },
       { "detailName" : "入(はい、い)る 들어가다, 들어오다",
-        "detailContJap" : "髪を刈って軍隊(ぐんたい)に入る",
+        "detailContJap" : "髪を刈って軍隊に入る",
         "detailContKor" : "머리를 깎고 군대에 입대하다"
       },
       { "detailName" : "入(い)れる 넣다",
@@ -20,14 +20,14 @@
       }
    ]
 },
-{  "subjectName" : "し、す、こ(훈)",
+{  "subjectName" : "シ、ス、こ",
   "mainHanja" : {
        "top" : "子",
        "bottom": "아들 자"
  },
    "detailGrp"  : [
       { "detailName" : "子女（しじょ）자녀",
-        "detailContJap" : "子女の教育(きょういく)",
+        "detailContJap" : "子女の教育",
         "detailContKor" : "자녀 교육"
       },
       { "detailName" : "椅子（いす）의자",
@@ -40,14 +40,14 @@
       }
    ]
 },
-{  "subjectName" : "（子）じ、あざ",
+{  "subjectName" : "（子）ジ、あざ",
   "mainHanja" : {
        "top" : "字",
        "bottom": "글자 자"
  },
    "detailGrp"  : [
       { "detailName" : "字幕（じまく）자막",
-        "detailContJap" : "バラエティーを見ながら字幕を。。。",
+        "detailContJap" : "バラエティーを見ながら字幕を．．．",
         "detailContKor" : "버라이어티를 보면서 자막을..."
       },
       { "detailName" : "漢字（かんじ）한자",
@@ -61,14 +61,14 @@
       }
    ]
 },
-{  "subjectName" : "（土）せき、しゃく、あか(훈)",
+{  "subjectName" : "（土）セキ、シャク、あか",
   "mainHanja" : {
        "top" : "赤",
        "bottom": "붉을 적"
  },
    "detailGrp"  : [
       { "detailName" : "赤道（せきどう）적도",
-        "detailContJap" : "赤道を通過(つうか)する",
+        "detailContJap" : "赤道を通過する",
         "detailContKor" : "적도를 통과하다"
       },
       { "detailName" : "赤銅（しゃくどう）적동(색)",
@@ -76,35 +76,35 @@
         "detailContKor" : "구릿빛 피부"
       },
       { "detailName" : "赤(あか)い 붉다, 빨갛다",
-        "detailContJap" : "首に赤い斑点(はんてん)ができた",
+        "detailContJap" : "首に赤い斑点ができた",
         "detailContKor" : "목에 붉은 반점이 생겼다"
       }
    ]
 },
-{  "subjectName" : "でん、た",
+{  "subjectName" : "デン、た",
   "mainHanja" : {
        "top" : "田",
        "bottom": "밭 전"
  },
    "detailGrp"  : [
       { "detailName" : "田園（でんえん）전원(시골)",
-        "detailContJap" : "引退(いんたい)して田園で暮らす",
+        "detailContJap" : "引退して田園で暮らす",
         "detailContKor" : "은퇴해서 전원에 살다"
       },
       { "detailName" : "田（た）논",
-        "detailContJap" : "田を耕(たがや)す",
+        "detailContJap" : "田を耕す",
         "detailContKor" : "논을 갈다"
       }
    ]
 },
-{  "subjectName" : "（止）せい、しょう、ただ、まさ",
+{  "subjectName" : "（止）セイ、ショウ、ただ、まさ",
   "mainHanja" : {
        "top" : "正",
        "bottom": "바를 정"
  },
    "detailGrp"  : [
       { "detailName" : "正式（せいしき）정식",
-        "detailContJap" : "正式に学(まな)びたい気持ちですか？",
+        "detailContJap" : "正式に学びたい気持ちですか？",
         "detailContKor" : "정식으로 배울 마음이요?"
       },
       { "detailName" : "正直（しょうじき）정직",
@@ -121,34 +121,34 @@
       }
    ]
 },
-{  "subjectName" : "（田）ちょう、まち",
+{  "subjectName" : "（田）チョウ、まち",
   "mainHanja" : {
        "top" : "町",
        "bottom": "밭두둑 정"
  },
    "detailGrp"  : [
       { "detailName" : "町（ちょう）정, 읍",
-        "detailContJap" : "各(かく)町ごとに色々な催(もよお)しが行(おこな)われる",
+        "detailContJap" : "各町ごとに色々な催しが行われる",
         "detailContKor" : "각 읍마다 다양한 행사가 열린다"
       },
       { "detailName" : "町（まち）시내, 동네",
-        "detailContJap" : "町を一巡(ひとめぐ)りする",
+        "detailContJap" : "町を一巡りする",
         "detailContKor" : "거리를 한 바퀴 돌다"
       }
    ]
 },
-{  "subjectName" : "（日、十）そう、さっ、はや(훈)",
+{  "subjectName" : "（日、十）ソウ、サッ、はや",
   "mainHanja" : {
        "top" : "早",
        "bottom": "일찍 조"
  },
    "detailGrp"  : [
       { "detailName" : "早退（そうたい）조퇴",
-        "detailContJap" : "病気(びょうき)で早退する",
+        "detailContJap" : "病気で早退する",
         "detailContKor" : "병으로 조퇴하다"
       },
       { "detailName" : "早速（さっそく）당장",
-        "detailContJap" : "お注文(ちゅうもん)の品は早速お届(とど)けいたします",
+        "detailContJap" : "お注文の品は早速お届けいたします",
         "detailContKor" : "주문하신 물건은 곧 보내드리겠습니다"
       },
       { "detailName" : "早(はや)い (시간적으로) 이르다, 빠르다",

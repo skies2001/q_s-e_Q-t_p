@@ -1,6 +1,6 @@
 [
 
-{  "subjectName" : "（八）ろく(음)、む、むっ、むい",
+{  "subjectName" : "（八）ロク、む、むっ、むい",
   "mainHanja" : {
        "top" : "六",
        "bottom": "여섯 육"
@@ -21,14 +21,14 @@
       }
    ]
 },
-{  "subjectName" : "（立、日）おん、いん、おと、ね",
+{  "subjectName" : "（立、日）オン、イン、おと、ね",
   "mainHanja" : {
        "top" : "音",
        "bottom": "소리 음"
  },
    "detailGrp"  : [
       { "detailName" : "音楽（おんがく）음악",
-        "detailContJap" : "この音楽を聞くと心が和(なご)む",
+        "detailContJap" : "この音楽を聞くと心が和む",
         "detailContKor" : "이 음악을 들으면 마음이 차분해진다"
       },
       { "detailName" : "母音（ぼいん）모음",
@@ -45,7 +45,7 @@
       }
    ]
 },
-{  "subjectName" : "に、ふた",
+{  "subjectName" : "ニ、ふた",
   "mainHanja" : {
        "top" : "二",
        "bottom": "두 이"
@@ -61,7 +61,7 @@
       }
    ]
 },
-{  "subjectName" : "じ、みみ",
+{  "subjectName" : "ジ、みみ",
   "mainHanja" : {
        "top" : "耳",
        "bottom": "귀 이"
@@ -76,7 +76,7 @@
       }
    ]
 },
-{  "subjectName" : "にん、じん、ひと(훈)",
+{  "subjectName" : "ニン、ジン、ひと",
   "mainHanja" : {
        "top" : "人",
        "bottom": "사림 인"
@@ -96,7 +96,7 @@
       }
    ]
 },
-{  "subjectName" : "いち、いつ、ひと(훈)",
+{  "subjectName" : "イチ、イツ、ひと",
   "mainHanja" : {
        "top" : "一",
        "bottom": "한 일"
@@ -104,10 +104,10 @@
    "detailGrp"  : [
       { "detailName" : "一日（いちにち）1일, 하루",
         "detailContJap" : "友達と楽しく一日をすごす",
-        "detailContKor" : "친구들과 즐거게 하루를 보내다"
+        "detailContKor" : "친구들과 즐겁게 하루를 보내다"
       },
       { "detailName" : "唯一（ゆいいつ）유일",
-        "detailContJap" : "健康(けんこう)が唯一の財産(ざいさん)だ",
+        "detailContJap" : "健康が唯一の財産だ",
         "detailContKor" : "건강이 유일한 재산이다"
       },
       { "detailName" : "一(ひと)つ 하나, 1개",
@@ -120,26 +120,26 @@
       }
    ]
 },
-{  "subjectName" : "にち、じつ、ひ、か",
+{  "subjectName" : "ニチ、ジツ、ひ、か",
   "mainHanja" : {
        "top" : "日",
        "bottom": "낱 일"
  },
    "detailGrp"  : [
       { "detailName" : "日時（にちじ）일시",
-        "detailContJap" : "日時と場所(ばしょ)を明示(めいじ)する",
+        "detailContJap" : "日時と場所を明示する",
         "detailContKor" : "일시와 장소를 명시히다"
       },
       { "detailName" : "前日（ぜんじつ）요전날",
-        "detailContJap" : "銘銘(めいめい)が前日までに用意(ようい)する",
+        "detailContJap" : "銘銘が前日までに用意する",
         "detailContKor" : "각자가 전날까지 준비한다"
       },
       { "detailName" : "日（ひ）해, 날",
-        "detailContJap" : "寒い日がずっと続(つづ)いた",
+        "detailContJap" : "寒い日がずっと続いた",
         "detailContKor" : "추운 날씨가 내내 계속되었다"
       },
       { "detailName" : "二日（ふつか）2일",
-        "detailContJap" : "二日も便(べん)がない",
+        "detailContJap" : "二日も便がない",
         "detailContKor" : "이틀이나 변이 없다"
       }
    ]

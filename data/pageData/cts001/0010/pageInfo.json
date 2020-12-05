@@ -1,6 +1,6 @@
 [
 
-{  "subjectName" : "（木）そん、むら",
+{  "subjectName" : "（木）ソン、むら",
    "mainHanja" : {
       "top" : "村",
       "bottom": "마을 촌"
@@ -16,18 +16,18 @@
       }
    ]
 },
-{  "subjectName" : "（凵）しゅつ、すい、で、だ",
+{  "subjectName" : "（凵）シュツ、スチ、で、だ",
    "mainHanja" : {
       "top" : "出",
       "bottom": "날 출"
   },
    "detailGrp"  : [
       { "detailName" : "外出（がいしゅつ）외출",
-        "detailContJap" : "ふだん着(ぎ)のままで外出する",
+        "detailContJap" : "ふだん着のままで外出する",
         "detailContKor" : "평상복을 차림으로 외출하다"
       },
       { "detailName" : "出納（すいとう）출납",
-          "detailContJap" : "図書(としょ)の出納",
+          "detailContJap" : "図書の出納",
         "detailContKor" : "도서의 출납"
       },
       { "detailName" : "出(で)る 나오다, 나가다",
@@ -40,14 +40,14 @@
       }
    ]
 },
-{  "subjectName" : "ちゅう、むし",
+{  "subjectName" : "チュウ、むし",
    "mainHanja" : {
       "top" : "虫",
       "bottom": "벌레 충"
   },
    "detailGrp"  : [
       { "detailName" : "害虫（がいちゅう）해충",
-        "detailContJap" : "害虫を焼殺(しょうさつ)する",
+        "detailContJap" : "害虫を焼殺する",
         "detailContKor" : "해충을 태워 죽이다"
       },
       { "detailName" : "虫（むし）벌레",
@@ -56,7 +56,7 @@
       }
    ]
 },
-{  "subjectName" : "しち(음)、なな、なの",
+{  "subjectName" : "シチ、なな、なの",
    "mainHanja" : {
       "top" : "七",
       "bottom": "일고 칠"
@@ -76,7 +76,7 @@
       }
    ]
 },
-{  "subjectName" : "ど、と、つち(훈)",
+{  "subjectName" : "ド、ト、つち",
    "mainHanja" : {
       "top" : "土",
       "bottom": "흙 토"
@@ -87,7 +87,7 @@
         "detailContKor" : "토기의 파편이 발견되다"
       },
       { "detailName" : "土地（とち）토지",
-        "detailContJap" : "土地を売った金を会社に回(まわ)す",
+        "detailContJap" : "土地を売った金を会社に回す",
         "detailContKor" : "땅 판 돈을 회사에 돌려주다"
       },
       { "detailName" : "土（つち）흙",
@@ -96,7 +96,7 @@
       }
    ]
 },
-{  "subjectName" : "（目、八）かい(훈)",
+{  "subjectName" : "（目、八）かい",
    "mainHanja" : {
       "top" : "貝",
       "bottom": "조개 패"
@@ -108,14 +108,14 @@
       }
    ]
 },
-{  "subjectName" : "か、げ(음)、した、しも、もと、さ、お、くだ",
+{  "subjectName" : "カ、ゲ、した、しも、もと、さ、お、くだ",
    "mainHanja" : {
       "top" : "下",
       "bottom": "아래 하"
   },
    "detailGrp"  : [
       { "detailName" : "下流（かりゅう）하류",
-        "detailContJap" : "下流に住む魚類(ぎょろい)",
+        "detailContJap" : "下流に住む魚類",
         "detailContKor" : "하류에 사는 어류"
       },
       { "detailName" : "下水（げすい）하수",
@@ -123,7 +123,7 @@
         "detailContKor" : "하수(시궁창) 냄새가 나다"
       },
       { "detailName" : "下（した、しも）아래, 밑",
-        "detailContJap" : "兄より三(みっ)つ下だ",
+        "detailContJap" : "兄より三つ下だ",
         "detailContKor" : "형보다 세 살 아래다"
       },
       { "detailName" : "下(さ)げる 내리다",
@@ -135,7 +135,7 @@
         "detailContKor" : "산에서 내려오다"
       },
       { "detailName" : "下(くだ)り 하행",
-        "detailContJap" : "事故(じご)で下りはべた遅れだ",
+        "detailContJap" : "事故で下りはべた遅れだ",
         "detailContKor" : "사고로 하행(하행 열차)은 모두 지연이다"
       }
    ]

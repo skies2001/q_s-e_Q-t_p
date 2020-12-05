@@ -1,17 +1,17 @@
 [
 
-{  "subjectName" : "せい、しょう(음)、い、う、お、は、き、なま",
+{  "subjectName" : "セイ、ショウ、い、う、お、は、き、なま",
   "mainHanja" : {
        "top" : "生",
        "bottom": "날 생"
  },
    "detailGrp"  : [
       { "detailName" : "人生（じんせい）인생",
-        "detailContJap" : "芸術(げいじゅつ)は長く人生は短い",
+        "detailContJap" : "芸術は長く人生は短い",
         "detailContKor" : "예술은 길고 인생은 짦다"
       },
       { "detailName" : "一生（いっしょう）일생",
-        "detailContJap" : "教育(きょういく)に一生をささげる",
+        "detailContJap" : "教育に一生をささげる",
         "detailContKor" : "교육에 일생을 바치다"
       },
       { "detailName" : "生(い)きる 살다",
@@ -19,11 +19,11 @@
         "detailContKor" : "사람은 살기 위하여 먹는다"
       },
       { "detailName" : "生(う)まれる 태어나다",
-        "detailContJap" : "生まれてきて。。。ごめんなさい",
+        "detailContJap" : "生まれてきて．．．ごめんなさい",
         "detailContKor" : "태어나서... 죄송합니다"
       },
       { "detailName" : "生(お)い立(た)ち 성장",
-        "detailContJap" : "私の生い立ちを聞き母の偉大(いだい)さを知った",
+        "detailContJap" : "私の生い立ちを聞き母の偉大さを知った",
         "detailContKor" : "나의 성장 내력을 듣고 어머니의 위대함을 알았다"
       },
       { "detailName" : "生(は)える 나다, 자라나다",
@@ -40,7 +40,7 @@
       }
    ]
 },
-{  "subjectName" : "せき、ゆう",
+{  "subjectName" : "セキ、ゆう",
   "mainHanja" : {
        "top" : "夕",
        "bottom": "저녁 석"
@@ -56,18 +56,18 @@
       }
    ]
 },
-{  "subjectName" : "せき、しょく、いし(훈)",
+{  "subjectName" : "セキ、シャク、いし",
   "mainHanja" : {
        "top" : "石",
        "bottom": "돌 석"
  },
    "detailGrp"  : [
       { "detailName" : "石油（せきゆ）석유",
-        "detailContJap" : "石油値上(ねあ)げの声におびえる",
+        "detailContJap" : "石油値上げの声におびえる",
         "detailContKor" : "석유값이 인상되는 소리에 겁을 먹다"
       },
       { "detailName" : "磁石（じしゃく）자석",
-        "detailContJap" : "磁石の同じ極(きょく)どうしは反発(はんぱつ)する",
+        "detailContJap" : "磁石の同じ極どうしは反発する",
         "detailContKor" : "자석의 같은 극끼리는 반발한다"
       },
       { "detailName" : "石（いし）돌",
@@ -76,7 +76,7 @@
       }
    ]
 },
-{  "subjectName" : "（儿）せん、さき",
+{  "subjectName" : "（儿）セン、さき",
   "mainHanja" : {
        "top" : "先",
        "bottom": "먼저 선"
@@ -92,7 +92,7 @@
       }
    ]
 },
-{  "subjectName" : "しょう(음)、ちい、こ、お",
+{  "subjectName" : "ショウ、ちい、こ、お",
   "mainHanja" : {
        "top" : "小",
        "bottom": "작을 소"
@@ -103,7 +103,7 @@
         "detailContKor" : "이번 소설은 대히트를 쳤다"
       },
       { "detailName" : "小(ちい)さい 작다",
-        "detailContJap" : "小さいころから読書(どくしょ)する習慣(しゅうかん)をつける",
+        "detailContJap" : "小さいころから読書する習慣をつける",
         "detailContKor" : "어릴적부터 독서하는 습관을 들이다"
       },
       { "detailName" : "小物（こもの）소품",
@@ -112,14 +112,14 @@
       }
    ]
 },
-{  "subjectName" : "しゅ(음)、て、た",
+{  "subjectName" : "シュ、て、た",
   "mainHanja" : {
        "top" : "手",
        "bottom": "손 수"
  },
    "detailGrp"  : [
       { "detailName" : "手段（しゅだん）수단",
-        "detailContJap" : "卑劣(ひれつ)な手段を取る",
+        "detailContJap" : "卑劣な手段を取る",
         "detailContKor" : "비열한 수단을 쓰다"
       },
       { "detailName" : "手（て）손",

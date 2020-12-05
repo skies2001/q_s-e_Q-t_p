@@ -1,6 +1,6 @@
 [
 
-{  "subjectName" : "（气 、メ）き(음)、け(음)",
+{  "subjectName" : "（气 、メ）キ、ケ",
   "mainHanja" : {
        "top" : "気",
        "bottom": "기운 기"
@@ -16,7 +16,7 @@
       }
    ]
 },
-{  "subjectName" : "（田、力）だん、なん、おとこ(훈)",
+{  "subjectName" : "（田、力）ダン、ナン、おとこ",
   "mainHanja" : {
        "top" : "男",
        "bottom": "사내 남"
@@ -36,7 +36,7 @@
       }
    ]
 },
-{  "subjectName" : "じょ、にょ、にょう、おんな(훈)、め(훈)",
+{  "subjectName" : "ジョ、ニョ、ニョウ、おんな、め",
   "mainHanja" : {
        "top" : "女",
        "bottom": "계집 녀"
@@ -60,7 +60,7 @@
       }
    ]
 },
-{  "subjectName" : "（干）ねん、とし",
+{  "subjectName" : "（干）ネン、とし",
   "mainHanja" : {
        "top" : "年",
        "bottom": "해 년"
@@ -76,7 +76,7 @@
       }
    ]
 },
-{  "subjectName" : "だい、たい、おお(훈)",
+{  "subjectName" : "ダイ、タイ、おお",
   "mainHanja" : {
        "top" : "大",
        "bottom": "큰 대"
@@ -96,7 +96,7 @@
       }
    ]
 },
-{  "subjectName" : "りょく、りき、ちから(훈)",
+{  "subjectName" : "リョク、リキ、ちから",
   "mainHanja" : {
        "top" : "力",
        "bottom": "힘 력"
@@ -116,7 +116,7 @@
       }
    ]
 },
-{  "subjectName" : "（木）りん、はやし",
+{  "subjectName" : "（木）リン、はやし",
   "mainHanja" : {
        "top" : "林",
        "bottom": "수풀 림"
@@ -132,7 +132,7 @@
       }
    ]
 },
-{  "subjectName" : "りつ、りゅう、た(훈)",
+{  "subjectName" : "リツ、リュウ、た",
   "mainHanja" : {
        "top" : "立",
        "bottom": "설 립"

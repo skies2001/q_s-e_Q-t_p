@@ -1,6 +1,6 @@
 [
 
-{  "subjectName" : "けん、いぬ",
+{  "subjectName" : "ケン、いぬ",
   "mainHanja" : {
        "top" : "犬",
        "bottom": "개 견"
@@ -16,7 +16,7 @@
       }
    ]
 },
-{  "subjectName" : "けん、み",
+{  "subjectName" : "ケン、み",
   "mainHanja" : {
        "top" : "見",
        "bottom": "볼 견"
@@ -32,7 +32,7 @@
       }
    ]
 },
-{  "subjectName" : "（穴）くう(음)、そら、から、あ",
+{  "subjectName" : "（穴）クウ、そら、から、あ",
   "mainHanja" : {
        "top" : "空",
        "bottom": "하늘 공/빌 공"
@@ -58,7 +58,7 @@
    ]
 
 },
-{  "subjectName" : "（木、六）こう(음)",
+{  "subjectName" : "（木、六）コウ",
   "mainHanja" : {
        "top" : "校",
        "bottom": "학교 교"
@@ -74,7 +74,7 @@
       }
    ]
 },
-{  "subjectName" : "きゅう、く、ここの(훈)",
+{  "subjectName" : "きゅう、ク、ここの",
   "mainHanja" : {
        "top" : "九",
        "bottom": "아홉 구"
@@ -98,14 +98,14 @@
       }
    ]
 },
-{  "subjectName" : "こう、く、くち(훈)",
+{  "subjectName" : "コウ、ク、くち",
   "mainHanja" : {
        "top" : "口",
        "bottom": "입 구"
  },
    "detailGrp"  : [
       { "detailName" : "人口（じんこう）인구",
-        "detailContJap" : "人口密集地域(じんこうみっしゅうちいき)",
+        "detailContJap" : "人口密集地域",
         "detailContKor" : "인구 밀집 지역"
       },
       { "detailName" : "口調（くちょう）말투",
@@ -118,7 +118,7 @@
       }
    ]
 },
-{  "subjectName" : "きん、こん、かね、かな",
+{  "subjectName" : "キン、コン、かね、かな",
   "mainHanja" : {
        "top" : "金",
        "bottom": "쇠 금"
@@ -129,7 +129,7 @@
         "detailContKor" : "금요일밤, 금요일인가?"
       },
       { "detailName" : "金銅（こんどう）금동",
-        "detailContJap" : "金銅の仏像(ぶつぞう)",
+        "detailContJap" : "金銅の仏像",
         "detailContKor" : "금동 불상"
       },
       { "detailName" : "お金(かね) 돈",

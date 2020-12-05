@@ -1,6 +1,6 @@
 [
 
-{  "subjectName" : "（木）ほん、もと",
+{  "subjectName" : "（木）ホン、もと",
   "mainHanja" : {
        "top" : "本",
        "bottom": "근본 본"
@@ -17,7 +17,7 @@
       }
    ]
 },
-{  "subjectName" : "し、いと",
+{  "subjectName" : "シ、いと",
   "mainHanja" : {
        "top" : "糸",
        "bottom": "실 사"
@@ -28,12 +28,12 @@
         "detailContKor" : "무명실 만드는 법"
       },
       { "detailName" : "糸（いと）실",
-        "detailContJap" : "糸から放れた凧(たこ)",
+        "detailContJap" : "糸から放れた凧",
         "detailContKor" : "실에서 떨어져 나간 연"
       }
    ]
 },
-{  "subjectName" : "し(음)、よ、よっ、よん",
+{  "subjectName" : "シ、よ、よっ、よん",
   "mainHanja" : {
        "top" : "四",
        "bottom": "넷 사"
@@ -57,7 +57,7 @@
       }
    ]
 },
-{  "subjectName" : "さん、やま",
+{  "subjectName" : "サン、やま",
   "mainHanja" : {
        "top" : "山",
        "bottom": "산 산"
@@ -73,7 +73,7 @@
       }
    ]
 },
-{  "subjectName" : "さん(음)、み、みつ",
+{  "subjectName" : "サン、み、みつ",
   "mainHanja" : {
        "top" : "三",
        "bottom": "셋 삼"
@@ -93,7 +93,7 @@
       }
    ]
 },
-{  "subjectName" : "（木、林）しん、もり",
+{  "subjectName" : "（木、林）シン、もり",
   "mainHanja" : {
        "top" : "森",
        "bottom": "너무빽빽할 삼"
@@ -109,7 +109,7 @@
       }
    ]
 },
-{  "subjectName" : "じょう、しょう(음)、うえ、かみ、うわ、あ、のぼ",
+{  "subjectName" : "ジョウ、ショウ、うえ、かみ、うわ、あ、のぼ",
   "mainHanja" : {
        "top" : "上",
        "bottom": "위 상"
