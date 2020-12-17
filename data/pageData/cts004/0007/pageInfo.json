@@ -16,23 +16,152 @@
       }
    ]
 },
-{  "subjectName" : "",
+{  "subjectName" : "（頁、米、大）ルイ、たぐい",
    "mainHanja" : {
-      "top" : "",
-      "bottom": ""
+      "top" : "類",
+      "bottom": "무리 류"
   },
    "detailGrp"  : [
-      { "detailName" : "",
-        "detailContJap" : "",
-        "detailContKor" : ""
+      { "detailName" : "分類（ぶんるい）분류",
+        "detailContJap" : "本を大きさで分類する",
+        "detailContKor" : "책을 크기에 따라 분류하다"
       },
-      { "detailName" : "",
-        "detailContJap" : "",
-        "detailContKor" : ""
+      { "detailName" : "人類（じんるい）인류",
+        "detailContJap" : "戦争は人類の悲劇だ",
+        "detailContKor" : "전쟁은 인류의 비극이다"
       },
-      { "detailName" : "",
-        "detailContJap" : "",
-        "detailContKor" : ""
+      { "detailName" : "類（たぐい）동류, 유, 유례, 종류",
+        "detailContJap" : "虫の類い",
+        "detailContKor" : "벌레 종류"
+      }
+   ]
+},
+{  "subjectName" : "（車、冊）リン、わ",
+   "mainHanja" : {
+      "top" : "輪",
+      "bottom": "바퀴 륜"
+  },
+   "detailGrp"  : [
+      { "detailName" : "車輪（しゃりん）차바퀴",
+        "detailContJap" : "これは運命の車輪",
+        "detailContKor" : "이건 운명의 수레바퀴"
+      },
+      { "detailName" : "指輪（ゆびわ）반지",
+        "detailContJap" : "ハンドバックの中から指輪を探し出す",
+        "detailContKor" : "핸드밴 속에서 반지를 찾아내다"
+      }
+   ]
+},
+{  "subjectName" : "（刂、禾）リ、き",
+   "mainHanja" : {
+      "top" : "利",
+      "bottom": "이로울 리"
+  },
+   "detailGrp"  : [
+      { "detailName" : "利益（りえき）이익",
+        "detailContJap" : "彼は自身の利益ばかり考える",
+        "detailContKor" : "그는 자신의 이익만 생각한다"
+      },
+      { "detailName" : "利く（き）있다(효력이), 듣다",
+        "detailContJap" : "つけの利く店",
+        "detailContKor" : "외상을 할 수 있는 가게"
+      }
+   ]
+},
+{  "subjectName" : "（氵、山、冂）マン、み",
+   "mainHanja" : {
+      "top" : "満",
+      "bottom": "가득찰 만"
+  },
+   "detailGrp"  : [
+      { "detailName" : "満足（まんぞく）만족",
+        "detailContJap" : "満足らしい顔をする",
+        "detailContKor" : "만족스러운 듯한 얼굴을 하다"
+      },
+      { "detailName" : "満たす（み）채우다, 만족시키다",
+        "detailContJap" : "水を満たす",
+        "detailContKor" : "물을 가득히 채우다"
+      }
+   ]
+},
+{  "subjectName" : "（木）",
+   "mainHanja" : {
+      "top" : "末",
+      "bottom": "끝 말"
+  },
+   "detailGrp"  : [
+      { "detailName" : "月末（げつまつ）월말",
+        "detailContJap" : "月末に入金がある",
+        "detailContKor" : "월말에 입금이 있다"
+      },
+      { "detailName" : "末（すえ）말, 끝",
+        "detailContJap" : "さんざん考えた末に",
+        "detailContKor" : "골똘이 생각한 끝에"
+      }
+   ]
+},
+{  "subjectName" : "（月、王、亡）ホウ、モウ、のぞ",
+   "mainHanja" : {
+      "top" : "望",
+      "bottom": "바랄 망"
+  },
+   "detailGrp"  : [
+      { "detailName" : "失望（しつぼう）실망",
+        "detailContJap" : "成果が上がらず失望する",
+        "detailContKor" : "성과가 오르지 않아 실망하다"
+      },
+      { "detailName" : "望む（のぞ）바라다, 원하다",
+        "detailContJap" : "君に望むのは正直さだ",
+        "detailContKor" : "자네에게 바라는 것은 정직이다"
+      }
+   ]
+},
+{  "subjectName" : "（木、毎）バイ、うめ",
+   "mainHanja" : {
+      "top" : "梅",
+      "bottom": "매화 매"
+  },
+   "detailGrp"  : [
+      { "detailName" : "梅花（ばいか）매화",
+        "detailContJap" : "梅花薫ずるの候",
+        "detailContKor" : "매화 향기 감도는 계절"
+      },
+      { "detailName" : "梅（うめ）매실",
+        "detailContJap" : "僕は最近アロエジュースよりは梅とかが...",
+        "detailContKor" : "전 요즘 알로에 주스 보다는 매실 이런게..."
+      }
+   ]
+},
+{  "subjectName" : "（月）ミャク",
+   "mainHanja" : {
+      "top" : "脈",
+      "bottom": "맥 맥"
+  },
+   "detailGrp"  : [
+      { "detailName" : "山脈（さんみゃく）산맥",
+        "detailContJap" : "ヒマラヤ山脈",
+        "detailContKor" : "히말라야 산맥"
+      },
+      { "detailName" : "動脈（どうみゃく）동맥",
+        "detailContJap" : "動脈硬化",
+        "detailContKor" : "동맥경화"
+      }
+   ]
+},
+{  "subjectName" : "（牛、攵）ボク、まき",
+   "mainHanja" : {
+      "top" : "牧",
+      "bottom": "칠 목"
+  },
+   "detailGrp"  : [
+      { "detailName" : "牧場（ぼくじょう）목장",
+        "detailContJap" : "思わず大声でヨーデルを歌ったら牧場の牛が一斉に集まってきた",
+        "detailContKor" : "나도 모르게 큰 소리로 요들을 불렀더니 목장의 소들이 일제히 모여들었다"
+      },
+      { "detailName" : "牧（まき）목장, 방목장",
+        "detailContJap" : "牧",
+        "detailContKor" : "목장, 방목장"
+        ,"soundFlg" : 0
       }
    ]
 }

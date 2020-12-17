@@ -64,11 +64,11 @@
       },
       { "detailName" : "一番（いちばん）가장, 제일",
         "detailContJap" : "一番で合格する",
-        "detailContKor" : "일드으로 합격하다"
+        "detailContKor" : "일등으로 합격하다"
       }
    ]
  },
- {  "subjectName" : "（止）ホ、ブ、フ、ある、あゆ",
+ {  "subjectName" : "（止、少）ホ、ブ、フ、ある、あゆ",
     "mainHanja" : {
        "top" : "歩",
        "bottom": "걸음 보"
@@ -95,7 +95,7 @@
    },
     "detailGrp"  : [
        { "detailName" : "父母（ふぼ）부모",
-         "detailContJap" : "父母の国（くに）",
+         "detailContJap" : "父母の国",
          "detailContKor" : "부모의 나라(조국)",
          "soundFlg" : 0
        },

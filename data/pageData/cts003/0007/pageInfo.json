@@ -3,7 +3,7 @@
 {  "subjectName" : "（辶、反）ヘン、かえ",
    "mainHanja" : {
       "top" : "返",
-      "bottom": ""
+      "bottom": "돌아올 반"
   },
    "detailGrp"  : [
       { "detailName" : "返事（へんじ）대답, 답장",
@@ -100,11 +100,11 @@
       },
       { "detailName" : "病（やまい）병",
         "detailContJap" : "病は初期の手当が大切だ",
-        "detailContKor" : "병은 초기 지료가 중요하다"
+        "detailContKor" : "병은 초기 치료가 중요하다"
       }
    ]
 },
-{  "subjectName" : "（月）フク",
+{  "subjectName" : "（月、又）フク",
    "mainHanja" : {
       "top" : "服",
       "bottom": "옷 복/마실 복"
@@ -156,7 +156,7 @@
       }
    ]
 },
-{  "subjectName" : "（阝）ブ",
+{  "subjectName" : "（阝、立）ブ",
    "mainHanja" : {
       "top" : "部",
       "bottom": "거느릴 부"

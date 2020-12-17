@@ -6,17 +6,17 @@
       "bottom": "한가지 동"
   },
    "detailGrp"  : [
-      { "detailName" : "同時（どうじ）",
+      { "detailName" : "同時（どうじ）동시",
         "detailContJap" : "同時にいちはやく駆け付けた",
         "detailContKor" : "동시에 재빨리 달려갔다"
     },
     { "detailName" : "同じ（おな）같음, 동일함",
       "detailContJap" : "二人は同じ年ごろだ",
-      "detailContKor" : ""
+      "detailContKor" : "두 사람은 같은 또래다"
     }
    ]
 },
-{  "subjectName" : "（頁、묘 ）トウ、ズ、ト、あたま、かしる",
+{  "subjectName" : "（頁、豆 ）トウ、ズ、ト、あたま、かしる",
    "mainHanja" : {
       "top" : "頭",
       "bottom": "머리 두"
