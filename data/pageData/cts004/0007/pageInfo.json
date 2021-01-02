@@ -84,7 +84,7 @@
       }
    ]
 },
-{  "subjectName" : "（木）",
+{  "subjectName" : "（木）マツ、バツ、すえ",
    "mainHanja" : {
       "top" : "末",
       "bottom": "끝 말"
@@ -162,6 +162,26 @@
         "detailContJap" : "牧",
         "detailContKor" : "목장, 방목장"
         ,"soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（灬）ム、ブ、な",
+   "mainHanja" : {
+      "top" : "無",
+      "bottom": "없을 무"
+  },
+   "detailGrp"  : [
+      { "detailName" : "無理（むり）무리",
+        "detailContJap" : "体に無理な運動",
+        "detailContKor" : "몸에 무리가 오는 운동"
+      },
+      { "detailName" : "無事（ぶじ）무사함",
+        "detailContJap" : "無事な生還を喜ぶ",
+        "detailContKor" : "무사히 생환하는 것을 기뻐하다"
+      },
+      { "detailName" : "無い（な）없다",
+        "detailContJap" : "道端の名も無い花",
+        "detailContKor" : "길가의 이름 없는 꽃"
       }
    ]
 }

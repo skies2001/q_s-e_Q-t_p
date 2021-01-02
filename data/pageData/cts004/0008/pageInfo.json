@@ -1,0 +1,72 @@
+[
+
+{  "subjectName" : "ミ、いま",
+   "mainHanja" : {
+      "top" : "未",
+      "bottom": "아닐 미"
+  },
+   "detailGrp"  : [
+      { "detailName" : "未定（みてい）미정",
+        "detailContJap" : "行く先は未定です",
+        "detailContKor" : "행선지는 미정입니다"
+      },
+      { "detailName" : "未知（みち）미지",
+        "detailContJap" : "未知数yを消去する",
+        "detailContKor" : "미지수 y를 소거하다"
+      },
+      { "detailName" : "未だに（いま）아직도",
+        "detailContJap" : "未だに病気がよくならない",
+        "detailContKor" : "아직까지도 병이 나아지지 않는다"
+      }
+   ]
+},
+{  "subjectName" : "ミン、たみ",
+   "mainHanja" : {
+      "top" : "民",
+      "bottom": "백성 민"
+  },
+   "detailGrp"  : [
+      { "detailName" : "国民（こくみん）국민",
+        "detailContJap" : "法を守ることは国民の務めだ",
+        "detailContKor" : "법을 지키는 것은 국민의 의무다"
+      },
+      { "detailName" : "民（たみ）국민, 백성",
+        "detailContJap" : "民の声に耳を傾ける",
+        "detailContKor" : "백성의 소리에 귀를 기울이다"
+      }
+   ]
+},
+{  "subjectName" : "（十、田、寸）ハク、バク、ひろ",
+   "mainHanja" : {
+      "top" : "博",
+      "bottom": "넓을 박"
+  },
+   "detailGrp"  : [
+      { "detailName" : "博物館（はくぶつかん）박물관",
+        "detailContJap" : "博物館に見物に行く",
+        "detailContKor" : "박물관에 구경하러 가다"
+      },
+      { "detailName" : "賭博（とばく）도박",
+        "detailContJap" : "海外賭博に興じた人々を摘発する",
+        "detailContKor" : "해외 도박을 즐긴 사람들을 적발하다"
+      }
+   ]
+},
+{  "subjectName" : "（飠、又）ハン、めし",
+   "mainHanja" : {
+      "top" : "飯",
+      "bottom": "밥 반"
+  },
+   "detailGrp"  : [
+      { "detailName" : "夕飯（ゆうはん）저녁밥",
+        "detailContJap" : "子供が夕飯を食べて’ご馳走様’と言った",
+        "detailContKor" : "아이가 저녁을 먹고 나서 '잘 먹었습니다' 라고 말했다"
+      },
+      { "detailName" : "飯（めし）밥",
+        "detailContJap" : "飯をかき込む",
+        "detailContKor" : "밥을 급히 먹다"
+      }
+   ]
+}
+
+]
