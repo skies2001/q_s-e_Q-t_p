@@ -67,6 +67,110 @@
         "detailContKor" : "밥을 급히 먹다"
       }
    ]
+},
+{  "subjectName" : "（氵、去）ホウ、ハッ、ホッ、のり",
+   "mainHanja" : {
+      "top" : "法",
+      "bottom": "법 법"
+  },
+   "detailGrp"  : [
+      { "detailName" : "法則（ほうそく）법칙",
+        "detailContJap" : "物体の運動に関する法則",
+        "detailContKor" : "물체 운동에 관한 법칙"
+      },
+      { "detailName" : "法度（はっと）법도, 법령",
+        "detailContJap" : "法度をおかす",
+        "detailContKor" : "금령을 어기다"
+      },
+      { "detailName" : "法（のり）법규, 도리",
+        "detailContJap" : "法",
+        "detailContKor" : "법규, 도리",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（辶、刀）ヘン、あた、べ、ほとり",
+   "mainHanja" : {
+      "top" : "辺",
+      "bottom": "가 변"
+  },
+   "detailGrp"  : [
+      { "detailName" : "周辺（しゅうへん）주변",
+        "detailContJap" : "彼の周辺には優秀な人材が多い",
+        "detailContKor" : "그의 주변에는 우수한 인재가 많다"
+      },
+      { "detailName" : "辺り（あた）근처, 부근",
+        "detailContJap" : "辺りを見回す",
+        "detailContKor" : "주변을 둘러보다"
+      },
+      { "detailName" : "海辺（うみべ）바닷가",
+        "detailContJap" : "海辺の部屋にしてください",
+        "detailContKor" : "해변이 보이는 방으로 주세요"
+      },
+      { "detailName" : "辺（ほとり）근처, 부근",
+        "detailContJap" : "辺",
+        "detailContKor" : "근처, 부근",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（刂、口 ）ベツ、わか",
+   "mainHanja" : {
+      "top" : "別",
+      "bottom": "다를 별"
+  },
+   "detailGrp"  : [
+      { "detailName" : "別々（べつべつ）따로따로",
+        "detailContJap" : "別々に買えますか？",
+        "detailContKor" : "따로 살 수 있어요?"
+      },
+      { "detailName" : "別れる（わかれる）헤어지다, 이별하다",
+        "detailContJap" : "どうせ別れるなら、早く別れたほうがいいよ",
+        "detailContKor" : "어차피 헤어질 거라면 일찍 헤어지는 게 낫지"
+      }
+   ]
+},
+{  "subjectName" : "（八、丘）ヘイ、ヒョウ、つわもの",
+   "mainHanja" : {
+      "top" : "兵",
+      "bottom": "군사 병"
+  },
+   "detailGrp"  : [
+      { "detailName" : "兵士（へいし）병사",
+        "detailContJap" : "生き残りの兵士",
+        "detailContKor" : "살아 남은 병사"
+      },
+      { "detailName" : "兵庫（ひょうご）효고(일본 지명)",
+        "detailContJap" : "兵庫",
+        "detailContKor" : "효고",
+        "soundFlg" : 0
+      },
+      { "detailName" : "兵（つわもの）병사, 군인",
+        "detailContJap" : "兵",
+        "detailContKor" : "병사, 군인",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（大）フ、フウ、おっと",
+   "mainHanja" : {
+      "top" : "夫",
+      "bottom": "지아비 부"
+  },
+   "detailGrp"  : [
+      { "detailName" : "農夫（のうふ）농부",
+        "detailContJap" : "畑仕事をしている農夫",
+        "detailContKor" : "밭일을 하고 있는 농부"
+      },
+      { "detailName" : "工夫（くふう）궁리, 궁안",
+        "detailContJap" : "水が漏らないように工夫する",
+        "detailContKor" : "물이 새지 않게 궁리하다"
+      },
+      { "detailName" : "夫（おっと）남편",
+        "detailContJap" : "夫がふびんで胸が痛かった",
+        "detailContKor" : "남편이 측은해서 가슴이 아팠다"
+      }
+   ]
 }
 
 ]

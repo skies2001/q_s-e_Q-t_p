@@ -1,0 +1,48 @@
+[
+
+{  "subjectName" : "（亻、寸）フ、つ",
+   "mainHanja" : {
+      "top" : "付",
+      "bottom": "줄 부"
+  },
+   "detailGrp"  : [
+      { "detailName" : "付近（ふきん）부근, 근처",
+        "detailContJap" : "池の付近はじくじく湿っている",
+        "detailContKor" : "연못 부근은 질척하게 젖어 있다"
+      },
+      { "detailName" : "付く（つ）붙다, 달라붙다",
+        "detailContJap" : "膳に付く",
+        "detailContKor" : "상 앞에 앉다"
+      }
+   ]
+},
+{  "subjectName" : "（广、付）フ",
+   "mainHanja" : {
+      "top" : "府",
+      "bottom": "마을 부"
+  },
+   "detailGrp"  : [
+      { "detailName" : "政府（せいふ）정부",
+        "detailContJap" : "政府の各部署から来た人人",
+        "detailContKor" : "정부 각부서에서 온 사람들"
+      }
+   ]
+},
+{  "subjectName" : "（刂、口、田）フク",
+   "mainHanja" : {
+      "top" : "副",
+      "bottom": "버금 부"
+  },
+   "detailGrp"  : [
+      { "detailName" : "副業（ふくぎょう）부업",
+        "detailContJap" : "片手間にできる人気の副業",
+        "detailContKor" : "짬짬이 할 수 있는 인기 부업"
+      },
+      { "detailName" : "副社長（ふくしゃちょう）부사장",
+        "detailContJap" : "副社長の野望",
+        "detailContKor" : "부사장의 야망"
+      }
+   ]
+}
+
+]

@@ -8,7 +8,7 @@ var cts003 = {
   maxBtnCnt : 21
 };
 var cts004 = {
-  maxBtnCnt : 8
+  maxBtnCnt : 9
 };
 
 {
