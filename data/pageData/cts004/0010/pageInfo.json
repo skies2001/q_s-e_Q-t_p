@@ -1,0 +1,24 @@
+[
+
+{  "subjectName" : "（生、立）サン、う、うぶ",
+   "mainHanja" : {
+      "top" : "産",
+      "bottom": "낳을 산"
+  },
+   "detailGrp"  : [
+      { "detailName" : "生産（せいさん）생산",
+        "detailContJap" : "生産と消費が飛躍的に伸びる",
+        "detailContKor" : "생산과 소비가 비약적으로 늘다"
+      },
+      { "detailName" : "産む（う）낳다",
+        "detailContJap" : "鶏が卵を産む",
+        "detailContKor" : "닭이 알을 낳다"
+      },
+      { "detailName" : "産毛（うぶげ）배냇머리, 솜털",
+        "detailContJap" : "ほおの産毛",
+        "detailContKor" : "볼의 솜털"
+      }
+   ]
+}
+
+]

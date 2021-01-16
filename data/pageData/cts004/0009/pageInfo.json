@@ -43,6 +43,139 @@
         "detailContKor" : "부사장의 야망"
       }
    ]
+},
+{  "subjectName" : "（米、分）フン、こ、こな",
+   "mainHanja" : {
+      "top" : "粉",
+      "bottom": "가루 분"
+  },
+   "detailGrp"  : [
+      { "detailName" : "粉末（ふんまつ）분말, 가루",
+        "detailContJap" : "粉末状にして用いる",
+        "detailContKor" : "분말 상태로 만들어 쓰다"
+      },
+      { "detailName" : "粉（こ、こな）가루",
+        "detailContJap" : "身を粉にして働く",
+        "detailContKor" : "온 힘을 다하여 일하다"
+      }
+   ]
+},
+{  "subjectName" : "フ、ブ",
+   "mainHanja" : {
+      "top" : "不",
+      "bottom": "아니 불/아니 부"
+  },
+   "detailGrp"  : [
+      { "detailName" : "不思議（ふしぎ）이상함",
+        "detailContJap" : "不思議と当たる女の勘",
+        "detailContKor" : "신기하게 잘 맞는 여자의 직감"
+      },
+      { "detailName" : "不細工（ぶさいく）못생김",
+        "detailContJap" : "不細工な顔",
+        "detailContKor" : "못생긴 얼굴"
+      }
+   ]
+},
+{  "subjectName" : "（飞、亻）ヒ、と",
+   "mainHanja" : {
+      "top" : "飛",
+      "bottom": "날 비"
+  },
+   "detailGrp"  : [
+      { "detailName" : "飛行機（ひこうき）비행기",
+        "detailContJap" : "飛行機の都合で出発が遅れる",
+        "detailContKor" : "비행기 사정으로 출발이 늦어지다"
+      },
+      { "detailName" : "飛ぶ（と）날다",
+        "detailContJap" : "鳥が円を描いて飛ぶ",
+        "detailContKor" : "새가 원을 그리며 날다"
+      }
+   ]
+},
+{  "subjectName" : "（貝、弓）ヒ、つい",
+   "mainHanja" : {
+      "top" : "費",
+      "bottom": "쓸 비"
+  },
+   "detailGrp"  : [
+      { "detailName" : "費用（ひよう）비용",
+        "detailContJap" : "費用は割勘にする",
+        "detailContKor" : "비용은 각자 부담으로 한다"
+      },
+      { "detailName" : "費やす（つい）쓰다, 소비하다",
+        "detailContJap" : "時間を費やすだけ損だ",
+        "detailContKor" : "시간을 허비한 만큼 손해다"
+      }
+   ]
+},
+{  "subjectName" : "シ",
+   "mainHanja" : {
+      "top" : "士",
+      "bottom": "선비 사"
+  },
+   "detailGrp"  : [
+      { "detailName" : "紳士（しんし）신사",
+        "detailContJap" : "年ごろ五十歳ぐらいの紳士",
+        "detailContKor" : "나이 50세쯤 되어 보이는 신사"
+      },
+      { "detailName" : "武士（ぶし）무사",
+        "detailContJap" : "武士が鎧兜を着けて刀を振り回す",
+        "detailContKor" : "무사가 갑옷투구를 갖추고 칼을 휘두르다"
+      }
+   ]
+},
+{  "subjectName" : "（口）シ",
+   "mainHanja" : {
+      "top" : "史",
+      "bottom": "역사 사"
+  },
+   "detailGrp"  : [
+      { "detailName" : "歴史（れきし）역사",
+        "detailContJap" : "歴史に興味を沸かす",
+        "detailContKor" : "역사에 흥미를 느끼게 하다"
+      },
+      { "detailName" : "世界史（せかいし）세계사",
+        "detailContJap" : "世界史を漫画で学び直す",
+        "detailContKor" : "세계사를 만화로 다시 배우다"
+      }
+   ]
+},
+{  "subjectName" : "（口）シ、つかさ",
+   "mainHanja" : {
+      "top" : "司",
+      "bottom": "맡을 사"
+  },
+   "detailGrp"  : [
+      { "detailName" : "司会（しかい）사회",
+        "detailContJap" : "テレビ番組で司会を務める女性アナウンサー",
+        "detailContKor" : "TV 프로그램에서 사회를 보는 여성 아나운서"
+      },
+      { "detailName" : "上司（じょうし）상사",
+        "detailContJap" : "上司の顔色を窺う部下",
+        "detailContKor" : "상사의 눈치를 보는 부하"
+      },
+      { "detailName" : "司（つかさ）관청, 관리",
+        "detailContJap" : "司",
+        "detailContKor" : "관청, 관리",
+        "soundFlg" : 0
+      }
+   ]
+},
+{  "subjectName" : "（辛、舌）ジ、や",
+   "mainHanja" : {
+      "top" : "辞",
+      "bottom": "말 사"
+  },
+   "detailGrp"  : [
+      { "detailName" : "辞書（じしょ）사전",
+        "detailContJap" : "老眼で辞書が見辛い",
+        "detailContKor" : "노안이어서 사전 보기가 어렵다"
+      },
+      { "detailName" : "辞める（や）그만두다, 사직하다",
+        "detailContJap" : "責任を取って会社を辞める",
+        "detailContKor" : "책임을 지고 회사를 그만두다"
+      }
+   ]
 }
 
 ]
