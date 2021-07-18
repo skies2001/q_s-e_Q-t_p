@@ -110,7 +110,10 @@ cmm.scrollPosCheckEvt = function(){
 
   cmm.loadScrollPos  = function(){
       var loadPos = localStorage.getItem("scrollTop");
-      if($.isNumeric(loadPos)){
+      if(cmm.info.devMod){
+        $(window).scrollTop($(this.info.loadHtmlId).height());
+      }
+      else if($.isNumeric(loadPos)){
           $(window).scrollTop(loadPos);
       }
   };

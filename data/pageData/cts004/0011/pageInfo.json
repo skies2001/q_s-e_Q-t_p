@@ -1,0 +1,48 @@
+[
+
+{  "subjectName" : "（戈）セイ、ジョウ、な",
+   "mainHanja" : {
+      "top" : "成",
+      "bottom": "이룰 성"
+  },
+   "detailGrp"  : [
+      { "detailName" : "成人（せいじん）성인",
+        "detailContJap" : "子供は皆成人して家を出た",
+        "detailContKor" : "아이들은 다 성장해서 집을 나갔다"
+      },
+      { "detailName" : "成就（じょうじゅ）성취",
+        "detailContJap" : "どうあっても目的を成就しなければならない",
+        "detailContKor" : "어떻게 하든 목적을 성취하지 않으면 안 된다"
+      },
+      { "detailName" : "成る（な）되다, 이루어지다",
+        "detailContJap" : "願いが成る",
+        "detailContKor" : "소원이 이루어지다"
+      }
+   ]
+},
+{  "subjectName" : "（目、少）ショウ、セイ、かえり、はぶ",
+   "mainHanja" : {
+      "top" : "省",
+      "bottom": "살필 성/덜 생"
+  },
+   "detailGrp"  : [
+      { "detailName" : "省略（しょうりゃく）생략",
+        "detailContJap" : "パスワード入力を省略して自動ログインする",
+        "detailContKor" : "패스워드 입력을 생략하고 자동 로그인 하다"
+      },
+      { "detailName" : "反省（はんせい）반성",
+        "detailContJap" : "反省の色が見えない",
+        "detailContKor" : "반성하는 기색이 보이지 않다"
+      },
+      { "detailName" : "省みる（かえり）돌이켜보다",
+        "detailContJap" : "過去のあやまちを省みる",
+        "detailContKor" : "과거의 잘못을 반성하다"
+      },
+      { "detailName" : "省く（はぶ）덜다",
+        "detailContJap" : "少しでも手数を省く",
+        "detailContKor" : "조금이라도 수고를 덜다"
+      }
+   ]
+}
+
+]

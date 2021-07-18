@@ -19,6 +19,138 @@
         "detailContKor" : "볼의 솜털"
       }
    ]
+},
+{  "subjectName" : "（攵、月）サン、ち",
+   "mainHanja" : {
+      "top" : "散",
+      "bottom": "흩어질 산"
+  },
+   "detailGrp"  : [
+      { "detailName" : "散歩（さんぽ）산책",
+        "detailContJap" : "気晴らしに散歩に行く",
+        "detailContKor" : "기분 전환을 위해 산책을 가다"
+      },
+      { "detailName" : "散る（ち）떨어지다",
+        "detailContJap" : "桜の花が散る",
+        "detailContKor" : "벚꽃이 떨어지다"
+      },
+      { "detailName" : "散らかす（ち）어지르다",
+        "detailContJap" : "部屋中におもちゃを散らかす",
+        "detailContKor" : "온 방 안에 장난감을 흩뜨리다"
+      }
+   ]
+},
+{  "subjectName" : "（メ、木、八、又）サツ、セツ、サイ、こる",
+   "mainHanja" : {
+      "top" : "殺",
+      "bottom": "죽일 살/빠를 쇄"
+  },
+   "detailGrp"  : [
+      { "detailName" : "暗殺（あんさつ）암살",
+        "detailContJap" : "大統領が暗殺された",
+        "detailContKor" : "대통령이 암살당했다"
+      },
+      { "detailName" : "殺生（せっしょう）살생",
+        "detailContJap" : "余計な殺生をするな",
+        "detailContKor" : "쓸데없 살생을 하지 마라"
+      },
+      { "detailName" : "相殺（そうさい）상쇄",
+        "detailContJap" : "お互いの債務が相殺される",
+        "detailContKor" : "서로의 채무가 상쇄되다"
+      },
+      { "detailName" : "殺す（ころ）죽이다",
+        "detailContJap" : "息を殺す",
+        "detailContKor" : "숨소리를 죽이다"
+      }
+   ]
+},
+{  "subjectName" : "（豕）ショウ、ゾウ、かたど",
+   "mainHanja" : {
+      "top" : "象",
+      "bottom": "코끼리 상"
+  },
+   "detailGrp"  : [
+      { "detailName" : "印象（いんしょう）인상",
+        "detailContJap" : "すごく印象的でした",
+        "detailContKor" : "매우 인상적이었어요"
+      },
+      { "detailName" : "象（ぞう）코끼리",
+        "detailContJap" : "象のような巨体",
+        "detailContKor" : "코끼리 같은 거대한 체구"
+      },
+      { "detailName" : "象る（かたど）상징하다",
+        "detailContJap" : "生の喜びを象った軍部",
+        "detailContKor" : "삶의 기쁨을 상징한 군무"
+      }
+   ]
+},
+{  "subjectName" : "（貝）ショウ",
+   "mainHanja" : {
+      "top" : "賞",
+      "bottom": "상줄 상"
+  },
+   "detailGrp"  : [
+      { "detailName" : "大賞（たいしょう）대상",
+        "detailContJap" : "日本ゴールド・ディスク大賞",
+        "detailContKor" : "일본 골드 디스크 대상"
+      },
+      { "detailName" : "受賞（受賞）수상",
+        "detailContJap" : "各賞の受賞者は以下のとおりです",
+        "detailContKor" : "각 상의 수상자는 다음과 같습니다"
+      }
+   ]
+},
+{  "subjectName" : "（巾）セキ",
+   "mainHanja" : {
+      "top" : "席",
+      "bottom": "자리 석"
+  },
+   "detailGrp"  : [
+      { "detailName" : "座席（ざせき）좌석",
+        "detailContJap" : "座席にもどってください",
+        "detailContKor" : "자리로 돌아가 주세요"
+      },
+      { "detailName" : "出席（しゅっせき）출석",
+        "detailContJap" : "この間の講義は出席しなかった",
+        "detailContKor" : "지난번 강의에는 출석하지 않았다"
+      }
+   ]
+},
+{  "subjectName" : "（辶、 己）セン、えら",
+   "mainHanja" : {
+      "top" : "選",
+      "bottom": "가릴 선"
+  },
+   "detailGrp"  : [
+      { "detailName" : "選手（せんしゅ）선수",
+        "detailContJap" : "その選手は足が早い",
+        "detailContKor" : "그 선수는 발이 빠르다"
+      },
+      { "detailName" : "選ぶ（えら）고르다, 뽑다",
+        "detailContJap" : "方法を選ぶ",
+        "detailContKor" : "방법을 택하다"
+      }
+   ]
+},
+{  "subjectName" : "（言、兄）セツ、ゼイ、と",
+   "mainHanja" : {
+      "top" : "説",
+      "bottom": "말씀 설/달랠 세"
+  },
+   "detailGrp"  : [
+      { "detailName" : "説明（せつめい）설명",
+        "detailContJap" : "事を分けて説明する",
+        "detailContKor" : "사정을 조리 있게 설명하다"
+      },
+      { "detailName" : "遊説（ゆうぜい）유세",
+        "detailContJap" : "遊説に出る",
+        "detailContKor" : "유세에 나서다"
+      },
+      { "detailName" : "説く（と）설명하다, 설득하다",
+        "detailContJap" : "言葉の意味を説く",
+        "detailContKor" : "말의 의미를 설명하다"
+      }
+   ]
 }
 
 ]
