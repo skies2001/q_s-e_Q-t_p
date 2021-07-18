@@ -20,7 +20,7 @@
     ,"loadHtmlId" : "#loadHtml"
     ,"loadLinkBtnId" : "#loadLinkBtn"
     ,"mainMenuId" : "#mainMenu"
-    ,"devMod" : true
+    ,"devMod" : false
     ,"linkHtmlNm" : "template0002.html"
     ,"firstLoad" : 1
 
