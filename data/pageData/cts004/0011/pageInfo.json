@@ -43,6 +43,82 @@
         "detailContKor" : "조금이라도 수고를 덜다"
       }
    ]
+},
+{  "subjectName" : "（竹、天）ショウ、わら、え",
+   "mainHanja" : {
+      "top" : "笑",
+      "bottom": "웃을 소"
+  },
+   "detailGrp"  : [
+      { "detailName" : "微笑（びしょう）미소",
+        "detailContJap" : "微笑をふくんだ顔",
+        "detailContKor" : "미소를 머금은 얼굴"
+      },
+      { "detailName" : "笑う（わら）웃다",
+        "detailContJap" : "顔を見合わせてくすくす笑う",
+        "detailContKor" : "얼굴을 마주 보고 킬킬거리다"
+      },
+      { "detailName" : "笑顔（えがお）웃는 얼굴",
+        "detailContJap" : "お客の前では笑顔を作る",
+        "detailContKor" : "손님 앞에서는 웃는 얼굴을 짓다"
+      }
+   ]
+},
+{  "subjectName" : "（火、尭）ショウ、や",
+   "mainHanja" : {
+      "top" : "焼",
+      "bottom": "불사를 소"
+  },
+   "detailGrp"  : [
+      { "detailName" : "焼失（しょうしつ）소실",
+        "detailContJap" : "先年の火事で焼失した",
+        "detailContKor" : "지난 해의 화재로 소실되었다"
+      },
+      { "detailName" : "焼く（や）태우다, 굽다",
+        "detailContJap" : "ごみを焼く",
+        "detailContKor" : "쓰레기를 태우다"
+      },
+      { "detailName" : "焼ける（や）타다, 구워지다",
+        "detailContJap" : "西の空がまっかに焼ける",
+        "detailContKor" : "서쪽 하늘이 빨갛게 물들다"
+      }
+   ]
+},
+{  "subjectName" : "（田、木）ソウ、す",
+   "mainHanja" : {
+      "top" : "巣",
+      "bottom": "새집 소"
+  },
+   "detailGrp"  : [
+      { "detailName" : "卵巣（らんそう）난소",
+        "detailContJap" : "卵巣に嚢種ができる",
+        "detailContKor" : "난소에 낭종이 생기다"
+      },
+      { "detailName" : "病巣（びょうそう）병소",
+        "detailContJap" : "病巣が広がった",
+        "detailContKor" : "병소가 퍼졌다"
+      },
+      { "detailName" : "巣（す）집, 둥지",
+        "detailContJap" : "つばめが軒下に巣を作る",
+        "detailContKor" : "제비가 처마 밑에 집을 짓다"
+      }
+   ]
+},
+{  "subjectName" : "（木）ヤク、たば",
+   "mainHanja" : {
+      "top" : "束",
+      "bottom": "묶을 속"
+  },
+   "detailGrp"  : [
+      { "detailName" : "約束（やくそく）약속",
+        "detailContJap" : "約束の日を間違った",
+        "detailContKor" : "약속 날짜를 잘못 알다"
+      },
+      { "detailName" : "束（たば）다발, 묶음",
+        "detailContJap" : "束になってかかってくる",
+        "detailContKor" : "떼를 지어 덤벼들다"
+      }
+   ]
 }
 
 ]
